@@ -1,8 +1,22 @@
 # Project3_NewMarkets
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 Ironhack week 3: clean your data ! 
 Tatiana & Yuchen 
 
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+
+## Process 
+1. Set up 
+* git repo + fork and clone 
+* readme file
+* download dataset
+
+2. Exploration (via Excel and/or Python)
+* column names and content 
+* describe (values and objects)
+* check duplicates
+* check missing values
+
+
 
 # Clean your data!
 ## Content
@@ -16,16 +30,13 @@ Tatiana & Yuchen
 
 ## Project Description
 
-The goal of this project is to combine everything you have learned about data wrangling, cleaning, and manipulation with Pandas so you can see how it all works together.
+The goal of the project is to combine everything you have learned about data wrangling, cleaning, and manipulation with Pandas so you can see how it all works together.
 
-
----
 
 
 ## Project Goals and Steps
 
 The goals of this project is to apply the data preparation knowledge and to train more in  Python and SQL.
-
 
 - Plan your work
 - Manage your git repository.
