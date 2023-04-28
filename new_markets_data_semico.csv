@@ -1,0 +1,2628 @@
+ID;Gender;Ever_Married;Age;Graduated;Profession;Spending_Score;Age_Category;Family_Size_Cat
+458989;F;Yes;36;Yes;Engineer;Low;Between 30 and 41;1 person
+458994;M;Yes;37;Yes;Healthcare;Average;Between 30 and 41;3 or 4 people
+458996;F;Yes;69;No;;Low;Over 53;1 person
+459000;M;Yes;59;No;Executive;High;Over 53;2 people
+459001;F;No;19;No;Marketing;Low;Under 30;3 or 4 people
+459003;M;Yes;47;Yes;Doctor;High;Between 41 and 53;5 or more people
+459005;M;Yes;61;Yes;Doctor;Low;Over 53;3 or 4 people
+459008;F;Yes;47;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+459013;M;Yes;50;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+459014;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+459015;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+459016;F;No;22;No;Healthcare;Low;Under 30;5 or more people
+459024;M;Yes;50;Yes;Artist;Average;Between 41 and 53;5 or more people
+459026;M;No;27;No;Healthcare;Low;Under 30;3 or 4 people
+459032;M;No;18;No;Doctor;Low;Under 30;3 or 4 people
+459033;F;Yes;61;Yes;Artist;Low;Over 53;1 person
+459036;F;Yes;20;Yes;Lawyer;Average;Under 30;3 or 4 people
+459039;M;Yes;45;Yes;Artist;Average;Between 41 and 53;2 people
+459041;M;Yes;55;Yes;Artist;Low;Over 53;1 person
+459045;F;Yes;88;Yes;Lawyer;Average;Over 53;3 or 4 people
+459056;M;Yes;63;No;Executive;High;Over 53;3 or 4 people
+459057;M;Yes;69;No;Lawyer;High;Over 53;2 people
+459058;M;No;42;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+459059;M;Yes;79;No;Executive;High;Over 53;2 people
+459061;F;Yes;35;Yes;Healthcare;High;Between 30 and 41;3 or 4 people
+459064;M;Yes;27;No;Executive;High;Under 30;3 or 4 people
+459065;M;Yes;52;Yes;Engineer;Low;Between 41 and 53;2 people
+459074;F;No;29;Yes;Healthcare;Low;Under 30;3 or 4 people
+459077;F;Yes;79;No;Lawyer;High;Over 53;2 people
+459079;M;Yes;87;Yes;Lawyer;High;Over 53;2 people
+459080;M;Yes;89;No;Lawyer;Low;Over 53;2 people
+459083;M;Yes;63;Yes;Artist;Average;Over 53;3 or 4 people
+459090;M;No;31;No;Artist;Low;Between 30 and 41;2 people
+459091;M;Yes;72;Yes;Artist;Average;Over 53;5 or more people
+459093;F;Yes;41;Yes;Doctor;Average;Between 30 and 41;2 people
+459100;F;No;61;Yes;Artist;Low;Over 53;1 person
+459106;M;Yes;62;Yes;Artist;Low;Over 53;2 people
+459114;M;Yes;56;Yes;Artist;Average;Over 53;2 people
+459116;M;Yes;60;Yes;Artist;Average;Over 53;5 or more people
+459117;M;Yes;68;Yes;Artist;High;Over 53;2 people
+459118;M;No;19;No;Healthcare;Low;Under 30;5 or more people
+459119;M;Yes;57;Yes;Executive;High;Over 53;3 or 4 people
+459120;M;No;19;No;Healthcare;Low;Under 30;5 or more people
+459121;F;Yes;51;Yes;Artist;Average;Between 41 and 53;5 or more people
+459123;F;Yes;86;No;Artist;High;Over 53;2 people
+459130;F;Yes;74;No;Lawyer;High;Over 53;2 people
+459132;M;No;23;No;Entertainment;Low;Under 30;2 people
+459136;M;Yes;47;Yes;Artist;Average;Between 41 and 53;2 people
+459140;F;No;19;No;Healthcare;Low;Under 30;5 or more people
+459143;M;Yes;50;No;Artist;High;Between 41 and 53;3 or 4 people
+459144;M;Yes;80;Yes;Lawyer;High;Over 53;2 people
+459145;M;Yes;78;No;Lawyer;Low;Over 53;1 person
+459150;F;No;48;Yes;Doctor;Low;Between 41 and 53;1 person
+459160;M;Yes;70;Yes;Doctor;Average;Over 53;2 people
+459161;M;Yes;50;Yes;Executive;High;Between 41 and 53;5 or more people
+459162;F;Yes;83;Yes;Lawyer;High;Over 53;2 people
+459163;M;No;35;Yes;Entertainment;Low;Between 30 and 41;1 person
+459167;F;No;36;Yes;Artist;Low;Between 30 and 41;2 people
+459170;F;No;35;Yes;Artist;Low;Between 30 and 41;1 person
+459171;M;Yes;35;Yes;Artist;Average;Between 30 and 41;2 people
+459172;M;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+459175;F;Yes;73;Yes;Artist;Average;Over 53;2 people
+459181;M;Yes;62;No;Artist;High;Over 53;3 or 4 people
+459182;F;Yes;46;Yes;Artist;Average;Between 41 and 53;2 people
+459184;M;Yes;43;Yes;Entertainment;Low;Between 41 and 53;3 or 4 people
+459185;F;No;32;Yes;Entertainment;Low;Between 30 and 41;1 person
+459193;M;No;39;Yes;Artist;Low;Between 30 and 41;1 person
+459194;F;Yes;89;Yes;Lawyer;High;Over 53;2 people
+459196;F;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+459208;F;Yes;57;Yes;Artist;High;Over 53;2 people
+459209;F;No;18;No;Entertainment;Low;Under 30;3 or 4 people
+459210;F;Yes;71;Yes;Artist;High;Over 53;2 people
+459212;F;Yes;69;Yes;Artist;Average;Over 53;2 people
+459213;F;No;42;Yes;Healthcare;Low;Between 41 and 53;3 or 4 people
+459216;F;No;36;Yes;Artist;Low;Between 30 and 41;2 people
+459220;F;Yes;80;Yes;Lawyer;High;Over 53;2 people
+459221;M;Yes;69;No;Entertainment;Low;Over 53;1 person
+459222;F;Yes;67;Yes;Artist;Average;Over 53;3 or 4 people
+459223;F;Yes;47;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+459224;F;Yes;49;Yes;Artist;Average;Between 41 and 53;2 people
+459227;F;Yes;32;No;Engineer;Low;Between 30 and 41;3 or 4 people
+459229;F;Yes;65;Yes;Lawyer;Average;Over 53;3 or 4 people
+459236;F;Yes;78;No;Lawyer;High;Over 53;2 people
+459237;M;No;33;Yes;Artist;Low;Between 30 and 41;5 or more people
+459244;M;Yes;48;Yes;Artist;Low;Between 41 and 53;1 person
+459247;M;Yes;58;Yes;Executive;Average;Over 53;5 or more people
+459258;F;Yes;83;Yes;Lawyer;High;Over 53;2 people
+459263;F;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+459264;F;No;35;Yes;Artist;Low;Between 30 and 41;2 people
+459266;M;No;32;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+459270;M;Yes;69;Yes;Homemaker;High;Over 53;2 people
+459284;F;Yes;71;Yes;Lawyer;High;Over 53;2 people
+459287;M;No;43;Yes;Lawyer;Low;Between 41 and 53;1 person
+459288;M;Yes;37;Yes;Artist;Low;Between 30 and 41;2 people
+459289;M;No;42;Yes;Doctor;Low;Between 41 and 53;1 person
+459290;F;Yes;70;Yes;Doctor;Average;Over 53;2 people
+459292;M;No;46;Yes;Artist;Low;Between 41 and 53;2 people
+459293;M;No;21;No;Healthcare;Low;Under 30;2 people
+459296;M;Yes;70;Yes;Artist;Average;Over 53;2 people
+459300;F;Yes;61;Yes;Artist;Low;Over 53;2 people
+459307;M;Yes;60;Yes;Entertainment;Low;Over 53;1 person
+459310;M;No;37;Yes;Entertainment;Low;Between 30 and 41;2 people
+459316;M;Yes;30;Yes;Healthcare;Low;Under 30;2 people
+459318;F;No;32;Yes;Engineer;Low;Between 30 and 41;3 or 4 people
+459320;M;Yes;26;Yes;Executive;Low;Under 30;3 or 4 people
+459322;M;No;42;Yes;Marketing;Low;Between 41 and 53;1 person
+459323;F;No;18;No;Doctor;Low;Under 30;2 people
+459338;M;Yes;80;No;Executive;Low;Over 53;2 people
+459339;M;Yes;29;Yes;Healthcare;High;Under 30;2 people
+459344;F;Yes;88;Yes;Artist;High;Over 53;2 people
+459347;M;Yes;70;Yes;Lawyer;Low;Over 53;1 person
+459349;F;Yes;50;Yes;Artist;High;Between 41 and 53;3 or 4 people
+459352;M;Yes;43;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+459353;M;Yes;51;Yes;Artist;Average;Between 41 and 53;2 people
+459354;F;Yes;50;Yes;Artist;High;Between 41 and 53;3 or 4 people
+459355;F;Yes;74;No;Homemaker;Low;Over 53;1 person
+459360;F;No;29;Yes;Healthcare;Low;Under 30;3 or 4 people
+459361;F;No;32;Yes;Engineer;Low;Between 30 and 41;2 people
+459362;M;Yes;60;No;Executive;Low;Over 53;2 people
+459363;M;No;46;Yes;Artist;Low;Between 41 and 53;1 person
+459364;F;Yes;81;Yes;Marketing;Low;Over 53;2 people
+459369;M;Yes;41;No;Engineer;Average;Between 30 and 41;5 or more people
+459375;M;Yes;22;No;Executive;High;Under 30;3 or 4 people
+459377;M;Yes;37;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+459383;M;Yes;43;No;Engineer;Low;Between 41 and 53;1 person
+459384;M;Yes;50;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+459385;F;Yes;35;Yes;Artist;Average;Between 30 and 41;2 people
+459386;M;Yes;65;No;Lawyer;High;Over 53;2 people
+459391;F;No;41;Yes;Engineer;Low;Between 30 and 41;3 or 4 people
+459394;M;No;28;No;Entertainment;Low;Under 30;2 people
+459397;M;Yes;55;Yes;Artist;Average;Over 53;2 people
+459398;F;Yes;58;No;Lawyer;High;Over 53;2 people
+459401;M;No;28;No;Healthcare;Low;Under 30;3 or 4 people
+459403;M;Yes;48;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+459405;F;Yes;78;No;Doctor;High;Over 53;2 people
+459407;F;No;35;Yes;Doctor;Low;Between 30 and 41;3 or 4 people
+459409;F;Yes;76;Yes;Lawyer;High;Over 53;2 people
+459410;F;Yes;88;Yes;Lawyer;High;Over 53;2 people
+459412;M;Yes;61;Yes;;Average;Over 53;3 or 4 people
+459413;F;Yes;79;Yes;Artist;High;Over 53;2 people
+459415;M;No;30;No;Doctor;Low;Under 30;3 or 4 people
+459418;M;Yes;69;No;Executive;High;Over 53;2 people
+459419;M;Yes;65;Yes;Doctor;Average;Over 53;2 people
+459420;F;Yes;70;Yes;Lawyer;Low;Over 53;2 people
+459421;M;Yes;32;No;Healthcare;Average;Between 30 and 41;3 or 4 people
+459422;M;Yes;46;Yes;Entertainment;Low;Between 41 and 53;3 or 4 people
+459423;M;No;21;No;Healthcare;Low;Under 30;5 or more people
+459424;M;Yes;47;Yes;Doctor;Low;Between 41 and 53;3 or 4 people
+459428;F;No;39;No;Marketing;Low;Between 30 and 41;2 people
+459432;M;Yes;85;Yes;Lawyer;Low;Over 53;3 or 4 people
+459436;F;No;66;Yes;Artist;Low;Over 53;2 people
+459439;F;Yes;50;Yes;Artist;Average;Between 41 and 53;2 people
+459445;F;Yes;42;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+459447;M;Yes;53;Yes;Artist;Low;Over 53;1 person
+459449;M;Yes;37;Yes;Artist;Low;Between 30 and 41;2 people
+459451;F;Yes;45;Yes;Artist;Low;Between 41 and 53;2 people
+459456;F;No;66;No;Lawyer;Low;Over 53;1 person
+459458;M;No;33;No;Marketing;Low;Between 30 and 41;2 people
+459459;M;Yes;40;Yes;Artist;Low;Between 30 and 41;1 person
+459461;F;Yes;35;Yes;Artist;Low;Between 30 and 41;1 person
+459464;M;No;27;Yes;Artist;Low;Under 30;2 people
+459466;F;Yes;48;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+459467;F;Yes;56;Yes;Artist;Average;Over 53;2 people
+459469;M;Yes;25;Yes;Healthcare;Low;Under 30;5 or more people
+459471;F;No;30;No;Artist;Low;Under 30;5 or more people
+459480;F;Yes;46;Yes;Entertainment;Low;Between 41 and 53;3 or 4 people
+459481;M;Yes;49;No;Lawyer;Low;Between 41 and 53;2 people
+459482;M;Yes;72;No;Marketing;Low;Over 53;3 or 4 people
+459485;F;Yes;79;Yes;Lawyer;High;Over 53;2 people
+459496;F;No;35;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+459497;F;Yes;77;Yes;Lawyer;Low;Over 53;1 person
+459499;F;Yes;79;No;Lawyer;High;Over 53;2 people
+459503;M;Yes;42;Yes;Healthcare;High;Between 41 and 53;3 or 4 people
+459505;F;No;42;Yes;Engineer;Low;Between 41 and 53;1 person
+459507;M;Yes;67;No;Lawyer;High;Over 53;2 people
+459509;M;No;26;Yes;Healthcare;Low;Under 30;1 person
+459512;M;Yes;67;Yes;Lawyer;High;Over 53;2 people
+459515;M;Yes;55;Yes;Engineer;Low;Over 53;1 person
+459516;F;;56;Yes;Artist;Average;Over 53;2 people
+459518;M;Yes;63;;;Average;Over 53;3 or 4 people
+459535;M;Yes;46;Yes;Artist;Average;Between 41 and 53;2 people
+459536;M;Yes;32;Yes;Healthcare;Low;Between 30 and 41;2 people
+459538;F;No;49;Yes;Homemaker;Low;Between 41 and 53;1 person
+459541;M;Yes;59;Yes;Artist;High;Over 53;2 people
+459549;M;No;22;No;Healthcare;Low;Under 30;5 or more people
+459555;F;No;28;Yes;Artist;Low;Under 30;1 person
+459558;M;No;28;Yes;Entertainment;Low;Under 30;3 or 4 people
+459564;M;Yes;75;Yes;Lawyer;Low;Over 53;1 person
+459566;F;Yes;37;Yes;Artist;Low;Between 30 and 41;2 people
+459567;M;Yes;50;Yes;Doctor;Average;Between 41 and 53;2 people
+459571;F;Yes;50;Yes;Executive;High;Between 41 and 53;3 or 4 people
+459576;F;Yes;88;No;Lawyer;Low;Over 53;2 people
+459579;F;Yes;35;Yes;Artist;Average;Between 30 and 41;5 or more people
+459581;F;No;35;No;;Low;Between 30 and 41;2 people
+459582;M;Yes;31;No;Entertainment;Average;Between 30 and 41;3 or 4 people
+459583;M;Yes;46;Yes;Artist;Low;Between 41 and 53;1 person
+459585;F;Yes;50;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+459587;F;No;33;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+459588;M;Yes;49;Yes;Artist;Low;Between 41 and 53;1 person
+459591;M;Yes;52;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+459592;M;No;25;No;Healthcare;Low;Under 30;3 or 4 people
+459594;F;Yes;41;Yes;Artist;Low;Between 30 and 41;1 person
+459597;F;Yes;68;Yes;Artist;High;Over 53;2 people
+459603;F;Yes;79;No;Lawyer;High;Over 53;2 people
+459607;M;Yes;40;Yes;Entertainment;Average;Between 30 and 41;5 or more people
+459608;F;No;62;Yes;Doctor;Low;Over 53;1 person
+459612;M;No;21;No;Healthcare;Low;Under 30;2 people
+459616;F;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+459617;M;No;28;Yes;Entertainment;Low;Under 30;5 or more people
+459618;M;Yes;57;Yes;Doctor;Average;Over 53;2 people
+459621;F;No;25;No;Healthcare;Low;Under 30;2 people
+459625;F;Yes;63;No;Engineer;Low;Over 53;1 person
+459626;F;Yes;26;No;Entertainment;Low;Under 30;3 or 4 people
+459632;F;Yes;50;No;Marketing;High;Between 41 and 53;3 or 4 people
+459644;F;No;30;No;Marketing;Low;Under 30;3 or 4 people
+459652;F;No;26;No;Engineer;Low;Under 30;3 or 4 people
+459658;M;Yes;61;Yes;Artist;Average;Over 53;3 or 4 people
+459664;M;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+459665;M;Yes;88;Yes;Artist;Low;Over 53;2 people
+459672;M;Yes;45;No;Artist;Average;Between 41 and 53;3 or 4 people
+459673;F;Yes;86;Yes;Lawyer;Low;Over 53;1 person
+459678;M;No;18;No;Healthcare;Low;Under 30;5 or more people
+459680;M;No;37;Yes;Entertainment;Low;Between 30 and 41;1 person
+459686;M;Yes;46;Yes;Artist;Low;Between 41 and 53;1 person
+459691;M;Yes;58;No;Artist;Average;Over 53;2 people
+459692;F;Yes;72;Yes;Lawyer;High;Over 53;2 people
+459693;F;Yes;50;Yes;Artist;High;Between 41 and 53;3 or 4 people
+459699;F;;56;Yes;Engineer;Average;Over 53;3 or 4 people
+459701;M;No;46;No;Artist;Low;Between 41 and 53;3 or 4 people
+459710;M;Yes;57;Yes;Artist;Low;Over 53;1 person
+459711;M;Yes;42;No;Executive;High;Between 41 and 53;5 or more people
+459712;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+459713;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+459715;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+459718;M;Yes;68;Yes;Executive;Low;Over 53;1 person
+459725;F;Yes;40;Yes;Artist;Low;Between 30 and 41;2 people
+459727;M;Yes;82;No;Lawyer;High;Over 53;2 people
+459740;F;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+459742;F;Yes;84;No;Lawyer;High;Over 53;2 people
+459745;M;Yes;51;No;Artist;Low;Between 41 and 53;3 or 4 people
+459746;M;;59;Yes;Artist;Average;Over 53;2 people
+459747;F;Yes;41;Yes;Artist;Average;Between 30 and 41;5 or more people
+459748;M;Yes;51;No;Executive;High;Between 41 and 53;2 people
+459755;F;Yes;62;No;Artist;Average;Over 53;3 or 4 people
+459756;F;Yes;62;No;Lawyer;High;Over 53;3 or 4 people
+459760;F;Yes;38;Yes;Artist;Low;Between 30 and 41;1 person
+459763;M;No;18;No;Artist;Low;Under 30;3 or 4 people
+459767;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+459771;F;;30;Yes;Doctor;Low;Under 30;3 or 4 people
+459779;F;Yes;62;Yes;Entertainment;Low;Over 53;1 person
+459780;F;No;43;No;Entertainment;Low;Between 41 and 53;3 or 4 people
+459785;F;No;32;Yes;Engineer;Low;Between 30 and 41;1 person
+459793;M;Yes;37;Yes;Artist;High;Between 30 and 41;2 people
+459795;M;No;48;Yes;Artist;Low;Between 41 and 53;1 person
+459801;F;No;31;Yes;Engineer;Low;Between 30 and 41;2 people
+459804;M;Yes;46;No;Artist;High;Between 41 and 53;3 or 4 people
+459806;F;Yes;49;No;Engineer;Average;Between 41 and 53;3 or 4 people
+459808;M;Yes;43;No;Doctor;Average;Between 41 and 53;3 or 4 people
+459815;M;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+459816;M;Yes;37;Yes;Doctor;Low;Between 30 and 41;2 people
+459819;M;Yes;72;Yes;Entertainment;High;Over 53;2 people
+459821;M;;71;No;Executive;High;Over 53;1 person
+459822;F;No;39;Yes;Engineer;Low;Between 30 and 41;1 person
+459825;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+459827;F;No;26;No;;Low;Under 30;1 person
+459832;M;Yes;72;Yes;Executive;Low;Over 53;1 person
+459845;M;Yes;70;Yes;Healthcare;Low;Over 53;1 person
+459851;M;No;45;Yes;Artist;Low;Between 41 and 53;1 person
+459853;M;No;33;No;Executive;Low;Between 30 and 41;5 or more people
+459856;M;Yes;50;No;Entertainment;Average;Between 41 and 53;3 or 4 people
+459857;M;No;31;Yes;Entertainment;Low;Between 30 and 41;1 person
+459861;F;Yes;74;No;Lawyer;High;Over 53;2 people
+459864;F;Yes;68;No;Artist;High;Over 53;2 people
+459866;F;No;49;Yes;Artist;Low;Between 41 and 53;1 person
+459867;M;Yes;49;Yes;Marketing;High;Between 41 and 53;2 people
+459869;F;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+459871;F;Yes;85;No;Entertainment;Average;Over 53;2 people
+459885;F;No;38;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+459886;M;Yes;28;No;Artist;Low;Under 30;3 or 4 people
+459887;M;Yes;46;No;Artist;Average;Between 41 and 53;2 people
+459889;M;Yes;59;Yes;Homemaker;Average;Over 53;3 or 4 people
+459897;F;Yes;56;Yes;Artist;Low;Over 53;2 people
+459909;M;Yes;69;Yes;Artist;Low;Over 53;1 person
+459910;M;Yes;66;Yes;Artist;Low;Over 53;2 people
+459911;M;No;18;No;Healthcare;Low;Under 30;5 or more people
+459914;M;No;36;Yes;Artist;Low;Between 30 and 41;1 person
+459923;M;No;31;Yes;Marketing;Low;Between 30 and 41;2 people
+459925;M;Yes;67;No;Executive;High;Over 53;2 people
+459937;F;No;39;Yes;Artist;Low;Between 30 and 41;1 person
+459943;M;No;42;Yes;Entertainment;Low;Between 41 and 53;3 or 4 people
+459945;M;Yes;50;Yes;Artist;Low;Between 41 and 53;2 people
+459946;F;Yes;37;Yes;Artist;Average;Between 30 and 41;2 people
+459949;F;No;59;Yes;Artist;Low;Over 53;1 person
+459953;M;Yes;50;Yes;Artist;Low;Between 41 and 53;2 people
+459961;M;Yes;48;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+459962;M;Yes;55;Yes;Artist;Low;Over 53;1 person
+459966;F;No;33;Yes;Doctor;Low;Between 30 and 41;3 or 4 people
+459968;M;No;38;Yes;Artist;Low;Between 30 and 41;1 person
+459970;M;No;43;Yes;Artist;Low;Between 41 and 53;2 people
+459973;F;No;53;Yes;Artist;Low;Over 53;2 people
+459974;M;No;37;Yes;Entertainment;Low;Between 30 and 41;1 person
+459975;F;No;36;Yes;Artist;Low;Between 30 and 41;1 person
+459981;M;No;36;Yes;Artist;Low;Between 30 and 41;1 person
+459986;M;Yes;62;Yes;Artist;Low;Over 53;1 person
+459995;F;No;38;No;Artist;Low;Between 30 and 41;2 people
+459996;M;No;55;Yes;Entertainment;Low;Over 53;1 person
+459998;M;Yes;60;No;Entertainment;Average;Over 53;2 people
+460004;F;Yes;36;Yes;Entertainment;Average;Between 30 and 41;2 people
+460006;M;No;30;No;Entertainment;Low;Under 30;5 or more people
+460014;F;No;66;No;Entertainment;Low;Over 53;3 or 4 people
+460023;M;Yes;45;Yes;Entertainment;Low;Between 41 and 53;1 person
+460027;F;No;40;Yes;Entertainment;Low;Between 30 and 41;2 people
+460033;F;;45;Yes;Entertainment;Low;Between 41 and 53;3 or 4 people
+460036;M;Yes;41;Yes;;Low;Between 30 and 41;1 person
+460040;F;Yes;62;Yes;Homemaker;Low;Over 53;1 person
+460045;M;Yes;61;Yes;Artist;Low;Over 53;2 people
+460046;F;Yes;50;Yes;Artist;Low;Between 41 and 53;2 people
+460050;M;Yes;53;Yes;Entertainment;Low;Over 53;2 people
+460051;M;No;39;Yes;Artist;Low;Between 30 and 41;1 person
+460052;F;No;86;Yes;Lawyer;Low;Over 53;1 person
+460058;M;Yes;50;Yes;Artist;Low;Between 41 and 53;1 person
+460059;F;No;46;No;Entertainment;Low;Between 41 and 53;2 people
+460061;M;No;52;Yes;Marketing;Low;Between 41 and 53;1 person
+460066;F;No;45;No;Marketing;Low;Between 41 and 53;1 person
+460068;F;No;37;Yes;Artist;Low;Between 30 and 41;1 person
+460073;F;Yes;36;Yes;Engineer;Low;Between 30 and 41;1 person
+460075;F;No;25;Yes;Artist;Low;Under 30;1 person
+460079;F;No;40;No;Doctor;Low;Between 30 and 41;1 person
+460081;M;Yes;41;Yes;Artist;High;Between 30 and 41;2 people
+460088;F;Yes;25;Yes;Homemaker;High;Under 30;2 people
+460090;M;Yes;80;No;Lawyer;Average;Over 53;2 people
+460093;F;No;46;Yes;Artist;Low;Between 41 and 53;1 person
+460095;F;Yes;81;Yes;Lawyer;Low;Over 53;1 person
+460097;M;;40;Yes;Artist;Low;Between 30 and 41;2 people
+460099;M;No;49;Yes;;Low;Between 41 and 53;1 person
+460101;F;No;26;Yes;Healthcare;Low;Under 30;3 or 4 people
+460103;M;No;26;Yes;Artist;Low;Under 30;1 person
+460105;F;No;47;Yes;Artist;Low;Between 41 and 53;1 person
+460106;F;Yes;71;Yes;Entertainment;Low;Over 53;2 people
+460107;M;Yes;48;Yes;Engineer;Average;Between 41 and 53;5 or more people
+460108;M;Yes;39;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+460109;M;Yes;50;Yes;Artist;Average;Between 41 and 53;2 people
+460110;F;No;46;Yes;Artist;Low;Between 41 and 53;2 people
+460112;M;Yes;26;Yes;Engineer;Average;Under 30;2 people
+460116;F;Yes;42;Yes;;Low;Between 41 and 53;2 people
+460118;F;Yes;36;Yes;Artist;Low;Between 30 and 41;2 people
+460119;M;No;29;Yes;Healthcare;Low;Under 30;3 or 4 people
+460122;F;No;39;No;Artist;Low;Between 30 and 41;1 person
+460124;F;No;41;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+460126;F;Yes;48;Yes;Marketing;Low;Between 41 and 53;2 people
+460134;M;Yes;40;Yes;Entertainment;High;Between 30 and 41;3 or 4 people
+460135;F;No;25;Yes;Healthcare;Low;Under 30;3 or 4 people
+460140;F;Yes;41;Yes;Artist;Low;Between 30 and 41;2 people
+460141;M;No;37;Yes;Artist;Low;Between 30 and 41;1 person
+460144;F;No;53;Yes;Doctor;Low;Over 53;2 people
+460146;F;Yes;51;Yes;Engineer;Average;Between 41 and 53;3 or 4 people
+460147;M;Yes;73;Yes;Entertainment;Average;Over 53;3 or 4 people
+460157;M;Yes;61;No;;Low;Over 53;5 or more people
+460160;M;No;39;Yes;Entertainment;Low;Between 30 and 41;1 person
+460162;F;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+460166;F;No;19;No;Healthcare;Low;Under 30;5 or more people
+460167;F;No;23;No;Entertainment;Low;Under 30;5 or more people
+460168;M;Yes;83;Yes;Executive;High;Over 53;2 people
+460171;F;Yes;62;Yes;Artist;High;Over 53;2 people
+460174;F;No;43;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+460175;F;No;27;No;Artist;Low;Under 30;5 or more people
+460177;M;No;50;Yes;Artist;Low;Between 41 and 53;1 person
+460179;F;No;23;No;Entertainment;Low;Under 30;5 or more people
+460183;M;No;35;No;Entertainment;Low;Between 30 and 41;2 people
+460185;M;No;32;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+460187;F;No;42;Yes;Doctor;Low;Between 41 and 53;3 or 4 people
+460189;M;No;33;No;Entertainment;Low;Between 30 and 41;1 person
+460190;F;No;28;Yes;Entertainment;Low;Under 30;3 or 4 people
+460192;M;Yes;35;Yes;;Low;Between 30 and 41;2 people
+460196;F;No;35;Yes;Healthcare;Low;Between 30 and 41;2 people
+460206;F;Yes;39;Yes;Entertainment;Low;Between 30 and 41;2 people
+460211;M;Yes;28;;Artist;Low;Under 30;1 person
+460212;M;Yes;35;Yes;Entertainment;Low;Between 30 and 41;5 or more people
+460214;F;Yes;45;Yes;Engineer;Average;Between 41 and 53;2 people
+460222;F;;73;Yes;Lawyer;High;Over 53;2 people
+460223;M;No;52;No;Entertainment;Low;Between 41 and 53;1 person
+460227;M;No;28;No;Healthcare;Low;Under 30;3 or 4 people
+460242;M;Yes;38;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+460243;F;No;42;Yes;Entertainment;Low;Between 41 and 53;1 person
+460247;F;No;26;No;Doctor;Low;Under 30;2 people
+460248;F;No;27;Yes;Healthcare;Low;Under 30;2 people
+460252;M;Yes;41;Yes;Artist;Low;Between 30 and 41;2 people
+460263;M;Yes;41;Yes;Artist;Low;Between 30 and 41;2 people
+460265;M;Yes;47;Yes;Executive;High;Between 41 and 53;3 or 4 people
+460270;M;No;35;Yes;Doctor;Low;Between 30 and 41;1 person
+460272;F;No;88;Yes;Lawyer;Low;Over 53;1 person
+460275;F;No;46;Yes;Artist;Low;Between 41 and 53;1 person
+460276;F;Yes;41;Yes;Artist;Low;Between 30 and 41;2 people
+460281;F;No;30;Yes;Doctor;Low;Under 30;5 or more people
+460283;M;Yes;43;Yes;Doctor;Low;Between 41 and 53;2 people
+460284;F;No;29;Yes;Entertainment;Low;Under 30;2 people
+460287;M;Yes;48;Yes;Artist;Low;Between 41 and 53;1 person
+460289;F;Yes;61;Yes;Artist;Average;Over 53;5 or more people
+460298;F;No;51;Yes;Lawyer;Low;Between 41 and 53;1 person
+460303;F;No;38;Yes;Artist;Low;Between 30 and 41;1 person
+460305;F;;49;Yes;Entertainment;High;Between 41 and 53;1 person
+460306;F;No;43;Yes;Healthcare;Low;Between 41 and 53;1 person
+460310;M;No;27;No;Healthcare;Low;Under 30;3 or 4 people
+460315;F;No;35;No;Doctor;Low;Between 30 and 41;5 or more people
+460319;F;Yes;39;No;Doctor;Average;Between 30 and 41;2 people
+460322;F;Yes;52;No;Engineer;Low;Between 41 and 53;2 people
+460323;F;No;38;Yes;Engineer;Low;Between 30 and 41;1 person
+460324;F;No;30;Yes;Entertainment;Low;Under 30;2 people
+460327;F;No;43;Yes;Artist;Low;Between 41 and 53;1 person
+460333;F;No;42;No;Entertainment;Low;Between 41 and 53;3 or 4 people
+460336;F;No;46;Yes;Artist;Low;Between 41 and 53;1 person
+460340;F;No;47;Yes;Artist;Low;Between 41 and 53;2 people
+460341;F;No;32;No;Entertainment;Low;Between 30 and 41;5 or more people
+460344;F;Yes;53;Yes;Artist;Average;Over 53;2 people
+460346;F;Yes;43;Yes;Artist;Average;Between 41 and 53;2 people
+460348;F;No;39;Yes;Artist;Low;Between 30 and 41;2 people
+460349;M;;42;Yes;Artist;Average;Between 41 and 53;2 people
+460354;F;No;37;Yes;Artist;Low;Between 30 and 41;1 person
+460356;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+460358;M;No;30;No;Marketing;Low;Under 30;1 person
+460361;F;Yes;49;Yes;Artist;Low;Between 41 and 53;1 person
+460362;M;Yes;55;Yes;Healthcare;Low;Over 53;3 or 4 people
+460365;F;Yes;59;Yes;Doctor;Low;Over 53;2 people
+460369;F;Yes;46;Yes;Artist;Low;Between 41 and 53;2 people
+460370;F;Yes;27;Yes;Executive;High;Under 30;2 people
+460371;F;No;25;Yes;Artist;Low;Under 30;2 people
+460378;F;No;37;Yes;Doctor;Low;Between 30 and 41;1 person
+460379;M;No;38;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+460380;M;No;29;Yes;Entertainment;Low;Under 30;3 or 4 people
+460381;M;No;28;Yes;Artist;Low;Under 30;2 people
+460384;F;Yes;27;Yes;Marketing;Low;Under 30;2 people
+460387;F;No;42;No;Entertainment;Low;Between 41 and 53;2 people
+460388;F;No;43;Yes;Artist;Low;Between 41 and 53;2 people
+460389;F;Yes;40;Yes;Healthcare;Average;Between 30 and 41;2 people
+460390;M;No;41;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+460392;M;Yes;46;No;Entertainment;Low;Between 41 and 53;1 person
+460394;F;No;32;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+460397;F;No;56;Yes;Entertainment;Low;Over 53;1 person
+460399;M;No;28;Yes;Marketing;Low;Under 30;1 person
+460401;F;No;25;Yes;Artist;Low;Under 30;3 or 4 people
+460404;M;Yes;42;Yes;Artist;Low;Between 41 and 53;5 or more people
+460405;F;No;41;Yes;Entertainment;Low;Between 30 and 41;2 people
+460406;M;Yes;36;Yes;Healthcare;Low;Between 30 and 41;2 people
+460408;F;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+460409;F;No;42;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+460415;F;No;55;Yes;Entertainment;Low;Over 53;2 people
+460422;M;Yes;52;Yes;Entertainment;High;Between 41 and 53;2 people
+460431;F;No;47;Yes;Engineer;Low;Between 41 and 53;1 person
+460434;M;;57;Yes;Artist;High;Over 53;3 or 4 people
+460437;F;No;26;Yes;Artist;Low;Under 30;1 person
+460440;F;No;28;No;Artist;Low;Under 30;2 people
+460443;F;No;37;Yes;Doctor;Low;Between 30 and 41;1 person
+460447;M;;89;No;Lawyer;Low;Over 53;1 person
+460449;M;No;25;No;Marketing;Low;Under 30;1 person
+460450;M;Yes;50;Yes;Executive;High;Between 41 and 53;3 or 4 people
+460453;F;No;42;Yes;Doctor;Low;Between 41 and 53;1 person
+460454;M;No;48;Yes;Artist;Low;Between 41 and 53;1 person
+460457;F;No;37;Yes;Entertainment;Low;Between 30 and 41;2 people
+460459;F;No;30;No;Engineer;Low;Under 30;5 or more people
+460460;M;Yes;26;No;Entertainment;Low;Under 30;3 or 4 people
+460467;F;Yes;47;Yes;Artist;Average;Between 41 and 53;2 people
+460470;M;No;36;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+460476;M;Yes;53;No;Doctor;Average;Over 53;3 or 4 people
+460477;M;No;30;No;Entertainment;Low;Under 30;5 or more people
+460484;F;No;20;No;Healthcare;Low;Under 30;5 or more people
+460485;F;No;19;No;Marketing;Low;Under 30;5 or more people
+460489;M;No;19;No;Healthcare;Low;Under 30;5 or more people
+460492;F;No;37;No;Marketing;Low;Between 30 and 41;2 people
+460495;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+460504;M;;39;No;Executive;Average;Between 30 and 41;3 or 4 people
+460505;F;No;26;Yes;Engineer;Low;Under 30;3 or 4 people
+460507;M;No;31;No;Doctor;Low;Between 30 and 41;3 or 4 people
+460508;M;Yes;31;Yes;Healthcare;High;Between 30 and 41;3 or 4 people
+460518;F;Yes;41;Yes;Engineer;Average;Between 30 and 41;3 or 4 people
+460522;F;Yes;32;No;Homemaker;Average;Between 30 and 41;2 people
+460541;F;Yes;42;Yes;Homemaker;Average;Between 41 and 53;3 or 4 people
+460542;F;Yes;89;No;Lawyer;Low;Over 53;2 people
+460545;M;Yes;78;No;Lawyer;High;Over 53;3 or 4 people
+460546;F;Yes;65;Yes;Lawyer;Low;Over 53;2 people
+460547;F;Yes;48;Yes;Homemaker;Average;Between 41 and 53;2 people
+460549;M;No;36;Yes;Artist;Low;Between 30 and 41;2 people
+460550;F;Yes;55;Yes;Artist;Average;Over 53;3 or 4 people
+460551;M;Yes;52;Yes;Engineer;Average;Between 41 and 53;2 people
+460555;M;Yes;52;Yes;Homemaker;Average;Between 41 and 53;3 or 4 people
+460556;F;Yes;41;Yes;;Low;Between 30 and 41;1 person
+460558;F;Yes;36;Yes;Engineer;Low;Between 30 and 41;1 person
+460561;F;No;37;No;Engineer;Low;Between 30 and 41;1 person
+460563;F;No;40;No;Healthcare;Low;Between 30 and 41;2 people
+460566;M;Yes;38;Yes;Homemaker;Average;Between 30 and 41;2 people
+460571;M;No;25;No;Doctor;Low;Under 30;3 or 4 people
+460572;F;No;33;Yes;Engineer;Low;Between 30 and 41;3 or 4 people
+460574;M;No;26;Yes;Artist;Low;Under 30;1 person
+460582;F;No;28;No;Entertainment;Low;Under 30;1 person
+460583;M;No;18;No;Marketing;Low;Under 30;5 or more people
+460585;M;No;52;No;Entertainment;Low;Between 41 and 53;3 or 4 people
+460586;M;No;26;Yes;Healthcare;Low;Under 30;2 people
+460588;M;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+460597;F;No;20;No;Marketing;Low;Under 30;2 people
+460598;F;Yes;36;Yes;Doctor;Average;Between 30 and 41;3 or 4 people
+460605;M;Yes;27;Yes;Doctor;Average;Under 30;2 people
+460606;M;No;21;No;Healthcare;Low;Under 30;5 or more people
+460612;M;No;27;Yes;Entertainment;Low;Under 30;3 or 4 people
+460615;F;No;28;Yes;Healthcare;Low;Under 30;2 people
+460618;M;Yes;63;Yes;Lawyer;Low;Over 53;3 or 4 people
+460619;M;No;48;Yes;Entertainment;Low;Between 41 and 53;2 people
+460621;M;Yes;80;Yes;Lawyer;Low;Over 53;2 people
+460622;F;Yes;71;Yes;Lawyer;High;Over 53;3 or 4 people
+460626;M;Yes;47;No;Doctor;High;Between 41 and 53;3 or 4 people
+460627;F;No;22;No;;Low;Under 30;3 or 4 people
+460633;M;Yes;35;Yes;;High;Between 30 and 41;2 people
+460634;F;No;40;No;Entertainment;Low;Between 30 and 41;5 or more people
+460637;F;No;18;No;Healthcare;Low;Under 30;2 people
+460638;F;No;26;Yes;Artist;Low;Under 30;3 or 4 people
+460639;F;Yes;73;Yes;Lawyer;Low;Over 53;5 or more people
+460640;M;Yes;86;;Lawyer;Low;Over 53;1 person
+460645;F;No;37;No;Doctor;Low;Between 30 and 41;2 people
+460646;M;Yes;59;Yes;Entertainment;Low;Over 53;2 people
+460653;F;No;28;No;Homemaker;Low;Under 30;1 person
+460656;F;Yes;29;Yes;Artist;Low;Under 30;3 or 4 people
+460658;F;Yes;37;Yes;Marketing;Average;Between 30 and 41;3 or 4 people
+460659;F;Yes;46;Yes;Marketing;Average;Between 41 and 53;3 or 4 people
+460660;M;No;39;;Entertainment;Low;Between 30 and 41;1 person
+460661;F;No;33;No;Homemaker;Low;Between 30 and 41;1 person
+460668;F;No;32;Yes;Doctor;Low;Between 30 and 41;2 people
+460678;F;No;32;No;Doctor;Low;Between 30 and 41;2 people
+460686;F;;25;No;Homemaker;Low;Under 30;1 person
+460687;F;Yes;48;Yes;Homemaker;Average;Between 41 and 53;2 people
+460691;F;No;27;No;Homemaker;Low;Under 30;1 person
+460702;F;No;49;Yes;Artist;Low;Between 41 and 53;1 person
+460703;F;Yes;33;Yes;Engineer;Average;Between 30 and 41;5 or more people
+460706;F;No;33;No;Engineer;Low;Between 30 and 41;5 or more people
+460708;M;Yes;39;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+460716;M;Yes;50;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+460719;F;Yes;84;Yes;Lawyer;Low;Over 53;2 people
+460720;F;Yes;46;Yes;Artist;Average;Between 41 and 53;2 people
+460722;M;Yes;31;No;Entertainment;Average;Between 30 and 41;3 or 4 people
+460726;M;Yes;57;Yes;Artist;Average;Over 53;2 people
+460727;M;Yes;73;No;Executive;High;Over 53;3 or 4 people
+460729;M;Yes;36;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+460733;M;No;53;Yes;Marketing;Low;Over 53;3 or 4 people
+460734;M;Yes;41;Yes;Entertainment;Average;Between 30 and 41;2 people
+460738;F;No;53;No;Engineer;Low;Over 53;2 people
+460740;M;Yes;35;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+460743;M;Yes;62;Yes;Artist;Average;Over 53;3 or 4 people
+460746;M;No;23;No;Marketing;Low;Under 30;3 or 4 people
+460763;M;No;51;Yes;Artist;Low;Between 41 and 53;2 people
+460769;F;Yes;83;No;Lawyer;High;Over 53;2 people
+460780;F;No;26;Yes;Healthcare;Low;Under 30;2 people
+460783;M;Yes;86;Yes;Lawyer;Low;Over 53;1 person
+460785;M;No;26;Yes;Healthcare;Low;Under 30;3 or 4 people
+460789;M;Yes;42;Yes;Executive;Low;Between 41 and 53;3 or 4 people
+460794;F;Yes;41;Yes;Homemaker;Low;Between 30 and 41;1 person
+460796;M;Yes;67;No;Lawyer;Low;Over 53;3 or 4 people
+460802;M;Yes;68;Yes;Lawyer;High;Over 53;2 people
+460811;F;Yes;45;No;Engineer;High;Between 41 and 53;2 people
+460813;F;Yes;86;No;Lawyer;High;Over 53;2 people
+460815;M;Yes;62;Yes;Artist;High;Over 53;2 people
+460822;M;Yes;42;Yes;Artist;Low;Between 41 and 53;2 people
+460825;M;No;26;Yes;Doctor;Low;Under 30;3 or 4 people
+460828;M;No;48;No;Entertainment;Low;Between 41 and 53;1 person
+460830;M;Yes;40;No;Entertainment;Average;Between 30 and 41;5 or more people
+460831;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+460837;F;No;25;Yes;Artist;Low;Under 30;1 person
+460838;M;No;37;Yes;Artist;Low;Between 30 and 41;2 people
+460840;M;Yes;77;Yes;Lawyer;Low;Over 53;1 person
+460844;M;Yes;50;Yes;Healthcare;Low;Between 41 and 53;2 people
+460846;F;No;22;No;Marketing;Low;Under 30;3 or 4 people
+460847;M;No;26;Yes;Artist;Low;Under 30;3 or 4 people
+460851;M;Yes;71;No;Doctor;Average;Over 53;3 or 4 people
+460855;M;Yes;50;Yes;Artist;Low;Between 41 and 53;2 people
+460857;M;No;29;No;Entertainment;Low;Under 30;1 person
+460859;M;Yes;51;Yes;Entertainment;Low;Between 41 and 53;3 or 4 people
+460860;M;Yes;52;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+460861;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+460866;M;No;26;Yes;Doctor;Low;Under 30;5 or more people
+460870;M;No;37;Yes;Healthcare;Low;Between 30 and 41;2 people
+460871;F;No;33;Yes;Healthcare;Low;Between 30 and 41;2 people
+460872;F;Yes;39;Yes;Artist;Low;Between 30 and 41;2 people
+460877;F;Yes;53;No;Artist;Average;Over 53;5 or more people
+460878;M;Yes;49;No;Entertainment;Average;Between 41 and 53;3 or 4 people
+460882;M;No;21;No;Healthcare;Low;Under 30;2 people
+460888;M;Yes;39;No;Homemaker;Low;Between 30 and 41;1 person
+460891;F;Yes;38;No;Artist;Average;Between 30 and 41;3 or 4 people
+460897;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+460898;M;Yes;52;No;Artist;Average;Between 41 and 53;3 or 4 people
+460899;M;No;40;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+460901;M;No;20;No;Doctor;Low;Under 30;3 or 4 people
+460902;M;No;41;Yes;Executive;Low;Between 30 and 41;3 or 4 people
+460905;M;No;30;Yes;Artist;Low;Under 30;1 person
+460906;F;Yes;89;Yes;Lawyer;High;Over 53;3 or 4 people
+460907;M;Yes;83;No;Lawyer;High;Over 53;3 or 4 people
+460923;M;Yes;53;Yes;Artist;Average;Over 53;3 or 4 people
+460924;M;No;31;No;Doctor;Low;Between 30 and 41;5 or more people
+460928;M;Yes;48;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+460934;F;No;29;No;Doctor;Low;Under 30;2 people
+460935;M;Yes;87;Yes;Lawyer;Low;Over 53;1 person
+460945;M;No;19;No;Engineer;Low;Under 30;5 or more people
+460953;M;Yes;60;No;Entertainment;Low;Over 53;2 people
+460961;M;No;23;No;Healthcare;Low;Under 30;2 people
+460962;M;Yes;61;Yes;Executive;High;Over 53;3 or 4 people
+460963;F;No;27;Yes;Artist;Low;Under 30;3 or 4 people
+460968;M;Yes;32;No;Doctor;Average;Between 30 and 41;2 people
+460975;M;Yes;79;;Lawyer;High;Over 53;2 people
+460976;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+460977;M;Yes;42;Yes;Executive;High;Between 41 and 53;3 or 4 people
+460979;M;Yes;76;No;Lawyer;Low;Over 53;1 person
+460981;F;Yes;41;No;Marketing;Average;Between 30 and 41;2 people
+460984;M;Yes;38;Yes;Entertainment;Average;Between 30 and 41;3 or 4 people
+460988;M;Yes;43;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+460989;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+460991;F;No;28;Yes;Healthcare;Low;Under 30;3 or 4 people
+460993;M;Yes;56;Yes;Artist;Average;Over 53;3 or 4 people
+460999;M;No;28;Yes;Engineer;Low;Under 30;3 or 4 people
+461000;M;Yes;60;No;Marketing;High;Over 53;2 people
+461001;F;No;55;Yes;Artist;Low;Over 53;2 people
+461015;M;Yes;35;Yes;Entertainment;Average;Between 30 and 41;2 people
+461016;M;No;25;No;Healthcare;Low;Under 30;5 or more people
+461022;M;Yes;71;Yes;Artist;Low;Over 53;1 person
+461023;M;Yes;65;No;Lawyer;High;Over 53;2 people
+461024;M;Yes;74;Yes;Lawyer;Low;Over 53;1 person
+461028;F;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+461029;M;Yes;43;No;Entertainment;Low;Between 41 and 53;2 people
+461034;F;No;20;No;Marketing;Low;Under 30;5 or more people
+461037;M;Yes;40;Yes;Healthcare;High;Between 30 and 41;5 or more people
+461038;F;Yes;46;Yes;Engineer;High;Between 41 and 53;5 or more people
+461041;F;Yes;65;No;Lawyer;High;Over 53;5 or more people
+461042;M;No;21;No;Healthcare;Low;Under 30;2 people
+461043;M;Yes;50;No;Healthcare;Low;Between 41 and 53;5 or more people
+461044;M;No;18;No;Healthcare;Low;Under 30;5 or more people
+461049;F;Yes;61;Yes;Doctor;Low;Over 53;5 or more people
+461050;M;Yes;49;Yes;;High;Between 41 and 53;3 or 4 people
+461053;M;Yes;39;No;Executive;High;Between 30 and 41;3 or 4 people
+461059;F;Yes;52;No;Lawyer;High;Between 41 and 53;2 people
+461060;M;Yes;56;Yes;Executive;High;Over 53;5 or more people
+461065;M;Yes;55;Yes;Executive;Low;Over 53;5 or more people
+461071;M;Yes;42;No;Engineer;Average;Between 41 and 53;5 or more people
+461078;F;No;33;No;Homemaker;Low;Between 30 and 41;5 or more people
+461082;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+461085;F;No;27;No;Engineer;Low;Under 30;1 person
+461093;F;Yes;38;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+461099;F;No;38;No;Artist;Low;Between 30 and 41;3 or 4 people
+461111;F;Yes;43;Yes;Doctor;Low;Between 41 and 53;1 person
+461114;M;Yes;53;Yes;Artist;Average;Over 53;3 or 4 people
+461116;M;Yes;33;No;Executive;High;Between 30 and 41;3 or 4 people
+461118;F;No;30;Yes;Healthcare;Low;Under 30;2 people
+461119;F;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+461121;M;No;33;No;Doctor;Low;Between 30 and 41;3 or 4 people
+461124;M;No;21;No;Healthcare;Low;Under 30;5 or more people
+461127;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+461128;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+461129;F;Yes;58;Yes;Entertainment;Average;Over 53;3 or 4 people
+461131;M;Yes;67;Yes;Artist;High;Over 53;2 people
+461145;F;Yes;36;Yes;Entertainment;Low;Between 30 and 41;2 people
+461152;F;No;30;No;Homemaker;Low;Under 30;2 people
+461154;M;No;23;No;Homemaker;Low;Under 30;3 or 4 people
+461158;F;No;42;Yes;Entertainment;Low;Between 41 and 53;2 people
+461162;F;No;37;No;Marketing;Low;Between 30 and 41;3 or 4 people
+461163;F;Yes;58;No;Entertainment;Low;Over 53;3 or 4 people
+461168;F;Yes;26;No;Engineer;Average;Under 30;2 people
+461169;M;No;39;Yes;Entertainment;Low;Between 30 and 41;2 people
+461174;F;No;23;No;Marketing;Low;Under 30;3 or 4 people
+461177;M;Yes;41;No;Executive;Average;Between 30 and 41;3 or 4 people
+461178;M;Yes;26;No;Entertainment;Low;Under 30;3 or 4 people
+461179;F;Yes;25;No;Engineer;Low;Under 30;3 or 4 people
+461181;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+461183;M;No;36;No;Executive;Low;Between 30 and 41;5 or more people
+461187;M;No;29;No;Healthcare;Low;Under 30;3 or 4 people
+461197;M;No;26;No;Marketing;Low;Under 30;1 person
+461198;F;No;78;Yes;Lawyer;Low;Over 53;1 person
+461201;F;No;55;Yes;Artist;Low;Over 53;1 person
+461205;M;No;26;Yes;Healthcare;Low;Under 30;3 or 4 people
+461211;F;No;46;Yes;Entertainment;Low;Between 41 and 53;1 person
+461214;M;No;29;No;Healthcare;Low;Under 30;3 or 4 people
+461215;F;No;36;Yes;Artist;Low;Between 30 and 41;1 person
+461218;M;Yes;27;No;Executive;Low;Under 30;5 or more people
+461220;F;No;29;No;Executive;Low;Under 30;3 or 4 people
+461221;F;No;25;No;Marketing;Low;Under 30;3 or 4 people
+461225;F;No;30;No;Marketing;Low;Under 30;5 or more people
+461226;M;Yes;45;Yes;;Low;Between 41 and 53;2 people
+461230;F;No;21;No;Executive;Low;Under 30;2 people
+461232;F;Yes;41;Yes;Executive;High;Between 30 and 41;2 people
+461233;M;Yes;38;Yes;Entertainment;Low;Between 30 and 41;2 people
+461236;F;No;28;Yes;Healthcare;Low;Under 30;1 person
+461237;M;No;33;Yes;Doctor;Low;Between 30 and 41;5 or more people
+461241;M;Yes;31;Yes;Healthcare;Low;Between 30 and 41;2 people
+461242;M;Yes;45;Yes;Healthcare;Low;Between 41 and 53;2 people
+461243;M;Yes;47;Yes;Marketing;Low;Between 41 and 53;5 or more people
+461248;F;No;39;No;Healthcare;Low;Between 30 and 41;1 person
+461251;F;No;47;Yes;Marketing;Low;Between 41 and 53;2 people
+461252;F;Yes;53;Yes;Doctor;Low;Over 53;1 person
+461256;M;No;27;No;Doctor;Low;Under 30;3 or 4 people
+461257;M;Yes;37;Yes;Engineer;Average;Between 30 and 41;2 people
+461258;F;Yes;62;Yes;Artist;Average;Over 53;3 or 4 people
+461262;F;No;29;No;Engineer;Low;Under 30;5 or more people
+461263;F;Yes;51;Yes;Artist;Low;Between 41 and 53;1 person
+461265;M;No;30;No;Marketing;Low;Under 30;5 or more people
+461269;M;No;18;No;Entertainment;Low;Under 30;3 or 4 people
+461274;F;Yes;87;Yes;Lawyer;High;Over 53;2 people
+461276;M;Yes;68;Yes;Marketing;Low;Over 53;2 people
+461277;M;Yes;84;Yes;Lawyer;Low;Over 53;1 person
+461281;M;No;22;No;Healthcare;Low;Under 30;5 or more people
+461286;F;No;22;No;Doctor;Low;Under 30;3 or 4 people
+461289;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+461292;F;Yes;89;No;Lawyer;High;Over 53;2 people
+461297;M;Yes;73;No;Lawyer;High;Over 53;2 people
+461299;F;Yes;75;Yes;Lawyer;High;Over 53;2 people
+461303;F;No;20;No;Doctor;Low;Under 30;3 or 4 people
+461308;M;No;22;No;Healthcare;Low;Under 30;2 people
+461309;F;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+461313;M;Yes;63;Yes;Artist;Average;Over 53;2 people
+461314;M;Yes;46;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+461319;M;Yes;58;No;Artist;Average;Over 53;2 people
+461320;F;No;41;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+461322;M;Yes;42;Yes;Artist;Average;Between 41 and 53;2 people
+461323;F;Yes;43;Yes;Healthcare;Average;Between 41 and 53;2 people
+461324;F;No;49;Yes;Artist;Low;Between 41 and 53;1 person
+461326;F;No;40;Yes;Artist;Low;Between 30 and 41;1 person
+461335;M;Yes;53;No;Executive;High;Over 53;2 people
+461340;M;Yes;36;Yes;Artist;Average;Between 30 and 41;2 people
+461346;M;Yes;50;Yes;Artist;Low;Between 41 and 53;2 people
+461348;M;Yes;42;Yes;Healthcare;Low;Between 41 and 53;1 person
+461350;M;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+461352;M;No;29;No;Healthcare;Low;Under 30;5 or more people
+461356;M;No;28;Yes;Entertainment;Low;Under 30;2 people
+461357;M;No;27;Yes;Healthcare;Low;Under 30;3 or 4 people
+461363;M;No;49;Yes;Artist;Low;Between 41 and 53;1 person
+461366;M;No;32;Yes;Healthcare;Low;Between 30 and 41;1 person
+461370;M;No;25;Yes;Doctor;Low;Under 30;3 or 4 people
+461377;F;Yes;63;Yes;Artist;Low;Over 53;1 person
+461378;F;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+461379;M;No;31;Yes;Healthcare;Low;Between 30 and 41;2 people
+461383;M;Yes;71;Yes;Artist;High;Over 53;2 people
+461388;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+461397;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+461402;F;No;29;Yes;Entertainment;Low;Under 30;5 or more people
+461408;M;Yes;47;Yes;Marketing;Low;Between 41 and 53;3 or 4 people
+461421;M;Yes;43;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+461423;M;No;32;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+461426;M;Yes;47;Yes;Artist;Average;Between 41 and 53;2 people
+461428;M;No;46;Yes;Artist;Low;Between 41 and 53;1 person
+461432;F;Yes;41;Yes;Artist;Average;Between 30 and 41;2 people
+461437;M;Yes;37;Yes;Entertainment;Average;Between 30 and 41;2 people
+461439;M;Yes;40;Yes;Artist;Average;Between 30 and 41;2 people
+461441;M;Yes;60;Yes;Artist;Average;Over 53;3 or 4 people
+461442;M;Yes;46;Yes;Artist;Average;Between 41 and 53;5 or more people
+461454;F;Yes;36;Yes;Artist;High;Between 30 and 41;3 or 4 people
+461456;F;No;38;No;Marketing;Low;Between 30 and 41;1 person
+461457;F;Yes;32;No;Doctor;Low;Between 30 and 41;5 or more people
+461458;F;No;41;Yes;Artist;Low;Between 30 and 41;1 person
+461462;M;Yes;56;Yes;Marketing;Low;Over 53;3 or 4 people
+461465;M;Yes;31;Yes;Artist;Average;Between 30 and 41;2 people
+461466;M;Yes;45;No;Artist;Low;Between 41 and 53;2 people
+461468;M;Yes;69;Yes;Entertainment;Average;Over 53;3 or 4 people
+461469;M;Yes;37;Yes;Artist;Low;Between 30 and 41;2 people
+461476;M;Yes;47;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+461479;F;Yes;52;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+461480;F;Yes;57;Yes;Artist;High;Over 53;3 or 4 people
+461482;F;No;50;Yes;Artist;Low;Between 41 and 53;1 person
+461494;M;Yes;27;No;Engineer;Average;Under 30;2 people
+461501;F;Yes;45;Yes;Engineer;High;Between 41 and 53;3 or 4 people
+461503;F;No;30;Yes;Artist;Low;Under 30;2 people
+461510;M;Yes;45;Yes;Artist;Low;Between 41 and 53;2 people
+461514;M;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+461516;M;Yes;31;Yes;Entertainment;Average;Between 30 and 41;3 or 4 people
+461518;F;Yes;45;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+461521;M;Yes;67;Yes;Artist;High;Over 53;2 people
+461522;M;Yes;76;No;Executive;High;Over 53;2 people
+461525;M;Yes;69;Yes;Entertainment;Low;Over 53;2 people
+461526;M;Yes;83;No;Entertainment;Low;Over 53;2 people
+461530;M;Yes;38;Yes;Engineer;Low;Between 30 and 41;2 people
+461534;M;Yes;36;Yes;Artist;Low;Between 30 and 41;1 person
+461540;M;No;41;Yes;;Low;Between 30 and 41;2 people
+461546;F;Yes;69;No;Lawyer;Low;Over 53;3 or 4 people
+461548;F;No;33;Yes;Engineer;Low;Between 30 and 41;3 or 4 people
+461553;M;No;38;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+461556;F;Yes;48;Yes;Engineer;Average;Between 41 and 53;2 people
+461558;M;Yes;51;Yes;Engineer;Average;Between 41 and 53;2 people
+461564;M;Yes;56;Yes;Executive;High;Over 53;2 people
+461570;M;Yes;57;Yes;Artist;Average;Over 53;3 or 4 people
+461574;F;Yes;49;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+461587;M;No;30;Yes;Healthcare;Low;Under 30;3 or 4 people
+461593;F;Yes;40;Yes;Doctor;Average;Between 30 and 41;2 people
+461602;F;No;30;Yes;Artist;Low;Under 30;2 people
+461604;M;Yes;38;No;Entertainment;Average;Between 30 and 41;2 people
+461612;F;No;31;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+461615;M;No;33;Yes;Doctor;Low;Between 30 and 41;2 people
+461617;M;No;50;Yes;Artist;Low;Between 41 and 53;2 people
+461619;M;Yes;52;Yes;Executive;High;Between 41 and 53;3 or 4 people
+461624;F;Yes;39;Yes;Artist;Average;Between 30 and 41;2 people
+461626;M;Yes;73;Yes;Executive;High;Over 53;2 people
+461630;M;Yes;46;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+461637;M;Yes;50;Yes;Artist;Low;Between 41 and 53;2 people
+461644;M;No;30;No;Healthcare;Low;Under 30;5 or more people
+461653;F;Yes;60;Yes;Doctor;Average;Over 53;2 people
+461655;F;Yes;39;Yes;Homemaker;Average;Between 30 and 41;2 people
+461658;F;Yes;59;Yes;Artist;Average;Over 53;2 people
+461659;F;Yes;51;Yes;Artist;Average;Between 41 and 53;2 people
+461661;F;Yes;40;Yes;Artist;Average;Between 30 and 41;2 people
+461663;M;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+461668;M;Yes;53;Yes;Artist;Average;Over 53;3 or 4 people
+461671;M;No;32;No;Healthcare;Low;Between 30 and 41;5 or more people
+461674;M;Yes;52;Yes;Executive;High;Between 41 and 53;3 or 4 people
+461676;F;No;31;Yes;Engineer;Low;Between 30 and 41;1 person
+461679;M;No;30;Yes;Healthcare;Low;Under 30;3 or 4 people
+461681;M;No;25;Yes;Healthcare;Low;Under 30;3 or 4 people
+461683;M;Yes;40;Yes;Executive;High;Between 30 and 41;3 or 4 people
+461685;F;No;27;Yes;Healthcare;Low;Under 30;3 or 4 people
+461686;M;Yes;61;Yes;Artist;Low;Over 53;2 people
+461690;F;No;33;Yes;Engineer;Low;Between 30 and 41;1 person
+461694;M;No;28;Yes;Doctor;Low;Under 30;3 or 4 people
+461695;F;Yes;48;Yes;Artist;Average;Between 41 and 53;2 people
+461698;F;Yes;73;Yes;Artist;High;Over 53;2 people
+461701;M;Yes;36;No;Artist;Average;Between 30 and 41;2 people
+461705;F;No;32;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+461708;M;Yes;82;No;Lawyer;High;Over 53;2 people
+461709;M;No;28;Yes;Artist;Low;Under 30;3 or 4 people
+461711;F;No;42;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+461716;F;Yes;60;Yes;Lawyer;High;Over 53;5 or more people
+461720;F;No;46;Yes;Artist;Low;Between 41 and 53;1 person
+461722;M;No;31;No;Doctor;Low;Between 30 and 41;3 or 4 people
+461724;F;Yes;50;Yes;Artist;Low;Between 41 and 53;1 person
+461725;F;No;30;Yes;Engineer;Low;Under 30;1 person
+461727;F;No;49;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+461737;F;Yes;51;Yes;Doctor;Average;Between 41 and 53;5 or more people
+461738;F;Yes;46;Yes;;Average;Between 41 and 53;3 or 4 people
+461744;M;Yes;53;Yes;Artist;Average;Over 53;3 or 4 people
+461747;M;Yes;65;Yes;Artist;High;Over 53;2 people
+461749;F;No;22;No;Healthcare;Low;Under 30;5 or more people
+461752;M;Yes;65;Yes;Doctor;Average;Over 53;3 or 4 people
+461756;F;Yes;39;Yes;Engineer;Average;Between 30 and 41;2 people
+461760;M;Yes;84;Yes;Artist;High;Over 53;2 people
+461769;M;No;37;Yes;Artist;Low;Between 30 and 41;1 person
+461771;M;Yes;28;Yes;Doctor;Average;Under 30;2 people
+461775;F;Yes;82;No;Lawyer;High;Over 53;2 people
+461778;F;Yes;87;Yes;Lawyer;High;Over 53;2 people
+461780;F;No;69;Yes;Lawyer;Low;Over 53;5 or more people
+461782;F;Yes;51;Yes;Artist;High;Between 41 and 53;5 or more people
+461784;F;Yes;74;Yes;Lawyer;Low;Over 53;1 person
+461788;F;Yes;79;Yes;Lawyer;High;Over 53;2 people
+461791;F;No;21;No;Lawyer;Low;Under 30;1 person
+461792;F;No;20;No;Healthcare;Low;Under 30;5 or more people
+461800;F;No;43;Yes;Doctor;Low;Between 41 and 53;1 person
+461801;F;No;25;No;Healthcare;Low;Under 30;3 or 4 people
+461802;M;No;43;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+461804;F;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+461807;M;No;25;Yes;Doctor;Low;Under 30;3 or 4 people
+461815;M;Yes;59;Yes;Artist;Low;Over 53;1 person
+461816;F;No;49;Yes;Marketing;Low;Between 41 and 53;5 or more people
+461821;F;No;32;No;Doctor;Low;Between 30 and 41;3 or 4 people
+461822;M;Yes;36;Yes;Artist;High;Between 30 and 41;2 people
+461824;M;Yes;45;Yes;Marketing;Low;Between 41 and 53;3 or 4 people
+461832;M;No;29;Yes;Healthcare;Low;Under 30;3 or 4 people
+461837;M;Yes;37;Yes;Artist;Low;Between 30 and 41;2 people
+461845;F;Yes;48;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+461846;F;No;65;Yes;Artist;Low;Over 53;2 people
+461848;M;No;39;No;Marketing;Low;Between 30 and 41;2 people
+461858;M;No;25;No;Entertainment;Low;Under 30;5 or more people
+461859;F;Yes;49;No;Artist;Low;Between 41 and 53;5 or more people
+461860;F;Yes;77;Yes;Lawyer;High;Over 53;2 people
+461862;F;No;38;Yes;Artist;Low;Between 30 and 41;1 person
+461864;M;No;19;Yes;Marketing;Low;Under 30;5 or more people
+461872;F;Yes;76;Yes;Lawyer;High;Over 53;2 people
+461873;M;No;28;Yes;Doctor;Low;Under 30;3 or 4 people
+461874;M;Yes;51;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+461882;F;No;28;Yes;Doctor;Low;Under 30;5 or more people
+461892;F;No;42;Yes;Healthcare;Low;Between 41 and 53;1 person
+461896;M;Yes;45;Yes;Artist;Low;Between 41 and 53;1 person
+461898;M;Yes;63;Yes;Executive;High;Over 53;3 or 4 people
+461899;F;No;18;No;Doctor;Low;Under 30;5 or more people
+461901;M;No;26;Yes;Artist;Low;Under 30;3 or 4 people
+461910;M;Yes;31;Yes;Artist;Average;Between 30 and 41;2 people
+461913;M;No;43;Yes;Entertainment;Low;Between 41 and 53;3 or 4 people
+461914;F;Yes;60;Yes;Artist;Low;Over 53;2 people
+461921;F;No;36;Yes;Artist;Low;Between 30 and 41;1 person
+461927;M;No;32;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+461928;M;Yes;68;Yes;Lawyer;Low;Over 53;1 person
+461929;M;Yes;60;Yes;Entertainment;Low;Over 53;1 person
+461930;F;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+461931;F;No;18;No;Healthcare;Low;Under 30;5 or more people
+461936;M;Yes;69;No;Lawyer;High;Over 53;2 people
+461937;F;No;42;Yes;Doctor;Low;Between 41 and 53;2 people
+461941;F;Yes;70;Yes;Artist;Low;Over 53;1 person
+461943;M;No;25;Yes;Healthcare;Low;Under 30;3 or 4 people
+461962;M;Yes;56;Yes;Entertainment;Average;Over 53;3 or 4 people
+461963;F;No;40;Yes;Artist;Low;Between 30 and 41;1 person
+461965;M;No;23;No;Healthcare;Low;Under 30;5 or more people
+461967;F;No;20;No;Marketing;Low;Under 30;3 or 4 people
+461968;F;No;39;Yes;Entertainment;Low;Between 30 and 41;1 person
+461978;F;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+461985;M;No;28;Yes;Entertainment;Low;Under 30;2 people
+461988;M;Yes;40;No;Engineer;Average;Between 30 and 41;2 people
+461989;F;;60;Yes;Engineer;Average;Over 53;3 or 4 people
+461993;M;No;33;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+461994;M;Yes;20;No;Doctor;Low;Under 30;2 people
+461996;F;No;35;No;Artist;Low;Between 30 and 41;3 or 4 people
+461999;M;No;27;Yes;Doctor;Low;Under 30;5 or more people
+462007;F;Yes;42;Yes;Artist;Average;Between 41 and 53;2 people
+462011;M;Yes;30;No;Marketing;Low;Under 30;3 or 4 people
+462013;F;Yes;56;Yes;Executive;Average;Over 53;2 people
+462015;M;Yes;28;Yes;Entertainment;Average;Under 30;2 people
+462016;F;Yes;38;Yes;Artist;Average;Between 30 and 41;2 people
+462017;M;No;26;Yes;Entertainment;Low;Under 30;1 person
+462027;M;No;36;No;Engineer;Low;Between 30 and 41;1 person
+462029;M;No;56;No;Entertainment;Low;Over 53;1 person
+462033;M;No;26;Yes;Entertainment;Low;Under 30;1 person
+462038;M;No;28;Yes;Artist;Low;Under 30;3 or 4 people
+462043;M;No;32;No;Healthcare;Low;Between 30 and 41;5 or more people
+462044;F;No;52;Yes;Artist;Low;Between 41 and 53;1 person
+462048;F;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+462051;M;No;23;No;Healthcare;Low;Under 30;5 or more people
+462052;M;Yes;50;Yes;Artist;Low;Between 41 and 53;2 people
+462053;M;Yes;26;Yes;Artist;Low;Under 30;2 people
+462058;M;Yes;40;Yes;Entertainment;Low;Between 30 and 41;2 people
+462060;F;Yes;53;Yes;Artist;Average;Over 53;2 people
+462064;M;Yes;63;Yes;Artist;Average;Over 53;3 or 4 people
+462068;M;Yes;62;Yes;Executive;High;Over 53;3 or 4 people
+462075;F;No;38;Yes;Artist;Low;Between 30 and 41;1 person
+462078;F;Yes;57;No;Artist;Average;Over 53;2 people
+462080;F;No;43;Yes;Artist;Low;Between 41 and 53;1 person
+462081;M;No;21;No;Marketing;Low;Under 30;3 or 4 people
+462083;M;No;22;No;Healthcare;Low;Under 30;5 or more people
+462084;M;Yes;68;Yes;Artist;Low;Over 53;1 person
+462085;F;No;28;Yes;Healthcare;Low;Under 30;1 person
+462088;M;Yes;33;Yes;Artist;Average;Between 30 and 41;2 people
+462090;F;No;38;Yes;Artist;Low;Between 30 and 41;1 person
+462091;M;No;23;No;Healthcare;Low;Under 30;5 or more people
+462094;F;No;41;Yes;Healthcare;Low;Between 30 and 41;1 person
+462096;F;No;41;Yes;Homemaker;Low;Between 30 and 41;1 person
+462102;F;No;39;Yes;Doctor;Low;Between 30 and 41;1 person
+462103;F;Yes;49;No;Entertainment;High;Between 41 and 53;2 people
+462108;F;Yes;33;Yes;Homemaker;Average;Between 30 and 41;2 people
+462109;M;Yes;79;No;Lawyer;Low;Over 53;1 person
+462111;M;Yes;38;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+462114;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+462116;F;Yes;68;Yes;Doctor;Average;Over 53;2 people
+462118;M;No;31;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+462120;M;Yes;46;No;Artist;Low;Between 41 and 53;3 or 4 people
+462128;M;Yes;35;Yes;Artist;Average;Between 30 and 41;2 people
+462131;F;No;42;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+462134;M;Yes;87;No;Lawyer;Low;Over 53;1 person
+462141;F;No;38;Yes;Artist;Low;Between 30 and 41;1 person
+462149;F;Yes;88;No;Lawyer;High;Over 53;1 person
+462151;F;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+462163;F;Yes;26;Yes;Artist;Average;Under 30;2 people
+462168;M;Yes;35;Yes;Executive;High;Between 30 and 41;3 or 4 people
+462171;F;Yes;41;No;Engineer;High;Between 30 and 41;2 people
+462172;M;Yes;37;Yes;Doctor;Average;Between 30 and 41;2 people
+462174;F;Yes;41;Yes;Engineer;Average;Between 30 and 41;3 or 4 people
+462177;M;No;35;;Artist;Low;Between 30 and 41;5 or more people
+462179;F;No;33;Yes;Marketing;Low;Between 30 and 41;5 or more people
+462180;F;Yes;61;Yes;Engineer;Average;Over 53;3 or 4 people
+462186;F;No;19;No;Doctor;Low;Under 30;3 or 4 people
+462187;F;No;50;Yes;Artist;Low;Between 41 and 53;1 person
+462188;F;Yes;48;No;Engineer;Average;Between 41 and 53;3 or 4 people
+462196;M;Yes;57;No;Marketing;Average;Over 53;3 or 4 people
+462197;F;Yes;72;No;Engineer;Average;Over 53;3 or 4 people
+462198;F;No;39;No;Engineer;Low;Between 30 and 41;2 people
+462200;F;Yes;49;Yes;Doctor;Low;Between 41 and 53;3 or 4 people
+462202;F;No;41;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+462203;M;Yes;65;No;Executive;High;Over 53;5 or more people
+462204;F;No;22;No;Marketing;Low;Under 30;3 or 4 people
+462205;F;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+462209;F;Yes;41;No;Artist;Low;Between 30 and 41;1 person
+462210;F;Yes;42;Yes;Engineer;Low;Between 41 and 53;3 or 4 people
+462211;M;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+462214;M;Yes;49;No;Doctor;Low;Between 41 and 53;2 people
+462216;F;Yes;40;No;Doctor;Low;Between 30 and 41;2 people
+462218;M;Yes;50;No;Executive;Average;Between 41 and 53;5 or more people
+462220;F;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+462222;M;No;22;No;Healthcare;Low;Under 30;5 or more people
+462229;M;No;23;No;;Low;Under 30;5 or more people
+462231;M;No;27;Yes;Artist;Low;Under 30;5 or more people
+462232;M;Yes;55;No;Executive;High;Over 53;5 or more people
+462234;M;Yes;32;No;;Average;Between 30 and 41;5 or more people
+462238;M;Yes;57;No;Entertainment;Low;Over 53;2 people
+462240;M;Yes;80;No;Lawyer;High;Over 53;2 people
+462243;M;Yes;43;No;Executive;Low;Between 41 and 53;3 or 4 people
+462246;F;Yes;79;No;Lawyer;High;Over 53;2 people
+462249;M;No;25;No;Entertainment;Low;Under 30;3 or 4 people
+462256;F;Yes;58;Yes;Homemaker;Average;Over 53;3 or 4 people
+462257;F;Yes;78;Yes;Lawyer;High;Over 53;2 people
+462260;M;Yes;76;Yes;Lawyer;Low;Over 53;2 people
+462262;M;No;27;No;Healthcare;Low;Under 30;3 or 4 people
+462274;M;Yes;47;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+462275;M;Yes;43;Yes;Artist;Average;Between 41 and 53;2 people
+462278;M;No;31;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+462279;M;No;27;No;Healthcare;Low;Under 30;5 or more people
+462280;M;No;31;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+462281;M;Yes;46;Yes;Artist;Low;Between 41 and 53;2 people
+462284;M;Yes;48;Yes;Executive;Average;Between 41 and 53;3 or 4 people
+462285;M;Yes;51;Yes;Doctor;Low;Between 41 and 53;2 people
+462286;M;Yes;57;No;Doctor;Average;Over 53;2 people
+462290;F;No;30;Yes;Doctor;Low;Under 30;1 person
+462291;F;No;37;Yes;Marketing;Low;Between 30 and 41;3 or 4 people
+462297;F;No;31;Yes;Artist;Low;Between 30 and 41;2 people
+462300;M;Yes;49;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+462304;M;Yes;56;Yes;Artist;Low;Over 53;3 or 4 people
+462306;M;Yes;83;No;Lawyer;High;Over 53;2 people
+462309;M;No;32;Yes;Healthcare;Low;Between 30 and 41;1 person
+462310;M;Yes;63;Yes;Artist;Average;Over 53;3 or 4 people
+462323;F;Yes;71;Yes;Doctor;Average;Over 53;2 people
+462336;M;Yes;50;No;Artist;Low;Between 41 and 53;3 or 4 people
+462339;M;No;31;Yes;Artist;Low;Between 30 and 41;5 or more people
+462340;M;Yes;60;No;Entertainment;Average;Over 53;5 or more people
+462342;F;Yes;71;Yes;Lawyer;High;Over 53;2 people
+462345;M;Yes;49;Yes;Doctor;Average;Between 41 and 53;5 or more people
+462346;M;Yes;74;Yes;Lawyer;Low;Over 53;1 person
+462349;M;Yes;51;Yes;Artist;Average;Between 41 and 53;5 or more people
+462355;M;Yes;61;No;Entertainment;Low;Over 53;2 people
+462356;M;No;46;Yes;Engineer;Low;Between 41 and 53;3 or 4 people
+462358;M;Yes;39;No;Doctor;Average;Between 30 and 41;2 people
+462365;M;Yes;85;Yes;Lawyer;High;Over 53;2 people
+462368;F;Yes;31;Yes;Artist;Average;Between 30 and 41;2 people
+462370;M;Yes;39;Yes;Executive;High;Between 30 and 41;3 or 4 people
+462381;F;Yes;48;No;Doctor;High;Between 41 and 53;2 people
+462382;M;Yes;71;Yes;Lawyer;High;Over 53;2 people
+462384;F;No;31;Yes;Healthcare;Low;Between 30 and 41;1 person
+462386;F;No;32;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+462389;F;Yes;55;No;Engineer;Low;Over 53;1 person
+462395;M;Yes;46;Yes;Artist;High;Between 41 and 53;2 people
+462396;M;Yes;53;Yes;Doctor;Average;Over 53;2 people
+462397;M;Yes;50;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+462400;M;No;45;Yes;Artist;Low;Between 41 and 53;1 person
+462401;M;Yes;33;No;Executive;Average;Between 30 and 41;2 people
+462409;F;Yes;29;No;Engineer;Low;Under 30;2 people
+462411;M;No;35;Yes;Artist;Low;Between 30 and 41;1 person
+462415;M;No;25;No;Doctor;Low;Under 30;1 person
+462420;M;No;26;Yes;Healthcare;Low;Under 30;3 or 4 people
+462421;M;No;48;Yes;Artist;Low;Between 41 and 53;2 people
+462423;M;Yes;66;No;Lawyer;High;Over 53;3 or 4 people
+462424;F;Yes;38;No;Artist;Low;Between 30 and 41;3 or 4 people
+462428;M;Yes;65;Yes;Entertainment;Average;Over 53;3 or 4 people
+462429;M;Yes;87;No;Lawyer;Low;Over 53;1 person
+462445;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+462446;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+462447;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+462450;M;No;18;No;Healthcare;Low;Under 30;2 people
+462451;M;No;18;No;Marketing;Low;Under 30;5 or more people
+462452;M;No;19;No;Healthcare;Low;Under 30;2 people
+462454;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+462456;M;No;22;No;Healthcare;Low;Under 30;5 or more people
+462457;M;No;31;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+462463;M;Yes;63;No;Artist;Average;Over 53;2 people
+462472;M;No;43;Yes;Artist;Low;Between 41 and 53;1 person
+462473;M;No;73;No;Engineer;Low;Over 53;2 people
+462485;F;Yes;39;No;Engineer;Low;Between 30 and 41;2 people
+462488;M;No;31;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+462491;M;No;31;Yes;Artist;Low;Between 30 and 41;5 or more people
+462492;M;Yes;43;No;Artist;Average;Between 41 and 53;3 or 4 people
+462496;M;Yes;52;No;Artist;Average;Between 41 and 53;3 or 4 people
+462498;F;Yes;63;Yes;Doctor;Average;Over 53;3 or 4 people
+462503;M;Yes;51;Yes;Executive;High;Between 41 and 53;3 or 4 people
+462508;M;Yes;35;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+462512;F;Yes;32;No;Entertainment;Average;Between 30 and 41;2 people
+462517;F;Yes;39;Yes;Homemaker;High;Between 30 and 41;3 or 4 people
+462518;F;No;25;No;Healthcare;Low;Under 30;5 or more people
+462519;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+462521;F;No;33;No;Homemaker;Low;Between 30 and 41;1 person
+462522;M;Yes;36;No;Executive;Average;Between 30 and 41;5 or more people
+462524;F;Yes;35;Yes;Doctor;Low;Between 30 and 41;2 people
+462525;F;Yes;42;Yes;Artist;Average;Between 41 and 53;2 people
+462526;F;Yes;52;Yes;Artist;Average;Between 41 and 53;5 or more people
+462529;F;Yes;42;Yes;Engineer;Low;Between 41 and 53;2 people
+462531;F;Yes;57;No;Homemaker;High;Over 53;2 people
+462533;F;No;30;Yes;Entertainment;Low;Under 30;3 or 4 people
+462538;F;Yes;73;Yes;Lawyer;High;Over 53;2 people
+462541;M;Yes;66;Yes;Engineer;High;Over 53;2 people
+462542;F;Yes;62;Yes;Artist;Average;Over 53;5 or more people
+462543;F;Yes;36;Yes;Artist;Low;Between 30 and 41;1 person
+462545;M;No;33;No;Engineer;Low;Between 30 and 41;3 or 4 people
+462554;M;No;28;No;Healthcare;Low;Under 30;5 or more people
+462561;F;Yes;48;Yes;Artist;Average;Between 41 and 53;2 people
+462563;F;Yes;53;Yes;Artist;Average;Over 53;2 people
+462566;F;Yes;27;No;Doctor;Low;Under 30;2 people
+462577;F;Yes;71;No;Marketing;High;Over 53;2 people
+462578;M;Yes;35;Yes;Artist;Average;Between 30 and 41;2 people
+462580;F;No;41;Yes;Artist;Low;Between 30 and 41;1 person
+462584;F;Yes;39;No;Entertainment;Low;Between 30 and 41;3 or 4 people
+462587;F;Yes;79;No;Lawyer;High;Over 53;2 people
+462589;F;No;29;No;Engineer;Low;Under 30;5 or more people
+462595;F;No;33;Yes;Artist;Low;Between 30 and 41;5 or more people
+462596;F;No;31;No;Healthcare;Low;Between 30 and 41;2 people
+462600;M;Yes;25;No;Engineer;Average;Under 30;3 or 4 people
+462607;F;;43;No;Engineer;Average;Between 41 and 53;3 or 4 people
+462609;F;Yes;52;No;Doctor;Low;Between 41 and 53;1 person
+462611;M;Yes;41;No;Executive;High;Between 30 and 41;5 or more people
+462612;F;Yes;27;No;Doctor;High;Under 30;5 or more people
+462613;F;Yes;39;No;Engineer;Average;Between 30 and 41;5 or more people
+462615;M;No;32;No;Doctor;Low;Between 30 and 41;5 or more people
+462617;M;No;19;No;Healthcare;Low;Under 30;5 or more people
+462619;M;;58;No;;High;Over 53;2 people
+462625;M;No;30;Yes;Artist;Low;Under 30;3 or 4 people
+462626;F;No;31;Yes;Engineer;Low;Between 30 and 41;5 or more people
+462632;F;Yes;43;No;Engineer;Average;Between 41 and 53;3 or 4 people
+462637;F;Yes;63;No;Marketing;Average;Over 53;5 or more people
+462643;F;Yes;37;Yes;Engineer;Average;Between 30 and 41;3 or 4 people
+462654;M;Yes;37;No;Artist;Average;Between 30 and 41;5 or more people
+462658;F;Yes;31;Yes;Homemaker;Average;Between 30 and 41;2 people
+462668;F;No;38;Yes;Artist;Low;Between 30 and 41;1 person
+462669;F;Yes;41;Yes;Entertainment;High;Between 30 and 41;5 or more people
+462678;F;Yes;45;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+462680;M;Yes;35;Yes;Doctor;Average;Between 30 and 41;3 or 4 people
+462683;F;Yes;43;No;Engineer;Low;Between 41 and 53;5 or more people
+462685;F;No;33;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+462687;M;No;26;No;Homemaker;Low;Under 30;3 or 4 people
+462692;F;Yes;39;No;Artist;Average;Between 30 and 41;2 people
+462696;M;Yes;49;No;Artist;High;Between 41 and 53;2 people
+462697;M;;47;No;;Average;Between 41 and 53;2 people
+462702;M;Yes;53;No;Entertainment;Average;Over 53;3 or 4 people
+462704;M;Yes;52;Yes;Executive;High;Between 41 and 53;5 or more people
+462705;F;Yes;66;No;Lawyer;Average;Over 53;2 people
+462716;M;No;26;No;Entertainment;Low;Under 30;2 people
+462720;M;Yes;38;Yes;Marketing;Low;Between 30 and 41;5 or more people
+462722;F;No;25;No;Homemaker;Low;Under 30;3 or 4 people
+462723;F;Yes;53;No;Artist;Average;Over 53;2 people
+462727;F;Yes;87;No;Lawyer;High;Over 53;2 people
+462729;M;No;28;No;Healthcare;Low;Under 30;2 people
+462731;F;Yes;37;Yes;Artist;High;Between 30 and 41;3 or 4 people
+462732;F;Yes;42;Yes;Artist;Low;Between 41 and 53;1 person
+462735;F;Yes;25;No;Artist;Average;Under 30;2 people
+462736;F;Yes;33;No;Engineer;Low;Between 30 and 41;3 or 4 people
+462738;F;No;33;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+462739;M;Yes;46;Yes;Artist;Low;Between 41 and 53;2 people
+462743;M;No;33;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+462746;M;No;26;No;Entertainment;Low;Under 30;3 or 4 people
+462747;M;No;32;No;Doctor;Low;Between 30 and 41;3 or 4 people
+462752;F;No;25;No;Healthcare;Low;Under 30;1 person
+462755;F;No;18;No;Healthcare;Low;Under 30;2 people
+462756;F;No;22;No;Engineer;Low;Under 30;3 or 4 people
+462761;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+462762;M;Yes;46;Yes;Artist;High;Between 41 and 53;3 or 4 people
+462767;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+462768;M;Yes;45;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+462776;F;Yes;52;Yes;Engineer;Average;Between 41 and 53;3 or 4 people
+462785;F;Yes;42;Yes;Engineer;Average;Between 41 and 53;5 or more people
+462788;M;Yes;47;No;Entertainment;Average;Between 41 and 53;3 or 4 people
+462792;M;Yes;45;No;Homemaker;Average;Between 41 and 53;3 or 4 people
+462799;M;No;32;No;Healthcare;Low;Between 30 and 41;2 people
+462804;M;Yes;41;No;Executive;High;Between 30 and 41;3 or 4 people
+462807;F;No;28;Yes;Homemaker;Low;Under 30;1 person
+462810;M;Yes;37;No;Executive;High;Between 30 and 41;3 or 4 people
+462814;F;Yes;20;No;Engineer;Average;Under 30;2 people
+462817;F;Yes;73;Yes;Lawyer;Low;Over 53;1 person
+462819;M;Yes;51;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+462823;M;Yes;18;Yes;Engineer;Average;Under 30;3 or 4 people
+462824;M;Yes;42;No;Engineer;Average;Between 41 and 53;3 or 4 people
+462826;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+462827;F;No;23;No;Doctor;Low;Under 30;3 or 4 people
+462834;M;Yes;31;Yes;Homemaker;Low;Between 30 and 41;2 people
+462838;F;Yes;33;Yes;Homemaker;Low;Between 30 and 41;3 or 4 people
+462841;M;No;21;No;Healthcare;Low;Under 30;5 or more people
+462845;M;Yes;51;Yes;Doctor;Average;Between 41 and 53;5 or more people
+462849;M;Yes;47;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+462850;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+462853;M;No;21;No;Healthcare;Low;Under 30;2 people
+462854;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+462858;F;No;32;Yes;Engineer;Low;Between 30 and 41;3 or 4 people
+462861;F;No;30;Yes;Healthcare;Low;Under 30;1 person
+462866;M;Yes;61;Yes;Doctor;Low;Over 53;1 person
+462868;M;Yes;43;No;Entertainment;Average;Between 41 and 53;3 or 4 people
+462869;M;No;25;Yes;Doctor;Low;Under 30;1 person
+462871;M;Yes;46;No;Entertainment;Average;Between 41 and 53;3 or 4 people
+462872;F;Yes;53;No;Engineer;Low;Over 53;2 people
+462874;M;Yes;55;Yes;Doctor;High;Over 53;2 people
+462887;F;Yes;42;No;Engineer;Low;Between 41 and 53;3 or 4 people
+462890;F;No;26;Yes;Marketing;Low;Under 30;1 person
+462891;M;No;29;No;Healthcare;Low;Under 30;3 or 4 people
+462894;M;Yes;39;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+462900;M;Yes;38;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+462903;M;Yes;69;Yes;Entertainment;Average;Over 53;2 people
+462905;F;No;25;No;Artist;Low;Under 30;3 or 4 people
+462914;F;No;26;Yes;Artist;Low;Under 30;3 or 4 people
+462920;M;Yes;51;No;Executive;High;Between 41 and 53;5 or more people
+462923;M;Yes;30;No;Homemaker;Average;Under 30;2 people
+462925;F;Yes;28;No;Homemaker;Average;Under 30;2 people
+462927;F;No;33;No;Homemaker;Low;Between 30 and 41;2 people
+462936;F;No;41;Yes;Engineer;Low;Between 30 and 41;1 person
+462941;M;No;71;No;Lawyer;Low;Over 53;2 people
+462944;M;Yes;42;Yes;Executive;High;Between 41 and 53;3 or 4 people
+462951;M;Yes;71;Yes;Lawyer;Low;Over 53;1 person
+462956;M;Yes;35;No;Artist;Average;Between 30 and 41;5 or more people
+462958;M;No;28;No;Marketing;Low;Under 30;5 or more people
+462963;M;Yes;31;Yes;Artist;Average;Between 30 and 41;2 people
+462966;M;Yes;43;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+462968;F;Yes;77;No;Lawyer;High;Over 53;2 people
+462971;F;Yes;71;Yes;Engineer;Low;Over 53;1 person
+462976;F;Yes;47;Yes;Engineer;Average;Between 41 and 53;2 people
+462981;F;No;26;No;Homemaker;Low;Under 30;1 person
+462982;M;Yes;40;No;Doctor;Average;Between 30 and 41;3 or 4 people
+462983;F;Yes;72;Yes;Lawyer;High;Over 53;2 people
+462984;F;Yes;73;Yes;Artist;High;Over 53;2 people
+462986;M;No;26;Yes;Healthcare;Low;Under 30;5 or more people
+462992;F;Yes;57;Yes;Engineer;High;Over 53;3 or 4 people
+462993;M;Yes;30;No;Artist;Average;Under 30;3 or 4 people
+462994;F;Yes;36;No;Artist;Average;Between 30 and 41;3 or 4 people
+462998;M;Yes;52;No;Entertainment;Average;Between 41 and 53;3 or 4 people
+463003;M;Yes;42;Yes;Artist;Average;Between 41 and 53;2 people
+463012;M;Yes;52;No;Engineer;Low;Between 41 and 53;1 person
+463020;M;Yes;28;Yes;Artist;Average;Under 30;3 or 4 people
+463023;F;Yes;43;No;Homemaker;Low;Between 41 and 53;1 person
+463024;M;No;43;Yes;Artist;Low;Between 41 and 53;1 person
+463028;M;No;25;No;Doctor;Low;Under 30;3 or 4 people
+463030;M;Yes;52;Yes;Executive;High;Between 41 and 53;3 or 4 people
+463034;F;No;28;Yes;Homemaker;Low;Under 30;1 person
+463037;M;Yes;56;Yes;Entertainment;Average;Over 53;3 or 4 people
+463039;M;Yes;38;No;Executive;High;Between 30 and 41;5 or more people
+463040;M;Yes;83;No;Lawyer;High;Over 53;2 people
+463044;M;Yes;82;Yes;Lawyer;High;Over 53;2 people
+463047;M;Yes;32;Yes;Homemaker;Low;Between 30 and 41;2 people
+463051;F;No;35;Yes;Homemaker;Low;Between 30 and 41;1 person
+463052;M;Yes;40;Yes;Marketing;Low;Between 30 and 41;2 people
+463058;F;No;25;Yes;Homemaker;Low;Under 30;1 person
+463062;F;Yes;39;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+463069;M;No;25;Yes;Artist;Low;Under 30;1 person
+463075;M;Yes;52;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+463080;M;No;33;No;Artist;Low;Between 30 and 41;3 or 4 people
+463083;M;No;28;Yes;Artist;Low;Under 30;3 or 4 people
+463085;F;No;43;Yes;Artist;Low;Between 41 and 53;1 person
+463086;M;No;30;Yes;Artist;Low;Under 30;2 people
+463088;F;Yes;84;Yes;Lawyer;High;Over 53;2 people
+463089;M;Yes;48;Yes;Executive;High;Between 41 and 53;3 or 4 people
+463090;F;Yes;55;No;Engineer;Average;Over 53;2 people
+463091;F;Yes;37;Yes;Homemaker;Low;Between 30 and 41;1 person
+463094;M;Yes;38;Yes;Engineer;Average;Between 30 and 41;3 or 4 people
+463096;F;No;28;Yes;Doctor;Low;Under 30;3 or 4 people
+463099;M;Yes;86;Yes;Lawyer;Low;Over 53;1 person
+463100;F;No;35;No;Homemaker;Low;Between 30 and 41;1 person
+463102;M;No;35;No;Entertainment;Low;Between 30 and 41;2 people
+463104;F;Yes;46;No;Lawyer;Low;Between 41 and 53;1 person
+463106;F;Yes;79;Yes;Lawyer;Low;Over 53;1 person
+463108;M;Yes;63;Yes;Lawyer;High;Over 53;2 people
+463118;F;Yes;50;Yes;Doctor;High;Between 41 and 53;3 or 4 people
+463120;F;No;35;Yes;Entertainment;Low;Between 30 and 41;1 person
+463129;M;Yes;65;No;Doctor;Low;Over 53;1 person
+463133;M;Yes;50;No;Artist;Average;Between 41 and 53;3 or 4 people
+463138;F;No;27;No;Homemaker;Low;Under 30;2 people
+463144;M;Yes;45;Yes;Executive;High;Between 41 and 53;3 or 4 people
+463145;F;No;36;Yes;Homemaker;Low;Between 30 and 41;3 or 4 people
+463146;M;Yes;43;No;Entertainment;Average;Between 41 and 53;2 people
+463148;M;Yes;62;Yes;Marketing;High;Over 53;5 or more people
+463149;M;Yes;57;Yes;Artist;Average;Over 53;2 people
+463150;M;No;51;No;Marketing;Low;Between 41 and 53;1 person
+463151;M;Yes;59;Yes;Artist;Low;Over 53;1 person
+463154;F;Yes;27;No;Artist;Low;Under 30;3 or 4 people
+463156;F;Yes;83;No;Lawyer;High;Over 53;2 people
+463157;M;Yes;50;Yes;Entertainment;Low;Between 41 and 53;3 or 4 people
+463158;M;Yes;75;Yes;Executive;High;Over 53;3 or 4 people
+463163;M;No;28;No;Executive;Low;Under 30;2 people
+463164;M;Yes;39;Yes;Artist;Average;Between 30 and 41;2 people
+463165;F;Yes;69;Yes;Doctor;Average;Over 53;2 people
+463166;F;No;41;Yes;Artist;Low;Between 30 and 41;1 person
+463170;F;;28;Yes;Healthcare;Low;Under 30;5 or more people
+463171;F;Yes;39;No;Entertainment;High;Between 30 and 41;3 or 4 people
+463173;M;No;47;Yes;Artist;Low;Between 41 and 53;1 person
+463174;F;Yes;62;Yes;Engineer;Low;Over 53;1 person
+463175;F;;41;No;Engineer;Low;Between 30 and 41;3 or 4 people
+463181;M;Yes;49;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+463187;F;Yes;52;Yes;Artist;Low;Between 41 and 53;2 people
+463192;F;Yes;48;No;Entertainment;Average;Between 41 and 53;2 people
+463195;F;No;26;Yes;Healthcare;Low;Under 30;2 people
+463196;F;Yes;72;Yes;Engineer;Low;Over 53;1 person
+463199;F;Yes;47;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+463201;F;No;19;No;Healthcare;Low;Under 30;2 people
+463203;F;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+463204;M;No;39;No;Entertainment;Low;Between 30 and 41;1 person
+463209;F;No;52;Yes;Artist;Low;Between 41 and 53;1 person
+463218;M;Yes;37;No;Entertainment;Average;Between 30 and 41;3 or 4 people
+463219;M;Yes;51;No;Entertainment;Low;Between 41 and 53;2 people
+463220;M;Yes;48;No;Engineer;Average;Between 41 and 53;3 or 4 people
+463221;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+463224;M;Yes;47;Yes;Executive;High;Between 41 and 53;3 or 4 people
+463240;F;Yes;45;No;Engineer;Average;Between 41 and 53;3 or 4 people
+463242;F;No;29;No;Engineer;Low;Under 30;2 people
+463244;F;Yes;47;No;Doctor;Low;Between 41 and 53;1 person
+463245;M;Yes;41;Yes;Entertainment;Average;Between 30 and 41;2 people
+463248;F;Yes;32;No;Homemaker;Average;Between 30 and 41;3 or 4 people
+463251;M;Yes;31;No;Marketing;Low;Between 30 and 41;3 or 4 people
+463256;M;No;20;No;Marketing;Low;Under 30;3 or 4 people
+463258;F;Yes;46;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+463260;M;Yes;70;Yes;Lawyer;Low;Over 53;1 person
+463265;M;Yes;65;Yes;Artist;Average;Over 53;3 or 4 people
+463266;F;Yes;68;;Artist;Average;Over 53;2 people
+463267;M;Yes;29;No;Homemaker;Low;Under 30;1 person
+463269;M;Yes;41;Yes;Entertainment;Average;Between 30 and 41;2 people
+463270;M;Yes;50;No;Executive;Low;Between 41 and 53;5 or more people
+463273;M;Yes;38;Yes;Entertainment;Average;Between 30 and 41;2 people
+463276;M;Yes;37;No;Executive;Average;Between 30 and 41;2 people
+463277;F;Yes;30;No;Engineer;Low;Under 30;2 people
+463278;F;Yes;63;Yes;Engineer;Low;Over 53;1 person
+463280;M;Yes;42;Yes;Artist;Average;Between 41 and 53;2 people
+463292;M;Yes;41;No;Executive;High;Between 30 and 41;3 or 4 people
+463302;F;Yes;60;Yes;Engineer;High;Over 53;3 or 4 people
+463308;M;Yes;46;Yes;Engineer;Low;Between 41 and 53;2 people
+463316;F;Yes;83;No;Lawyer;High;Over 53;2 people
+463323;M;Yes;27;Yes;Healthcare;Low;Under 30;2 people
+463324;F;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+463330;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+463332;F;Yes;40;Yes;Engineer;Low;Between 30 and 41;2 people
+463334;F;No;28;Yes;Doctor;Low;Under 30;5 or more people
+463335;M;No;28;Yes;Doctor;Low;Under 30;1 person
+463338;M;Yes;28;No;Entertainment;Low;Under 30;2 people
+463340;F;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+463341;F;Yes;53;No;Engineer;Average;Over 53;5 or more people
+463348;F;Yes;35;Yes;Doctor;Low;Between 30 and 41;2 people
+463351;F;No;21;;Healthcare;Low;Under 30;3 or 4 people
+463356;M;No;30;Yes;Healthcare;Low;Under 30;3 or 4 people
+463360;F;Yes;46;Yes;Artist;Low;Between 41 and 53;1 person
+463367;F;No;36;Yes;Engineer;Low;Between 30 and 41;3 or 4 people
+463368;F;Yes;38;Yes;Artist;High;Between 30 and 41;3 or 4 people
+463372;F;Yes;26;No;Marketing;Average;Under 30;2 people
+463375;F;Yes;45;Yes;Doctor;Low;Between 41 and 53;1 person
+463376;F;Yes;46;Yes;Executive;High;Between 41 and 53;2 people
+463378;M;No;25;Yes;Doctor;Low;Under 30;1 person
+463379;M;No;27;No;Marketing;Low;Under 30;5 or more people
+463386;F;Yes;42;Yes;Doctor;Low;Between 41 and 53;1 person
+463387;M;;20;No;Marketing;Low;Under 30;2 people
+463391;M;Yes;55;Yes;Doctor;Low;Over 53;1 person
+463395;M;No;25;No;Marketing;Low;Under 30;1 person
+463404;M;Yes;27;No;Doctor;High;Under 30;2 people
+463406;M;No;31;No;Marketing;Low;Between 30 and 41;3 or 4 people
+463409;F;Yes;38;No;Entertainment;Average;Between 30 and 41;5 or more people
+463411;M;Yes;43;Yes;Entertainment;Average;Between 41 and 53;2 people
+463420;F;Yes;59;Yes;Artist;High;Over 53;3 or 4 people
+463423;M;Yes;61;No;Executive;Average;Over 53;3 or 4 people
+463427;F;Yes;27;Yes;Engineer;Low;Under 30;2 people
+463428;M;Yes;26;No;Executive;High;Under 30;5 or more people
+463431;M;Yes;39;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+463437;M;Yes;51;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+463438;M;Yes;47;No;Entertainment;Average;Between 41 and 53;3 or 4 people
+463443;M;Yes;52;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+463444;M;Yes;59;Yes;Lawyer;High;Over 53;2 people
+463447;M;Yes;57;No;Engineer;Average;Over 53;2 people
+463452;F;Yes;86;Yes;Lawyer;High;Over 53;2 people
+463460;M;Yes;49;Yes;Artist;Average;Between 41 and 53;2 people
+463461;M;No;30;No;Doctor;Low;Under 30;3 or 4 people
+463462;F;Yes;43;No;Engineer;Average;Between 41 and 53;3 or 4 people
+463470;M;No;19;No;Healthcare;Low;Under 30;5 or more people
+463472;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+463473;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+463475;F;Yes;43;Yes;Doctor;Low;Between 41 and 53;1 person
+463477;M;No;31;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+463483;M;Yes;30;No;Executive;High;Under 30;2 people
+463491;M;Yes;27;Yes;Doctor;Average;Under 30;3 or 4 people
+463493;M;Yes;36;Yes;Executive;High;Between 30 and 41;3 or 4 people
+463499;M;Yes;47;Yes;Executive;Low;Between 41 and 53;2 people
+463500;M;Yes;35;Yes;Executive;High;Between 30 and 41;3 or 4 people
+463503;M;Yes;25;Yes;Entertainment;Low;Under 30;2 people
+463508;F;Yes;25;No;Artist;Low;Under 30;3 or 4 people
+463509;M;No;38;No;Artist;Low;Between 30 and 41;1 person
+463512;F;No;32;No;Engineer;Low;Between 30 and 41;3 or 4 people
+463516;M;Yes;48;No;Executive;High;Between 41 and 53;5 or more people
+463527;F;No;38;No;Artist;Low;Between 30 and 41;1 person
+463528;M;Yes;70;No;Executive;High;Over 53;2 people
+463529;M;No;42;Yes;Marketing;Low;Between 41 and 53;1 person
+463533;F;Yes;85;Yes;Artist;High;Over 53;2 people
+463537;F;No;25;Yes;Healthcare;Low;Under 30;3 or 4 people
+463545;F;No;31;Yes;Doctor;Low;Between 30 and 41;2 people
+463548;F;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+463550;F;Yes;37;Yes;Artist;Average;Between 30 and 41;2 people
+463553;M;No;33;Yes;Artist;Low;Between 30 and 41;2 people
+463554;F;No;52;No;Artist;Low;Between 41 and 53;1 person
+463557;M;No;26;Yes;Doctor;Low;Under 30;3 or 4 people
+463560;F;No;21;No;Healthcare;Low;Under 30;5 or more people
+463561;F;No;42;Yes;Engineer;Low;Between 41 and 53;1 person
+463566;F;Yes;35;Yes;Homemaker;Average;Between 30 and 41;3 or 4 people
+463572;M;Yes;39;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+463577;F;Yes;41;Yes;Doctor;Average;Between 30 and 41;2 people
+463586;F;No;18;No;Healthcare;Low;Under 30;5 or more people
+463588;M;No;22;No;Healthcare;Low;Under 30;1 person
+463598;F;Yes;25;No;Engineer;Low;Under 30;2 people
+463601;F;No;20;No;Healthcare;Low;Under 30;5 or more people
+463603;F;No;18;No;Entertainment;Low;Under 30;3 or 4 people
+463605;F;No;20;No;Healthcare;Low;Under 30;5 or more people
+463606;M;No;21;No;Marketing;Low;Under 30;3 or 4 people
+463614;F;No;25;No;Healthcare;Low;Under 30;3 or 4 people
+463615;F;Yes;60;Yes;Artist;Average;Over 53;2 people
+463616;F;Yes;46;No;Engineer;Average;Between 41 and 53;5 or more people
+463619;M;Yes;68;No;Executive;High;Over 53;2 people
+463620;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+463623;M;No;27;Yes;Doctor;Low;Under 30;3 or 4 people
+463624;M;Yes;59;Yes;Executive;High;Over 53;3 or 4 people
+463628;F;No;26;Yes;Artist;Low;Under 30;1 person
+463632;M;Yes;26;Yes;Artist;Average;Under 30;2 people
+463638;F;Yes;32;No;Doctor;Average;Between 30 and 41;2 people
+463639;M;No;33;No;Healthcare;Low;Between 30 and 41;5 or more people
+463640;M;No;28;Yes;Healthcare;Low;Under 30;3 or 4 people
+463644;F;No;30;Yes;Healthcare;Low;Under 30;3 or 4 people
+463652;F;No;32;Yes;Artist;Low;Between 30 and 41;1 person
+463654;F;No;41;No;Engineer;Low;Between 30 and 41;3 or 4 people
+463655;M;Yes;42;Yes;Artist;Low;Between 41 and 53;2 people
+463661;F;Yes;45;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+463663;F;No;39;Yes;;Low;Between 30 and 41;2 people
+463664;F;No;29;No;Engineer;Low;Under 30;1 person
+463665;M;Yes;46;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+463669;F;Yes;26;Yes;Marketing;High;Under 30;3 or 4 people
+463670;F;No;26;Yes;Healthcare;Low;Under 30;3 or 4 people
+463689;F;Yes;41;Yes;Doctor;Low;Between 30 and 41;2 people
+463699;F;Yes;38;Yes;Marketing;Low;Between 30 and 41;3 or 4 people
+463703;M;Yes;69;No;Executive;High;Over 53;3 or 4 people
+463704;M;No;46;Yes;Artist;Low;Between 41 and 53;2 people
+463707;F;No;40;No;Artist;Low;Between 30 and 41;1 person
+463713;M;No;25;No;Engineer;Low;Under 30;3 or 4 people
+463714;M;Yes;59;No;;Average;Over 53;2 people
+463716;M;No;26;No;Doctor;Low;Under 30;3 or 4 people
+463718;F;No;33;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+463722;M;Yes;56;Yes;Executive;High;Over 53;2 people
+463724;M;No;30;No;Healthcare;Low;Under 30;5 or more people
+463726;F;No;26;No;Healthcare;Low;Under 30;3 or 4 people
+463727;F;No;28;No;Doctor;Low;Under 30;5 or more people
+463728;F;Yes;28;No;Doctor;Average;Under 30;5 or more people
+463732;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+463734;M;Yes;41;No;Executive;Average;Between 30 and 41;3 or 4 people
+463741;M;Yes;37;Yes;Artist;High;Between 30 and 41;3 or 4 people
+463745;M;Yes;59;Yes;Artist;Average;Over 53;3 or 4 people
+463747;F;Yes;43;Yes;Artist;Average;Between 41 and 53;2 people
+463748;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+463753;F;No;30;Yes;Healthcare;Low;Under 30;5 or more people
+463756;M;Yes;66;No;Executive;Average;Over 53;2 people
+463761;M;Yes;28;Yes;Artist;Average;Under 30;3 or 4 people
+463764;M;Yes;49;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+463766;F;Yes;61;Yes;Artist;Average;Over 53;3 or 4 people
+463767;M;Yes;27;Yes;Artist;Average;Under 30;2 people
+463768;F;Yes;35;No;Engineer;Low;Between 30 and 41;1 person
+463774;M;Yes;33;Yes;Healthcare;Average;Between 30 and 41;2 people
+463776;F;Yes;36;Yes;Artist;Average;Between 30 and 41;2 people
+463782;F;No;27;Yes;Artist;Low;Under 30;1 person
+463783;F;No;29;No;Healthcare;Low;Under 30;2 people
+463784;F;No;31;No;Engineer;Low;Between 30 and 41;5 or more people
+463785;F;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+463786;F;Yes;43;Yes;Artist;Average;Between 41 and 53;2 people
+463790;M;Yes;47;No;Executive;Low;Between 41 and 53;3 or 4 people
+463792;F;No;42;No;Engineer;Low;Between 41 and 53;1 person
+463794;F;No;33;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+463799;F;No;36;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+463800;F;No;30;Yes;Engineer;Low;Under 30;3 or 4 people
+463804;M;Yes;60;Yes;Artist;Low;Over 53;1 person
+463807;F;No;32;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+463811;F;Yes;32;Yes;Artist;Average;Between 30 and 41;2 people
+463814;F;No;28;No;Healthcare;Low;Under 30;3 or 4 people
+463816;M;Yes;46;Yes;Healthcare;High;Between 41 and 53;3 or 4 people
+463818;F;Yes;38;Yes;Artist;Low;Between 30 and 41;1 person
+463819;M;Yes;28;;Artist;Low;Under 30;2 people
+463821;M;Yes;30;Yes;Entertainment;Low;Under 30;2 people
+463825;F;Yes;52;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+463827;F;Yes;46;Yes;Engineer;Average;Between 41 and 53;3 or 4 people
+463828;M;Yes;37;No;Engineer;Average;Between 30 and 41;2 people
+463830;F;No;25;Yes;Engineer;Low;Under 30;3 or 4 people
+463834;F;Yes;43;Yes;Engineer;Average;Between 41 and 53;3 or 4 people
+463835;M;No;32;No;Marketing;Low;Between 30 and 41;3 or 4 people
+463842;F;Yes;50;Yes;Engineer;High;Between 41 and 53;3 or 4 people
+463847;M;Yes;43;No;Artist;Average;Between 41 and 53;3 or 4 people
+463856;M;Yes;37;Yes;Artist;Average;Between 30 and 41;2 people
+463857;M;Yes;61;No;Healthcare;High;Over 53;3 or 4 people
+463859;M;Yes;39;Yes;Artist;Average;Between 30 and 41;2 people
+463865;M;Yes;46;Yes;Artist;Average;Between 41 and 53;5 or more people
+463877;M;Yes;37;No;Entertainment;Average;Between 30 and 41;3 or 4 people
+463880;F;Yes;36;No;Engineer;Low;Between 30 and 41;3 or 4 people
+463884;F;No;28;No;Artist;Low;Under 30;1 person
+463891;M;Yes;86;Yes;Lawyer;Low;Over 53;1 person
+463892;M;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+463904;M;Yes;82;Yes;Executive;Low;Over 53;1 person
+463917;F;No;18;No;Healthcare;Low;Under 30;5 or more people
+463923;F;No;18;No;Engineer;Low;Under 30;3 or 4 people
+463924;F;No;36;Yes;Artist;Low;Between 30 and 41;1 person
+463926;F;No;26;No;Engineer;Low;Under 30;5 or more people
+463931;M;Yes;49;Yes;Entertainment;Average;Between 41 and 53;2 people
+463932;F;Yes;69;Yes;Artist;Average;Over 53;3 or 4 people
+463941;F;No;29;No;Artist;Low;Under 30;5 or more people
+463943;M;No;68;Yes;Entertainment;Low;Over 53;2 people
+463946;M;No;33;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+463948;M;Yes;38;No;Executive;High;Between 30 and 41;5 or more people
+463951;M;Yes;52;No;Entertainment;Average;Between 41 and 53;3 or 4 people
+463955;M;Yes;28;Yes;Artist;Low;Under 30;2 people
+463958;F;No;27;No;Healthcare;Low;Under 30;5 or more people
+463961;F;No;28;No;Engineer;Low;Under 30;3 or 4 people
+463963;F;Yes;25;No;Engineer;High;Under 30;3 or 4 people
+463966;F;No;30;Yes;Artist;Low;Under 30;1 person
+463978;M;Yes;40;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+463980;F;No;25;Yes;Artist;Low;Under 30;5 or more people
+463981;F;No;30;Yes;Artist;Low;Under 30;1 person
+463983;F;Yes;43;No;Engineer;Average;Between 41 and 53;2 people
+463986;F;No;26;Yes;Artist;Low;Under 30;3 or 4 people
+463997;F;Yes;37;No;Entertainment;Average;Between 30 and 41;3 or 4 people
+464000;F;No;28;No;Healthcare;Low;Under 30;5 or more people
+464004;F;Yes;31;No;Marketing;Low;Between 30 and 41;5 or more people
+464007;M;Yes;46;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+464009;F;Yes;47;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+464010;M;No;28;No;Healthcare;Low;Under 30;3 or 4 people
+464013;M;No;30;No;Healthcare;Low;Under 30;1 person
+464016;F;;29;Yes;Entertainment;High;Under 30;1 person
+464019;M;No;23;No;Artist;Low;Under 30;5 or more people
+464021;F;No;22;No;Healthcare;Low;Under 30;5 or more people
+464023;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+464030;M;No;22;No;Entertainment;Low;Under 30;3 or 4 people
+464031;F;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+464032;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+464033;F;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+464039;M;No;39;Yes;Artist;Low;Between 30 and 41;2 people
+464042;F;Yes;38;Yes;Artist;Low;Between 30 and 41;2 people
+464046;M;No;33;Yes;Healthcare;Low;Between 30 and 41;1 person
+464048;F;No;38;Yes;Homemaker;Low;Between 30 and 41;1 person
+464049;F;No;29;Yes;Healthcare;Low;Under 30;3 or 4 people
+464053;F;Yes;35;No;Entertainment;Low;Between 30 and 41;1 person
+464054;M;Yes;32;Yes;Artist;Average;Between 30 and 41;2 people
+464059;M;Yes;59;Yes;Artist;Low;Over 53;1 person
+464063;F;No;32;Yes;Doctor;Low;Between 30 and 41;1 person
+464066;F;No;29;Yes;Healthcare;Low;Under 30;3 or 4 people
+464067;F;No;31;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+464068;M;Yes;59;No;Executive;High;Over 53;3 or 4 people
+464071;M;Yes;87;Yes;Lawyer;High;Over 53;2 people
+464072;M;Yes;53;Yes;Executive;Low;Over 53;2 people
+464076;M;Yes;83;No;Lawyer;High;Over 53;2 people
+464084;M;No;33;No;Healthcare;Low;Between 30 and 41;5 or more people
+464087;F;No;26;No;Engineer;Low;Under 30;3 or 4 people
+464089;F;Yes;39;Yes;Artist;High;Between 30 and 41;5 or more people
+464096;F;No;27;No;Healthcare;Low;Under 30;5 or more people
+464099;F;Yes;42;Yes;Artist;Average;Between 41 and 53;2 people
+464103;M;Yes;46;Yes;Artist;Average;Between 41 and 53;2 people
+464110;M;Yes;63;Yes;Doctor;High;Over 53;2 people
+464112;M;No;32;Yes;Doctor;Low;Between 30 and 41;2 people
+464115;F;No;38;Yes;Engineer;Low;Between 30 and 41;3 or 4 people
+464118;M;No;38;Yes;Entertainment;Low;Between 30 and 41;2 people
+464121;F;Yes;63;Yes;Engineer;Low;Over 53;1 person
+464123;F;No;45;Yes;Artist;Low;Between 41 and 53;1 person
+464127;F;No;33;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+464132;M;No;27;No;Entertainment;Low;Under 30;2 people
+464137;F;Yes;87;No;Artist;High;Over 53;2 people
+464139;F;No;25;No;Healthcare;Low;Under 30;1 person
+464144;M;Yes;61;Yes;Artist;Average;Over 53;3 or 4 people
+464152;M;Yes;41;Yes;Artist;High;Between 30 and 41;3 or 4 people
+464162;M;Yes;86;Yes;Lawyer;High;Over 53;2 people
+464167;M;Yes;51;Yes;Executive;High;Between 41 and 53;3 or 4 people
+464169;M;;83;No;Lawyer;High;Over 53;2 people
+464172;M;Yes;60;Yes;Artist;High;Over 53;3 or 4 people
+464173;M;Yes;65;Yes;Artist;Average;Over 53;3 or 4 people
+464175;F;No;32;No;Healthcare;Low;Between 30 and 41;2 people
+464176;F;Yes;41;Yes;Artist;Low;Between 30 and 41;1 person
+464179;F;Yes;56;Yes;Artist;Average;Over 53;3 or 4 people
+464180;F;Yes;74;No;Lawyer;High;Over 53;2 people
+464182;M;Yes;39;Yes;Artist;Average;Between 30 and 41;2 people
+464183;F;No;42;No;Artist;Low;Between 41 and 53;2 people
+464185;M;Yes;68;Yes;Artist;High;Over 53;2 people
+464195;M;No;30;Yes;Artist;Low;Under 30;1 person
+464200;F;No;32;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+464202;M;Yes;43;Yes;Artist;Low;Between 41 and 53;1 person
+464204;F;Yes;40;Yes;Artist;High;Between 30 and 41;2 people
+464205;F;Yes;87;No;Entertainment;High;Over 53;2 people
+464206;M;Yes;43;No;Entertainment;Low;Between 41 and 53;2 people
+464211;M;Yes;48;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+464212;F;Yes;58;Yes;Marketing;Average;Over 53;2 people
+464216;M;Yes;52;Yes;Artist;High;Between 41 and 53;3 or 4 people
+464217;F;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+464223;F;Yes;53;Yes;Artist;Low;Over 53;2 people
+464226;F;Yes;56;Yes;Artist;Average;Over 53;3 or 4 people
+464231;M;Yes;48;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+464232;M;Yes;28;No;Doctor;Low;Under 30;5 or more people
+464246;F;Yes;61;Yes;Artist;Average;Over 53;2 people
+464254;M;Yes;62;Yes;Entertainment;Average;Over 53;3 or 4 people
+464255;F;Yes;49;Yes;Artist;Average;Between 41 and 53;5 or more people
+464257;M;Yes;40;;Entertainment;High;Between 30 and 41;2 people
+464265;M;Yes;62;Yes;Entertainment;Low;Over 53;2 people
+464269;M;No;35;Yes;Entertainment;Low;Between 30 and 41;2 people
+464270;F;No;48;Yes;Artist;Low;Between 41 and 53;1 person
+464271;F;Yes;36;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+464274;F;Yes;56;Yes;Artist;Average;Over 53;5 or more people
+464276;F;Yes;66;No;Marketing;High;Over 53;2 people
+464283;M;No;40;Yes;Artist;Low;Between 30 and 41;2 people
+464286;F;Yes;57;Yes;Artist;Average;Over 53;2 people
+464287;M;Yes;42;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+464289;M;Yes;35;No;Marketing;Low;Between 30 and 41;3 or 4 people
+464292;M;Yes;58;Yes;Artist;Average;Over 53;2 people
+464297;M;No;29;No;Artist;Low;Under 30;5 or more people
+464298;M;No;26;No;Doctor;Low;Under 30;1 person
+464308;F;Yes;84;Yes;Lawyer;High;Over 53;2 people
+464318;M;Yes;86;Yes;Executive;Low;Over 53;1 person
+464320;M;Yes;77;No;Lawyer;High;Over 53;2 people
+464326;F;No;37;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+464332;M;Yes;74;No;Executive;High;Over 53;2 people
+464339;M;No;27;No;Artist;Low;Under 30;2 people
+464344;F;Yes;56;Yes;Artist;Low;Over 53;1 person
+464351;F;No;27;Yes;Healthcare;Low;Under 30;1 person
+464364;M;Yes;39;Yes;Artist;Average;Between 30 and 41;2 people
+464368;M;Yes;35;Yes;Entertainment;Average;Between 30 and 41;2 people
+464370;M;Yes;66;Yes;Entertainment;Average;Over 53;2 people
+464373;F;No;47;Yes;Artist;Low;Between 41 and 53;2 people
+464378;F;Yes;36;Yes;Artist;Average;Between 30 and 41;2 people
+464381;M;Yes;43;Yes;Artist;Average;Between 41 and 53;2 people
+464382;F;Yes;55;Yes;Artist;Average;Over 53;3 or 4 people
+464386;M;Yes;41;Yes;Doctor;Average;Between 30 and 41;3 or 4 people
+464387;F;No;26;Yes;Artist;Low;Under 30;5 or more people
+464389;M;Yes;72;Yes;Artist;High;Over 53;2 people
+464392;M;Yes;59;;Artist;Average;Over 53;2 people
+464396;M;Yes;38;Yes;Entertainment;Average;Between 30 and 41;3 or 4 people
+464412;M;Yes;72;No;Lawyer;Low;Over 53;2 people
+464424;M;No;31;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+464425;M;No;41;Yes;Artist;Low;Between 30 and 41;1 person
+464432;M;No;25;No;Engineer;Low;Under 30;2 people
+464433;M;No;29;Yes;Artist;Low;Under 30;2 people
+464436;M;Yes;83;Yes;Lawyer;High;Over 53;2 people
+464437;F;Yes;51;Yes;Engineer;Average;Between 41 and 53;3 or 4 people
+464441;M;Yes;40;Yes;Artist;Low;Between 30 and 41;2 people
+464451;F;Yes;76;Yes;Artist;Average;Over 53;2 people
+464456;M;Yes;29;Yes;Artist;Low;Under 30;3 or 4 people
+464468;M;Yes;46;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+464473;F;Yes;58;Yes;Artist;Average;Over 53;3 or 4 people
+464474;F;No;46;Yes;Artist;Low;Between 41 and 53;1 person
+464478;F;Yes;74;No;Lawyer;High;Over 53;2 people
+464481;M;Yes;53;Yes;Executive;High;Over 53;3 or 4 people
+464482;M;Yes;63;Yes;Artist;Low;Over 53;1 person
+464483;F;Yes;49;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+464485;M;No;25;Yes;Entertainment;Low;Under 30;2 people
+464487;M;No;46;No;Engineer;Low;Between 41 and 53;3 or 4 people
+464488;F;No;43;Yes;Artist;Low;Between 41 and 53;5 or more people
+464494;F;Yes;58;Yes;Artist;Average;Over 53;3 or 4 people
+464499;M;Yes;41;Yes;Executive;High;Between 30 and 41;3 or 4 people
+464501;F;No;28;No;Healthcare;Low;Under 30;3 or 4 people
+464504;M;No;26;Yes;Healthcare;Low;Under 30;3 or 4 people
+464506;M;No;29;Yes;Healthcare;Low;Under 30;2 people
+464517;M;No;33;Yes;Healthcare;Low;Between 30 and 41;2 people
+464522;F;No;39;Yes;Engineer;Low;Between 30 and 41;1 person
+464526;M;Yes;51;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+464528;M;Yes;46;Yes;Entertainment;High;Between 41 and 53;3 or 4 people
+464533;M;Yes;38;No;Executive;High;Between 30 and 41;5 or more people
+464536;M;Yes;26;Yes;Artist;Average;Under 30;3 or 4 people
+464540;F;Yes;42;Yes;Engineer;Average;Between 41 and 53;3 or 4 people
+464544;F;Yes;43;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+464549;M;Yes;53;Yes;Executive;Low;Over 53;3 or 4 people
+464550;M;Yes;46;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+464552;F;Yes;40;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+464553;M;Yes;71;Yes;Artist;Low;Over 53;2 people
+464555;M;Yes;32;Yes;Marketing;High;Between 30 and 41;3 or 4 people
+464560;M;No;41;Yes;Entertainment;Low;Between 30 and 41;2 people
+464561;F;No;46;Yes;Entertainment;Low;Between 41 and 53;2 people
+464566;M;Yes;40;Yes;Executive;High;Between 30 and 41;3 or 4 people
+464569;M;No;29;No;Doctor;Low;Under 30;5 or more people
+464570;M;Yes;25;Yes;Doctor;Average;Under 30;2 people
+464572;F;Yes;52;Yes;Marketing;Low;Between 41 and 53;1 person
+464576;M;No;30;Yes;Doctor;Low;Under 30;5 or more people
+464577;F;Yes;25;Yes;Healthcare;High;Under 30;2 people
+464580;M;No;32;No;Artist;Low;Between 30 and 41;3 or 4 people
+464581;F;No;33;No;Doctor;Low;Between 30 and 41;3 or 4 people
+464586;F;No;49;Yes;Artist;Low;Between 41 and 53;1 person
+464593;F;No;43;Yes;Doctor;Low;Between 41 and 53;3 or 4 people
+464594;M;Yes;48;Yes;Artist;Low;Between 41 and 53;1 person
+464597;M;No;41;No;Artist;Low;Between 30 and 41;2 people
+464601;F;No;29;Yes;Healthcare;Low;Under 30;2 people
+464603;F;No;35;Yes;Artist;Low;Between 30 and 41;2 people
+464606;M;Yes;41;Yes;Artist;Average;Between 30 and 41;2 people
+464607;F;Yes;47;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+464608;F;Yes;53;Yes;Artist;Average;Over 53;3 or 4 people
+464618;M;;40;Yes;Artist;Low;Between 30 and 41;1 person
+464620;F;Yes;40;Yes;Artist;High;Between 30 and 41;2 people
+464621;M;Yes;46;Yes;Artist;Low;Between 41 and 53;1 person
+464637;F;No;36;Yes;Marketing;Low;Between 30 and 41;3 or 4 people
+464641;F;Yes;71;Yes;Lawyer;Low;Over 53;5 or more people
+464652;F;Yes;30;No;Engineer;Average;Under 30;2 people
+464654;F;Yes;40;No;Engineer;Average;Between 30 and 41;3 or 4 people
+464664;M;Yes;43;No;Entertainment;Average;Between 41 and 53;5 or more people
+464666;M;Yes;40;Yes;Entertainment;Average;Between 30 and 41;3 or 4 people
+464670;M;Yes;39;No;Entertainment;Average;Between 30 and 41;3 or 4 people
+464673;M;Yes;49;No;Executive;High;Between 41 and 53;5 or more people
+464674;M;Yes;51;No;Artist;Average;Between 41 and 53;5 or more people
+464675;F;Yes;39;No;Doctor;Average;Between 30 and 41;5 or more people
+464677;M;Yes;23;No;Healthcare;Low;Under 30;5 or more people
+464683;M;Yes;53;No;Engineer;Average;Over 53;5 or more people
+464684;F;No;35;No;Engineer;Low;Between 30 and 41;5 or more people
+464685;M;No;35;No;Executive;Low;Between 30 and 41;3 or 4 people
+464688;M;Yes;30;Yes;Doctor;Low;Under 30;5 or more people
+464690;M;Yes;39;No;Engineer;Average;Between 30 and 41;2 people
+464691;M;No;38;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+464692;F;No;53;No;Marketing;Low;Over 53;1 person
+464693;F;No;36;Yes;Engineer;Low;Between 30 and 41;1 person
+464695;M;No;33;No;Engineer;Low;Between 30 and 41;3 or 4 people
+464696;F;No;40;Yes;Engineer;Low;Between 30 and 41;1 person
+464697;F;Yes;36;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+464699;M;No;31;No;Doctor;Low;Between 30 and 41;5 or more people
+464701;M;No;31;No;Doctor;Low;Between 30 and 41;2 people
+464704;M;Yes;41;Yes;Healthcare;Average;Between 30 and 41;3 or 4 people
+464707;M;Yes;48;No;;Average;Between 41 and 53;3 or 4 people
+464711;F;Yes;38;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+464712;M;Yes;49;No;Artist;Low;Between 41 and 53;5 or more people
+464722;M;Yes;42;Yes;Doctor;Low;Between 41 and 53;2 people
+464726;M;Yes;28;Yes;Executive;High;Under 30;5 or more people
+464728;M;Yes;51;No;Entertainment;High;Between 41 and 53;3 or 4 people
+464732;M;Yes;41;No;Artist;Average;Between 30 and 41;2 people
+464737;F;Yes;57;No;Engineer;Average;Over 53;5 or more people
+464739;M;Yes;67;Yes;Artist;Low;Over 53;1 person
+464746;M;Yes;29;No;Executive;Average;Under 30;5 or more people
+464752;F;Yes;46;;Marketing;Low;Between 41 and 53;1 person
+464755;M;Yes;49;Yes;Artist;High;Between 41 and 53;2 people
+464756;F;No;28;No;Engineer;Low;Under 30;3 or 4 people
+464758;F;Yes;48;No;Engineer;Average;Between 41 and 53;3 or 4 people
+464760;F;Yes;51;No;Engineer;Average;Between 41 and 53;3 or 4 people
+464765;F;Yes;48;No;Engineer;Average;Between 41 and 53;5 or more people
+464766;F;Yes;48;No;Engineer;Average;Between 41 and 53;5 or more people
+464769;F;;52;No;Engineer;Average;Between 41 and 53;3 or 4 people
+464772;F;Yes;39;No;Engineer;Average;Between 30 and 41;3 or 4 people
+464774;F;Yes;50;No;Engineer;Average;Between 41 and 53;5 or more people
+464780;F;No;33;No;Engineer;Low;Between 30 and 41;5 or more people
+464790;F;No;35;Yes;Artist;Low;Between 30 and 41;1 person
+464792;M;Yes;30;No;Marketing;High;Under 30;5 or more people
+464794;F;Yes;46;No;Engineer;Average;Between 41 and 53;2 people
+464799;M;No;36;No;Marketing;Low;Between 30 and 41;3 or 4 people
+464802;M;No;43;No;Entertainment;Low;Between 41 and 53;1 person
+464804;M;Yes;26;No;Entertainment;Low;Under 30;1 person
+464806;M;Yes;33;No;Executive;Low;Between 30 and 41;2 people
+464809;M;Yes;50;;Entertainment;Average;Between 41 and 53;5 or more people
+464812;F;Yes;49;Yes;Engineer;High;Between 41 and 53;5 or more people
+464813;M;Yes;48;Yes;Engineer;Average;Between 41 and 53;5 or more people
+464817;M;No;31;Yes;Artist;Low;Between 30 and 41;1 person
+464818;F;Yes;38;No;Engineer;Average;Between 30 and 41;2 people
+464825;F;No;21;No;Healthcare;Low;Under 30;1 person
+464827;F;Yes;50;No;Entertainment;Average;Between 41 and 53;5 or more people
+464828;M;No;23;No;Healthcare;Low;Under 30;5 or more people
+464831;F;Yes;21;No;Healthcare;Low;Under 30;2 people
+464832;M;Yes;71;No;Lawyer;Low;Over 53;2 people
+464835;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+464836;F;;32;No;Engineer;High;Between 30 and 41;5 or more people
+464845;M;Yes;29;No;Engineer;Average;Under 30;3 or 4 people
+464849;M;Yes;42;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+464851;M;No;20;No;Doctor;Low;Under 30;5 or more people
+464852;M;Yes;36;No;Executive;Low;Between 30 and 41;5 or more people
+464854;F;Yes;42;No;Engineer;High;Between 41 and 53;5 or more people
+464857;M;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+464861;M;No;25;No;Homemaker;Low;Under 30;2 people
+464864;F;No;30;No;Engineer;Low;Under 30;5 or more people
+464865;F;No;28;No;Homemaker;Low;Under 30;5 or more people
+464868;M;Yes;42;Yes;Entertainment;Low;Between 41 and 53;5 or more people
+464872;M;Yes;38;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+464873;M;Yes;42;Yes;Artist;Average;Between 41 and 53;2 people
+464876;F;Yes;52;No;Engineer;Average;Between 41 and 53;5 or more people
+464879;F;Yes;29;Yes;Doctor;Average;Under 30;2 people
+464884;M;Yes;40;Yes;Artist;Low;Between 30 and 41;2 people
+464885;F;No;38;No;Engineer;Low;Between 30 and 41;2 people
+464886;M;Yes;37;Yes;Engineer;Average;Between 30 and 41;3 or 4 people
+464902;F;Yes;65;No;Lawyer;Low;Over 53;1 person
+464905;M;;81;No;Executive;High;Over 53;2 people
+464907;M;;59;Yes;Engineer;Average;Over 53;2 people
+464910;F;Yes;47;Yes;Artist;Average;Between 41 and 53;5 or more people
+464911;M;Yes;57;Yes;Artist;Average;Over 53;3 or 4 people
+464915;M;Yes;39;Yes;Executive;High;Between 30 and 41;3 or 4 people
+464916;F;;32;;Doctor;High;Between 30 and 41;2 people
+464919;M;Yes;37;Yes;Artist;Low;Between 30 and 41;1 person
+464920;M;No;39;Yes;Artist;Low;Between 30 and 41;1 person
+464921;M;Yes;39;No;Doctor;Average;Between 30 and 41;5 or more people
+464925;M;;60;No;Executive;Average;Over 53;2 people
+464927;F;Yes;70;Yes;Artist;Average;Over 53;2 people
+464932;M;Yes;51;Yes;Executive;Low;Between 41 and 53;1 person
+464938;M;Yes;48;No;Artist;Low;Between 41 and 53;3 or 4 people
+464939;M;No;43;No;Entertainment;Low;Between 41 and 53;1 person
+464940;F;Yes;29;No;Engineer;Low;Under 30;2 people
+464944;F;Yes;43;Yes;Entertainment;Low;Between 41 and 53;2 people
+464947;M;No;25;No;Doctor;Low;Under 30;1 person
+464957;F;Yes;75;No;Lawyer;Low;Over 53;1 person
+464960;F;No;22;No;Healthcare;Low;Under 30;5 or more people
+464961;M;Yes;86;No;Marketing;Low;Over 53;1 person
+464963;F;Yes;50;Yes;Entertainment;Low;Between 41 and 53;2 people
+464972;M;Yes;73;No;Lawyer;High;Over 53;5 or more people
+464973;M;No;87;;Lawyer;Low;Over 53;2 people
+464981;M;Yes;49;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+464987;M;Yes;46;Yes;Executive;High;Between 41 and 53;5 or more people
+464990;M;Yes;73;No;Executive;High;Over 53;2 people
+464991;F;Yes;87;Yes;Lawyer;High;Over 53;2 people
+464995;M;Yes;53;No;Executive;High;Over 53;3 or 4 people
+465001;M;Yes;84;Yes;Lawyer;High;Over 53;2 people
+465005;M;Yes;47;Yes;Executive;High;Between 41 and 53;3 or 4 people
+465012;M;Yes;59;No;Executive;High;Over 53;3 or 4 people
+465014;M;Yes;82;No;Lawyer;Low;Over 53;1 person
+465022;F;Yes;71;Yes;Lawyer;High;Over 53;2 people
+465023;M;Yes;39;Yes;Artist;Average;Between 30 and 41;2 people
+465026;F;No;25;No;Doctor;Low;Under 30;2 people
+465032;M;Yes;67;Yes;Executive;High;Over 53;2 people
+465035;F;Yes;83;Yes;Lawyer;High;Over 53;2 people
+465038;M;Yes;49;No;Executive;High;Between 41 and 53;3 or 4 people
+465039;F;Yes;87;No;Lawyer;High;Over 53;2 people
+465040;M;Yes;69;No;Lawyer;Average;Over 53;2 people
+465045;M;Yes;40;Yes;Entertainment;Average;Between 30 and 41;2 people
+465056;M;Yes;87;Yes;Lawyer;High;Over 53;2 people
+465069;M;Yes;68;Yes;Healthcare;Average;Over 53;3 or 4 people
+465075;F;Yes;43;Yes;Artist;Average;Between 41 and 53;2 people
+465076;M;Yes;67;Yes;Artist;High;Over 53;5 or more people
+465079;M;Yes;80;Yes;Lawyer;Low;Over 53;1 person
+465082;M;Yes;65;Yes;Lawyer;Low;Over 53;1 person
+465087;M;No;29;Yes;Doctor;Low;Under 30;3 or 4 people
+465091;M;Yes;60;Yes;Entertainment;Average;Over 53;3 or 4 people
+465092;M;Yes;72;Yes;Executive;High;Over 53;2 people
+465093;M;Yes;57;Yes;Doctor;Low;Over 53;1 person
+465095;M;Yes;47;Yes;Executive;High;Between 41 and 53;3 or 4 people
+465099;M;Yes;39;No;Entertainment;Average;Between 30 and 41;2 people
+465100;M;Yes;62;Yes;Artist;High;Over 53;2 people
+465101;F;Yes;81;Yes;Lawyer;Low;Over 53;1 person
+465105;M;Yes;65;No;Executive;Average;Over 53;2 people
+465109;M;No;47;No;Lawyer;Low;Between 41 and 53;2 people
+465111;F;Yes;40;Yes;Artist;Average;Between 30 and 41;2 people
+465112;F;Yes;86;No;Lawyer;High;Over 53;2 people
+465113;M;Yes;67;Yes;Lawyer;High;Over 53;2 people
+465119;F;Yes;45;Yes;Artist;Average;Between 41 and 53;5 or more people
+465120;F;No;27;Yes;Healthcare;Low;Under 30;3 or 4 people
+465121;F;No;32;Yes;Artist;Low;Between 30 and 41;1 person
+465122;F;Yes;41;Yes;Artist;Average;Between 30 and 41;2 people
+465124;F;Yes;27;Yes;Healthcare;Average;Under 30;2 people
+465128;F;Yes;58;No;Artist;Average;Over 53;3 or 4 people
+465134;F;Yes;61;Yes;Entertainment;Average;Over 53;5 or more people
+465136;M;Yes;52;Yes;Artist;Average;Between 41 and 53;2 people
+465144;M;No;25;Yes;Doctor;Low;Under 30;1 person
+465147;M;No;33;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+465148;M;No;31;No;Artist;Low;Between 30 and 41;2 people
+465150;M;No;37;Yes;Entertainment;Low;Between 30 and 41;1 person
+465153;M;Yes;38;Yes;Artist;Average;Between 30 and 41;2 people
+465155;M;Yes;81;Yes;Lawyer;Low;Over 53;1 person
+465160;M;Yes;61;Yes;Executive;High;Over 53;3 or 4 people
+465164;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+465171;F;Yes;48;Yes;Artist;High;Between 41 and 53;3 or 4 people
+465172;F;Yes;43;Yes;Artist;Average;Between 41 and 53;2 people
+465175;F;No;22;No;Homemaker;Low;Under 30;3 or 4 people
+465176;F;Yes;63;Yes;Artist;Average;Over 53;3 or 4 people
+465181;F;No;25;Yes;Healthcare;Low;Under 30;1 person
+465182;F;No;73;Yes;Lawyer;Low;Over 53;1 person
+465186;F;Yes;43;No;Artist;Average;Between 41 and 53;3 or 4 people
+465187;F;Yes;39;No;Doctor;Average;Between 30 and 41;3 or 4 people
+465188;F;Yes;49;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+465189;F;Yes;83;Yes;Lawyer;High;Over 53;2 people
+465194;M;No;22;No;Healthcare;Low;Under 30;5 or more people
+465196;F;No;31;Yes;Artist;Low;Between 30 and 41;2 people
+465197;F;Yes;60;Yes;Artist;High;Over 53;3 or 4 people
+465201;M;Yes;42;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+465202;M;No;25;No;Entertainment;Low;Under 30;3 or 4 people
+465203;M;No;29;Yes;Healthcare;Low;Under 30;3 or 4 people
+465204;M;Yes;29;Yes;Healthcare;Low;Under 30;2 people
+465213;M;Yes;39;Yes;Entertainment;Average;Between 30 and 41;2 people
+465214;M;Yes;33;No;Engineer;Low;Between 30 and 41;1 person
+465216;M;Yes;35;Yes;Executive;High;Between 30 and 41;3 or 4 people
+465226;M;Yes;38;No;Entertainment;Low;Between 30 and 41;3 or 4 people
+465228;M;Yes;59;Yes;Artist;High;Over 53;2 people
+465231;M;Yes;67;No;Artist;Average;Over 53;2 people
+465236;M;Yes;45;Yes;Artist;Low;Between 41 and 53;1 person
+465237;M;Yes;70;Yes;Lawyer;High;Over 53;2 people
+465242;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+465249;F;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+465254;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+465261;F;No;23;Yes;Healthcare;Low;Under 30;3 or 4 people
+465264;M;Yes;80;No;Executive;Low;Over 53;1 person
+465267;M;Yes;40;No;Engineer;Average;Between 30 and 41;5 or more people
+465274;M;No;36;Yes;Artist;Low;Between 30 and 41;1 person
+465285;F;Yes;31;No;Engineer;Low;Between 30 and 41;3 or 4 people
+465288;F;Yes;20;No;Engineer;Low;Under 30;2 people
+465289;M;Yes;31;Yes;Executive;High;Between 30 and 41;2 people
+465290;M;Yes;50;Yes;Executive;High;Between 41 and 53;5 or more people
+465294;M;Yes;67;No;Lawyer;Low;Over 53;2 people
+465295;F;;43;Yes;Doctor;Average;Between 41 and 53;1 person
+465296;F;Yes;85;Yes;Lawyer;High;Over 53;3 or 4 people
+465303;F;Yes;65;Yes;Artist;Average;Over 53;3 or 4 people
+465306;M;Yes;71;No;Executive;Average;Over 53;3 or 4 people
+465310;F;No;20;No;Healthcare;Low;Under 30;5 or more people
+465319;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+465326;M;Yes;87;Yes;Artist;Low;Over 53;1 person
+465333;F;Yes;37;Yes;Artist;Low;Between 30 and 41;2 people
+465335;M;Yes;59;No;Entertainment;Average;Over 53;2 people
+465340;F;No;29;Yes;Artist;Low;Under 30;3 or 4 people
+465342;M;Yes;85;Yes;Executive;High;Over 53;2 people
+465344;F;Yes;72;Yes;Lawyer;High;Over 53;2 people
+465345;F;No;42;Yes;Artist;Low;Between 41 and 53;2 people
+465351;F;Yes;45;Yes;Artist;Average;Between 41 and 53;2 people
+465352;M;Yes;59;Yes;Entertainment;Average;Over 53;3 or 4 people
+465354;M;No;19;No;Doctor;Low;Under 30;5 or more people
+465357;F;Yes;47;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+465358;F;Yes;73;Yes;Artist;High;Over 53;2 people
+465359;F;Yes;42;No;Artist;Low;Between 41 and 53;1 person
+465364;F;No;37;Yes;Doctor;Low;Between 30 and 41;5 or more people
+465366;F;No;38;Yes;Artist;Low;Between 30 and 41;1 person
+465371;F;No;41;Yes;Artist;Low;Between 30 and 41;1 person
+465372;F;No;40;Yes;Entertainment;Low;Between 30 and 41;1 person
+465383;F;Yes;30;Yes;Entertainment;Low;Under 30;3 or 4 people
+465384;M;Yes;56;Yes;Artist;High;Over 53;2 people
+465391;F;Yes;65;Yes;Lawyer;High;Over 53;2 people
+465393;M;Yes;35;Yes;Artist;Average;Between 30 and 41;2 people
+465395;F;Yes;37;No;Engineer;Average;Between 30 and 41;5 or more people
+465399;M;No;36;Yes;Entertainment;Low;Between 30 and 41;1 person
+465405;F;;26;Yes;Homemaker;High;Under 30;3 or 4 people
+465408;M;No;25;No;Executive;Low;Under 30;3 or 4 people
+465410;M;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+465417;M;Yes;37;Yes;Entertainment;Average;Between 30 and 41;2 people
+465419;M;No;30;No;Artist;Low;Under 30;3 or 4 people
+465423;M;Yes;46;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+465428;F;No;38;Yes;Engineer;Low;Between 30 and 41;1 person
+465433;F;No;40;Yes;Artist;Low;Between 30 and 41;1 person
+465435;F;No;31;Yes;Artist;Low;Between 30 and 41;1 person
+465437;M;Yes;45;Yes;Executive;High;Between 41 and 53;5 or more people
+465440;M;Yes;55;No;Engineer;Low;Over 53;5 or more people
+465441;F;Yes;51;Yes;Engineer;Low;Between 41 and 53;1 person
+465445;F;No;29;Yes;Homemaker;Low;Under 30;5 or more people
+465458;F;Yes;74;Yes;Artist;High;Over 53;2 people
+465461;M;Yes;69;No;Entertainment;Average;Over 53;3 or 4 people
+465463;F;No;28;No;Doctor;Low;Under 30;5 or more people
+465464;M;Yes;41;Yes;Executive;Average;Between 30 and 41;2 people
+465467;M;;29;No;Healthcare;Low;Under 30;3 or 4 people
+465471;M;Yes;39;Yes;Artist;Low;Between 30 and 41;1 person
+465472;F;Yes;74;No;Entertainment;High;Over 53;3 or 4 people
+465473;F;No;59;Yes;Artist;Low;Over 53;1 person
+465477;M;No;27;No;Healthcare;Low;Under 30;3 or 4 people
+465479;M;No;33;No;Artist;Low;Between 30 and 41;1 person
+465482;M;No;31;No;Entertainment;Low;Between 30 and 41;2 people
+465483;M;Yes;46;No;Artist;Average;Between 41 and 53;3 or 4 people
+465484;F;Yes;63;Yes;Artist;Low;Over 53;2 people
+465488;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+465489;F;No;53;Yes;Engineer;Low;Over 53;5 or more people
+465492;M;Yes;59;No;Entertainment;Low;Over 53;1 person
+465496;M;Yes;84;Yes;Lawyer;Low;Over 53;2 people
+465505;M;Yes;63;Yes;Artist;Average;Over 53;3 or 4 people
+465507;M;Yes;35;Yes;Artist;Low;Between 30 and 41;1 person
+465508;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+465510;M;Yes;67;No;Lawyer;High;Over 53;2 people
+465518;F;Yes;41;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+465520;F;No;27;Yes;Artist;Low;Under 30;5 or more people
+465521;F;Yes;53;Yes;Artist;Average;Over 53;2 people
+465522;F;No;33;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+465529;F;No;32;No;Doctor;Low;Between 30 and 41;3 or 4 people
+465538;M;Yes;59;No;;High;Over 53;2 people
+465539;F;Yes;50;Yes;Artist;High;Between 41 and 53;5 or more people
+465541;F;Yes;50;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+465543;F;Yes;41;Yes;Healthcare;Average;Between 30 and 41;2 people
+465547;F;Yes;71;;Lawyer;Low;Over 53;1 person
+465550;F;No;33;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+465551;F;Yes;46;Yes;Artist;Average;Between 41 and 53;2 people
+465554;F;No;78;Yes;Lawyer;Low;Over 53;3 or 4 people
+465555;F;Yes;69;No;Lawyer;High;Over 53;2 people
+465558;F;No;40;Yes;Healthcare;Low;Between 30 and 41;1 person
+465568;M;Yes;43;Yes;Executive;High;Between 41 and 53;3 or 4 people
+465569;M;Yes;36;Yes;Artist;High;Between 30 and 41;3 or 4 people
+465571;M;Yes;35;Yes;Entertainment;Average;Between 30 and 41;2 people
+465577;M;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+465584;M;Yes;47;No;Entertainment;Average;Between 41 and 53;2 people
+465586;M;Yes;69;No;Artist;Low;Over 53;1 person
+465587;M;Yes;41;Yes;Entertainment;Low;Between 30 and 41;5 or more people
+465594;M;Yes;33;No;Executive;Low;Between 30 and 41;5 or more people
+465598;M;No;27;Yes;Healthcare;Low;Under 30;5 or more people
+465600;M;Yes;38;Yes;Engineer;Low;Between 30 and 41;2 people
+465601;M;Yes;35;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+465602;M;Yes;27;Yes;Artist;Low;Under 30;2 people
+465603;F;Yes;51;Yes;Homemaker;Low;Between 41 and 53;2 people
+465605;F;Yes;52;Yes;Engineer;Low;Between 41 and 53;1 person
+465611;M;No;53;Yes;Doctor;Low;Over 53;1 person
+465612;M;Yes;43;Yes;Artist;Average;Between 41 and 53;2 people
+465616;M;Yes;42;Yes;Doctor;Low;Between 41 and 53;2 people
+465621;M;No;36;Yes;Doctor;Low;Between 30 and 41;1 person
+465625;M;No;36;Yes;Artist;Low;Between 30 and 41;2 people
+465627;F;No;40;Yes;Healthcare;Low;Between 30 and 41;1 person
+465629;M;Yes;47;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+465635;M;No;30;No;Doctor;Low;Under 30;2 people
+465638;F;Yes;53;Yes;Artist;Low;Over 53;2 people
+465640;M;Yes;45;Yes;Artist;Average;Between 41 and 53;2 people
+465644;M;No;33;Yes;Healthcare;Low;Between 30 and 41;5 or more people
+465645;F;No;40;Yes;Artist;Low;Between 30 and 41;2 people
+465649;F;Yes;36;Yes;Marketing;Low;Between 30 and 41;1 person
+465651;M;No;32;No;Engineer;Low;Between 30 and 41;3 or 4 people
+465653;F;Yes;51;Yes;Artist;Low;Between 41 and 53;2 people
+465655;F;No;49;Yes;Artist;Low;Between 41 and 53;1 person
+465656;M;Yes;81;No;Lawyer;Low;Over 53;2 people
+465658;M;Yes;72;Yes;Artist;Average;Over 53;3 or 4 people
+465663;F;No;70;Yes;Artist;Low;Over 53;2 people
+465667;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+465668;M;No;21;No;Healthcare;Low;Under 30;5 or more people
+465669;F;Yes;41;No;Entertainment;Average;Between 30 and 41;3 or 4 people
+465670;F;No;49;No;Engineer;Low;Between 41 and 53;1 person
+465675;F;No;51;No;Entertainment;Low;Between 41 and 53;1 person
+465680;M;Yes;28;No;Healthcare;Average;Under 30;5 or more people
+465685;M;No;37;Yes;Healthcare;Low;Between 30 and 41;2 people
+465688;F;Yes;63;;Artist;Average;Over 53;3 or 4 people
+465689;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+465695;F;No;32;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+465697;F;Yes;51;No;Artist;Low;Between 41 and 53;1 person
+465703;M;Yes;26;No;Entertainment;Low;Under 30;2 people
+465704;M;Yes;61;No;Artist;Low;Over 53;1 person
+465705;F;Yes;51;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+465706;F;Yes;45;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+465721;M;Yes;29;Yes;Entertainment;High;Under 30;2 people
+465722;M;Yes;47;No;;Low;Between 41 and 53;5 or more people
+465725;M;No;25;Yes;Doctor;Low;Under 30;2 people
+465727;M;No;40;No;Marketing;Low;Between 30 and 41;5 or more people
+465728;M;No;45;Yes;;Low;Between 41 and 53;1 person
+465733;M;Yes;32;Yes;Entertainment;Average;Between 30 and 41;2 people
+465734;M;Yes;38;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+465736;F;No;38;Yes;Artist;Low;Between 30 and 41;2 people
+465737;F;Yes;48;Yes;Engineer;Low;Between 41 and 53;3 or 4 people
+465740;F;No;71;Yes;Doctor;Low;Over 53;1 person
+465742;F;Yes;46;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+465751;F;Yes;46;Yes;Artist;Low;Between 41 and 53;2 people
+465753;F;Yes;49;Yes;Artist;Low;Between 41 and 53;2 people
+465766;M;Yes;43;No;Entertainment;Low;Between 41 and 53;3 or 4 people
+465768;F;No;38;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+465769;M;No;25;Yes;Healthcare;Low;Under 30;3 or 4 people
+465772;F;Yes;46;Yes;Engineer;Low;Between 41 and 53;3 or 4 people
+465775;F;No;28;Yes;Engineer;Low;Under 30;3 or 4 people
+465776;F;No;41;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+465777;F;No;32;Yes;Artist;Low;Between 30 and 41;5 or more people
+465784;F;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+465788;M;No;22;No;Healthcare;Low;Under 30;5 or more people
+465793;M;No;27;No;Healthcare;Low;Under 30;5 or more people
+465797;M;Yes;40;Yes;Artist;Average;Between 30 and 41;2 people
+465804;F;Yes;68;No;Engineer;Low;Over 53;1 person
+465809;F;No;25;No;Homemaker;Low;Under 30;5 or more people
+465811;M;No;28;No;Healthcare;Low;Under 30;3 or 4 people
+465813;M;No;28;No;Marketing;Low;Under 30;5 or more people
+465818;M;No;27;No;Entertainment;Low;Under 30;3 or 4 people
+465823;M;Yes;67;No;Entertainment;Average;Over 53;3 or 4 people
+465826;M;Yes;46;No;Executive;Low;Between 41 and 53;5 or more people
+465828;F;No;33;No;Entertainment;Low;Between 30 and 41;3 or 4 people
+465829;F;Yes;40;Yes;Doctor;Average;Between 30 and 41;3 or 4 people
+465830;F;Yes;48;No;;Average;Between 41 and 53;5 or more people
+465831;M;Yes;42;No;Executive;High;Between 41 and 53;5 or more people
+465837;M;No;56;Yes;;Low;Over 53;1 person
+465841;F;No;51;Yes;Engineer;Low;Between 41 and 53;1 person
+465848;F;No;27;Yes;Healthcare;Low;Under 30;1 person
+465849;F;No;25;Yes;Doctor;Low;Under 30;3 or 4 people
+465851;F;Yes;51;No;Artist;High;Between 41 and 53;2 people
+465853;F;Yes;26;Yes;Healthcare;Average;Under 30;2 people
+465857;F;No;35;Yes;Doctor;Low;Between 30 and 41;1 person
+465860;F;;25;Yes;Doctor;Low;Under 30;3 or 4 people
+465863;M;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+465865;F;No;41;Yes;Healthcare;Low;Between 30 and 41;1 person
+465866;M;Yes;42;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+465867;F;Yes;40;Yes;Artist;High;Between 30 and 41;5 or more people
+465873;M;No;36;Yes;Entertainment;Low;Between 30 and 41;1 person
+465875;F;No;39;Yes;Artist;Low;Between 30 and 41;1 person
+465884;M;Yes;40;Yes;Executive;High;Between 30 and 41;3 or 4 people
+465893;F;Yes;40;Yes;Engineer;Average;Between 30 and 41;2 people
+465894;M;No;28;Yes;Artist;Low;Under 30;5 or more people
+465907;F;No;31;Yes;Marketing;Low;Between 30 and 41;2 people
+465916;M;No;41;Yes;Artist;Low;Between 30 and 41;1 person
+465923;F;No;28;Yes;Engineer;Low;Under 30;5 or more people
+465925;M;No;30;Yes;Healthcare;Low;Under 30;1 person
+465927;F;No;30;Yes;Healthcare;Low;Under 30;1 person
+465930;F;No;38;Yes;Artist;Low;Between 30 and 41;2 people
+465931;M;Yes;43;Yes;Artist;Low;Between 41 and 53;1 person
+465935;M;No;29;Yes;Entertainment;Low;Under 30;1 person
+465937;F;No;30;Yes;Healthcare;Low;Under 30;3 or 4 people
+465941;M;Yes;27;Yes;Healthcare;Low;Under 30;2 people
+465948;F;Yes;48;Yes;Artist;Average;Between 41 and 53;2 people
+465953;F;No;51;Yes;Artist;Low;Between 41 and 53;1 person
+465957;F;No;48;Yes;Marketing;Low;Between 41 and 53;1 person
+465960;F;No;28;Yes;Marketing;Low;Under 30;1 person
+465961;F;No;40;Yes;Artist;Low;Between 30 and 41;1 person
+465963;M;Yes;51;Yes;Artist;Low;Between 41 and 53;2 people
+465965;F;Yes;36;No;Marketing;Low;Between 30 and 41;2 people
+465972;F;No;51;Yes;Marketing;Low;Between 41 and 53;1 person
+465974;M;Yes;45;Yes;Executive;High;Between 41 and 53;3 or 4 people
+465975;M;No;40;Yes;Artist;Low;Between 30 and 41;1 person
+465976;M;No;40;Yes;Artist;Low;Between 30 and 41;1 person
+465979;M;Yes;41;Yes;Artist;Low;Between 30 and 41;2 people
+465982;M;Yes;43;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+465983;M;;21;No;Healthcare;Low;Under 30;3 or 4 people
+465996;M;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+465997;F;No;31;No;Doctor;Low;Between 30 and 41;3 or 4 people
+466001;F;Yes;42;Yes;Entertainment;Low;Between 41 and 53;2 people
+466007;M;Yes;61;No;Artist;Low;Over 53;1 person
+466017;F;Yes;45;Yes;Homemaker;Low;Between 41 and 53;1 person
+466019;F;Yes;63;Yes;Artist;Low;Over 53;1 person
+466020;M;Yes;86;No;Lawyer;Low;Over 53;1 person
+466022;F;Yes;67;No;Engineer;High;Over 53;3 or 4 people
+466023;M;Yes;71;No;Executive;High;Over 53;3 or 4 people
+466024;F;Yes;43;No;Entertainment;Low;Between 41 and 53;2 people
+466032;M;;28;No;Entertainment;Low;Under 30;2 people
+466042;M;Yes;47;No;Entertainment;Low;Between 41 and 53;2 people
+466043;F;Yes;53;Yes;Artist;Average;Over 53;3 or 4 people
+466046;F;Yes;36;No;Entertainment;Average;Between 30 and 41;2 people
+466058;M;Yes;35;No;Entertainment;Low;Between 30 and 41;2 people
+466069;F;Yes;48;Yes;Artist;High;Between 41 and 53;3 or 4 people
+466071;F;Yes;60;Yes;Artist;Low;Over 53;3 or 4 people
+466078;F;Yes;45;No;Executive;Low;Between 41 and 53;1 person
+466079;F;Yes;42;No;Engineer;Low;Between 41 and 53;2 people
+466082;F;Yes;89;Yes;Lawyer;Low;Over 53;1 person
+466083;F;No;23;No;Marketing;Low;Under 30;2 people
+466084;M;Yes;46;Yes;Homemaker;Low;Between 41 and 53;1 person
+466085;M;No;22;No;;Low;Under 30;3 or 4 people
+466088;F;No;30;No;Healthcare;Low;Under 30;5 or more people
+466090;M;Yes;58;Yes;Entertainment;Low;Over 53;2 people
+466092;M;Yes;73;Yes;Artist;Average;Over 53;3 or 4 people
+466099;F;Yes;71;Yes;Lawyer;Low;Over 53;1 person
+466103;F;Yes;35;No;Engineer;Low;Between 30 and 41;5 or more people
+466109;M;Yes;52;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+466111;M;Yes;84;Yes;Lawyer;Low;Over 53;2 people
+466114;M;Yes;47;Yes;Entertainment;Average;Between 41 and 53;5 or more people
+466115;M;Yes;39;No;Executive;Low;Between 30 and 41;2 people
+466118;F;Yes;40;No;Engineer;Low;Between 30 and 41;3 or 4 people
+466124;F;No;46;Yes;Artist;Low;Between 41 and 53;1 person
+466128;M;No;40;Yes;Artist;Low;Between 30 and 41;2 people
+466130;F;No;27;No;Artist;Low;Under 30;5 or more people
+466132;F;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+466136;F;No;21;Yes;Artist;Low;Under 30;2 people
+466138;M;Yes;70;No;Lawyer;High;Over 53;2 people
+466140;M;Yes;28;Yes;Entertainment;Low;Under 30;2 people
+466141;F;Yes;58;Yes;Homemaker;Low;Over 53;3 or 4 people
+466142;F;Yes;27;Yes;Entertainment;Average;Under 30;2 people
+466143;F;Yes;49;No;Engineer;Average;Between 41 and 53;5 or more people
+466146;F;Yes;37;No;Engineer;Average;Between 30 and 41;3 or 4 people
+466148;M;Yes;39;No;Entertainment;Average;Between 30 and 41;3 or 4 people
+466149;F;No;28;No;Doctor;Low;Under 30;3 or 4 people
+466153;M;Yes;73;No;Entertainment;Average;Over 53;2 people
+466154;F;Yes;51;Yes;Artist;Average;Between 41 and 53;5 or more people
+466156;F;Yes;48;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+466157;M;Yes;72;Yes;Homemaker;Low;Over 53;2 people
+466161;M;Yes;47;No;Artist;Average;Between 41 and 53;2 people
+466162;F;Yes;67;Yes;Doctor;Low;Over 53;1 person
+466166;M;Yes;77;Yes;Lawyer;High;Over 53;2 people
+466172;M;Yes;46;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+466178;F;Yes;52;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+466180;M;Yes;67;No;Lawyer;Low;Over 53;1 person
+466185;M;Yes;62;Yes;Doctor;Average;Over 53;3 or 4 people
+466200;M;Yes;45;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+466201;M;Yes;40;Yes;Doctor;Average;Between 30 and 41;5 or more people
+466206;F;Yes;60;Yes;Artist;Average;Over 53;2 people
+466207;F;Yes;37;Yes;Doctor;Average;Between 30 and 41;3 or 4 people
+466208;M;Yes;69;No;Executive;High;Over 53;1 person
+466210;F;Yes;58;Yes;Artist;High;Over 53;3 or 4 people
+466211;M;Yes;52;Yes;Artist;Low;Between 41 and 53;2 people
+466213;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+466218;F;;23;No;Healthcare;Low;Under 30;3 or 4 people
+466223;M;Yes;66;Yes;Artist;Low;Over 53;1 person
+466225;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+466226;F;Yes;53;Yes;Artist;Average;Over 53;5 or more people
+466233;F;Yes;59;Yes;Homemaker;Low;Over 53;1 person
+466235;F;Yes;61;Yes;Artist;Average;Over 53;3 or 4 people
+466236;F;Yes;68;Yes;Engineer;Low;Over 53;2 people
+466238;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+466246;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+466247;F;;49;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+466253;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+466257;F;No;27;No;Healthcare;Low;Under 30;3 or 4 people
+466264;M;Yes;32;Yes;;Low;Between 30 and 41;2 people
+466268;F;Yes;67;Yes;Artist;Average;Over 53;3 or 4 people
+466271;M;No;27;No;Entertainment;Low;Under 30;3 or 4 people
+466274;M;Yes;72;Yes;Executive;Low;Over 53;2 people
+466276;F;No;32;No;Doctor;Low;Between 30 and 41;5 or more people
+466278;F;No;28;No;;Low;Under 30;2 people
+466282;M;Yes;29;Yes;Healthcare;Low;Under 30;2 people
+466285;F;No;19;No;Healthcare;Low;Under 30;5 or more people
+466286;F;Yes;52;Yes;Artist;Average;Between 41 and 53;5 or more people
+466287;F;Yes;47;Yes;Doctor;Average;Between 41 and 53;2 people
+466289;M;No;19;No;Healthcare;Low;Under 30;5 or more people
+466290;F;No;18;No;Healthcare;Low;Under 30;2 people
+466292;F;Yes;79;No;Lawyer;High;Over 53;2 people
+466297;F;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+466300;F;Yes;48;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+466301;M;Yes;52;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+466306;M;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+466313;F;Yes;58;Yes;Artist;Low;Over 53;1 person
+466315;F;Yes;69;Yes;Engineer;Low;Over 53;1 person
+466317;M;Yes;37;Yes;Entertainment;Low;Between 30 and 41;1 person
+466318;F;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+466319;F;;25;No;Healthcare;Low;Under 30;3 or 4 people
+466320;F;No;39;Yes;Engineer;Low;Between 30 and 41;2 people
+466321;M;Yes;43;Yes;Entertainment;Low;Between 41 and 53;2 people
+466324;F;No;32;No;Engineer;Low;Between 30 and 41;1 person
+466326;M;No;23;No;Healthcare;Low;Under 30;5 or more people
+466335;F;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+466337;F;Yes;41;No;Engineer;Low;Between 30 and 41;2 people
+466341;M;Yes;49;Yes;Artist;Average;Between 41 and 53;2 people
+466347;M;Yes;66;No;Executive;Low;Over 53;3 or 4 people
+466352;F;Yes;67;Yes;Doctor;Low;Over 53;2 people
+466355;M;No;30;Yes;Healthcare;Low;Under 30;2 people
+466367;F;No;39;Yes;Doctor;Low;Between 30 and 41;1 person
+466370;F;;52;Yes;Artist;Low;Between 41 and 53;3 or 4 people
+466372;F;Yes;57;Yes;Artist;Average;Over 53;5 or more people
+466373;M;Yes;63;Yes;Executive;High;Over 53;1 person
+466376;F;Yes;52;No;Homemaker;High;Between 41 and 53;3 or 4 people
+466377;M;Yes;61;Yes;;Average;Over 53;2 people
+466380;M;Yes;35;Yes;Entertainment;Low;Between 30 and 41;2 people
+466381;M;Yes;52;Yes;Artist;Average;Between 41 and 53;2 people
+466382;F;Yes;45;Yes;Engineer;High;Between 41 and 53;2 people
+466387;M;Yes;37;Yes;Entertainment;Average;Between 30 and 41;2 people
+466389;F;Yes;45;Yes;Engineer;Average;Between 41 and 53;2 people
+466391;F;Yes;55;Yes;Engineer;Average;Over 53;2 people
+466392;F;Yes;49;Yes;Engineer;Average;Between 41 and 53;2 people
+466393;F;Yes;42;No;Entertainment;Low;Between 41 and 53;5 or more people
+466395;F;Yes;39;Yes;Doctor;High;Between 30 and 41;2 people
+466397;M;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+466400;M;Yes;43;No;Artist;Average;Between 41 and 53;3 or 4 people
+466401;M;Yes;50;No;Executive;Average;Between 41 and 53;3 or 4 people
+466402;M;Yes;37;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+466404;F;No;37;Yes;Engineer;Low;Between 30 and 41;1 person
+466406;M;Yes;63;Yes;Entertainment;Low;Over 53;3 or 4 people
+466408;M;Yes;83;Yes;Lawyer;Low;Over 53;2 people
+466411;M;Yes;55;Yes;Artist;Average;Over 53;3 or 4 people
+466414;M;Yes;71;Yes;Artist;Low;Over 53;3 or 4 people
+466418;M;Yes;87;No;Lawyer;Low;Over 53;1 person
+466419;F;Yes;49;Yes;Entertainment;Average;Between 41 and 53;5 or more people
+466422;M;Yes;27;No;Doctor;Low;Under 30;3 or 4 people
+466427;F;Yes;25;No;Marketing;Low;Under 30;3 or 4 people
+466429;M;Yes;42;No;Healthcare;Low;Between 41 and 53;2 people
+466443;F;Yes;66;Yes;Artist;Low;Over 53;2 people
+466450;F;No;32;Yes;Healthcare;Low;Between 30 and 41;1 person
+466455;F;Yes;32;Yes;Doctor;Low;Between 30 and 41;2 people
+466456;F;Yes;37;No;Doctor;Low;Between 30 and 41;1 person
+466457;F;Yes;62;;Lawyer;Low;Over 53;5 or more people
+466463;F;No;33;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+466464;F;Yes;45;Yes;Homemaker;Average;Between 41 and 53;2 people
+466466;F;;18;No;Healthcare;Low;Under 30;5 or more people
+466467;F;Yes;37;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+466468;M;No;30;Yes;Doctor;Low;Under 30;3 or 4 people
+466474;M;No;31;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+466478;F;Yes;48;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+466483;M;No;31;Yes;Healthcare;Low;Between 30 and 41;1 person
+466486;F;Yes;36;Yes;Doctor;Low;Between 30 and 41;2 people
+466488;M;Yes;61;Yes;Entertainment;Average;Over 53;5 or more people
+466490;F;Yes;83;No;Lawyer;High;Over 53;2 people
+466493;M;Yes;77;No;Lawyer;High;Over 53;2 people
+466500;F;Yes;46;Yes;Artist;High;Between 41 and 53;3 or 4 people
+466501;M;Yes;48;Yes;Engineer;Average;Between 41 and 53;3 or 4 people
+466502;M;No;19;No;Healthcare;Low;Under 30;5 or more people
+466516;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+466517;F;No;40;No;Engineer;Low;Between 30 and 41;1 person
+466526;M;No;27;No;Healthcare;Low;Under 30;5 or more people
+466527;F;Yes;49;No;Marketing;Low;Between 41 and 53;1 person
+466530;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+466533;F;No;53;Yes;Entertainment;Low;Over 53;1 person
+466535;M;No;29;Yes;Artist;Low;Under 30;1 person
+466536;M;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+466538;M;Yes;84;Yes;Lawyer;High;Over 53;2 people
+466541;M;No;38;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+466543;M;No;26;Yes;Doctor;Low;Under 30;2 people
+466545;F;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+466550;F;;22;No;Healthcare;Low;Under 30;3 or 4 people
+466552;M;Yes;20;No;Entertainment;Low;Under 30;2 people
+466553;M;Yes;36;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+466556;M;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+466562;F;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+466564;F;No;18;No;Marketing;Low;Under 30;3 or 4 people
+466565;M;Yes;32;No;Artist;Average;Between 30 and 41;2 people
+466576;F;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+466586;M;No;18;No;Healthcare;Low;Under 30;2 people
+466588;F;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+466596;F;Yes;75;Yes;Artist;High;Over 53;2 people
+466603;M;Yes;37;Yes;Engineer;Average;Between 30 and 41;2 people
+466606;F;Yes;35;Yes;Engineer;Low;Between 30 and 41;3 or 4 people
+466613;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+466623;M;Yes;58;;Entertainment;Average;Over 53;3 or 4 people
+466628;M;No;33;No;Healthcare;Low;Between 30 and 41;3 or 4 people
+466631;M;Yes;58;Yes;Artist;Low;Over 53;3 or 4 people
+466634;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+466635;M;Yes;50;Yes;Artist;Average;Between 41 and 53;2 people
+466644;F;No;51;Yes;Homemaker;Low;Between 41 and 53;2 people
+466650;F;No;27;No;Healthcare;Low;Under 30;3 or 4 people
+466652;F;Yes;58;Yes;Doctor;Average;Over 53;2 people
+466655;M;Yes;62;No;Executive;Low;Over 53;2 people
+466656;M;Yes;79;Yes;Marketing;High;Over 53;2 people
+466658;F;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+466662;F;No;33;No;Engineer;Low;Between 30 and 41;2 people
+466665;M;Yes;36;Yes;Artist;Average;Between 30 and 41;2 people
+466666;F;Yes;29;Yes;Healthcare;Low;Under 30;2 people
+466671;F;;28;No;Healthcare;Low;Under 30;3 or 4 people
+466686;F;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+466687;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+466688;M;No;22;No;Healthcare;Low;Under 30;3 or 4 people
+466689;M;No;28;Yes;Artist;Low;Under 30;3 or 4 people
+466696;F;Yes;48;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+466704;M;Yes;48;Yes;Doctor;Average;Between 41 and 53;2 people
+466705;M;Yes;66;No;Lawyer;Low;Over 53;3 or 4 people
+466707;F;Yes;47;Yes;Homemaker;Low;Between 41 and 53;3 or 4 people
+466713;F;Yes;68;Yes;Artist;High;Over 53;3 or 4 people
+466718;M;Yes;73;;Executive;High;Over 53;2 people
+466720;F;Yes;59;No;Lawyer;Low;Over 53;1 person
+466721;M;Yes;38;Yes;Doctor;Average;Between 30 and 41;2 people
+466725;F;Yes;76;No;Lawyer;High;Over 53;2 people
+466731;F;Yes;40;Yes;Engineer;Low;Between 30 and 41;2 people
+466732;F;Yes;49;Yes;Engineer;High;Between 41 and 53;2 people
+466733;F;No;33;No;Homemaker;Low;Between 30 and 41;2 people
+466735;M;No;18;No;Healthcare;Low;Under 30;2 people
+466746;F;Yes;69;Yes;Lawyer;High;Over 53;2 people
+466749;M;No;22;;Healthcare;Low;Under 30;5 or more people
+466750;F;No;18;;Healthcare;Low;Under 30;3 or 4 people
+466751;F;No;20;;Healthcare;Low;Under 30;3 or 4 people
+466752;M;Yes;36;Yes;Healthcare;Low;Between 30 and 41;1 person
+466753;F;Yes;67;Yes;Artist;Average;Over 53;2 people
+466754;F;Yes;37;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+466759;F;No;26;No;Healthcare;Low;Under 30;2 people
+466760;M;Yes;51;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+466765;F;Yes;67;Yes;Lawyer;Low;Over 53;2 people
+466769;F;No;29;Yes;Entertainment;Low;Under 30;3 or 4 people
+466775;F;Yes;76;Yes;Lawyer;Low;Over 53;2 people
+466776;M;Yes;86;Yes;Lawyer;Low;Over 53;1 person
+466777;F;Yes;51;Yes;Homemaker;Average;Between 41 and 53;2 people
+466778;M;Yes;35;Yes;Entertainment;Low;Between 30 and 41;2 people
+466788;M;No;30;No;Doctor;Low;Under 30;2 people
+466790;M;Yes;47;Yes;Doctor;Average;Between 41 and 53;2 people
+466791;M;Yes;81;No;Lawyer;Low;Over 53;1 person
+466792;F;Yes;85;No;Lawyer;Low;Over 53;1 person
+466795;M;;60;Yes;Entertainment;Average;Over 53;5 or more people
+466799;F;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+466802;F;;40;Yes;Engineer;Low;Between 30 and 41;1 person
+466804;F;;35;Yes;Homemaker;Low;Between 30 and 41;1 person
+466807;F;;35;Yes;Healthcare;Low;Between 30 and 41;1 person
+466808;F;No;41;No;Engineer;Low;Between 30 and 41;1 person
+466810;M;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+466811;M;No;22;No;Healthcare;Low;Under 30;2 people
+466813;M;Yes;61;Yes;Artist;Low;Over 53;2 people
+466814;M;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+466815;M;No;31;No;Healthcare;Low;Between 30 and 41;5 or more people
+466816;M;Yes;82;Yes;Lawyer;High;Over 53;2 people
+466818;M;Yes;84;No;Executive;High;Over 53;2 people
+466826;M;Yes;41;Yes;Entertainment;Low;Between 30 and 41;2 people
+466832;F;Yes;66;Yes;Artist;Average;Over 53;2 people
+466833;M;Yes;57;Yes;Artist;Low;Over 53;2 people
+466846;M;No;20;No;Healthcare;Low;Under 30;3 or 4 people
+466863;F;No;32;No;Homemaker;Low;Between 30 and 41;1 person
+466867;F;No;29;No;Homemaker;Low;Under 30;1 person
+466871;M;Yes;36;Yes;Executive;High;Between 30 and 41;3 or 4 people
+466874;M;Yes;38;Yes;Entertainment;Average;Between 30 and 41;3 or 4 people
+466884;F;Yes;43;No;Doctor;Low;Between 41 and 53;1 person
+466886;F;No;42;No;Marketing;Low;Between 41 and 53;1 person
+466891;F;Yes;48;No;Homemaker;Low;Between 41 and 53;1 person
+466905;M;Yes;62;Yes;Artist;Low;Over 53;1 person
+466906;M;No;63;Yes;Artist;Low;Over 53;2 people
+466908;M;Yes;60;Yes;Entertainment;Low;Over 53;2 people
+466909;M;Yes;63;Yes;Artist;Low;Over 53;2 people
+466910;M;Yes;62;Yes;Entertainment;Low;Over 53;1 person
+466917;M;Yes;40;No;Executive;Low;Between 30 and 41;2 people
+466918;M;Yes;63;Yes;Artist;Average;Over 53;1 person
+466920;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+466923;F;No;21;No;Homemaker;Low;Under 30;1 person
+466926;M;No;21;No;Healthcare;Low;Under 30;2 people
+466927;M;No;22;No;Engineer;Low;Under 30;5 or more people
+466936;M;Yes;60;No;Lawyer;High;Over 53;3 or 4 people
+466938;M;Yes;59;Yes;Artist;Low;Over 53;1 person
+466939;M;Yes;73;No;Lawyer;High;Over 53;2 people
+466951;F;Yes;52;Yes;Artist;High;Between 41 and 53;3 or 4 people
+466954;F;Yes;66;No;Doctor;Average;Over 53;2 people
+466955;M;Yes;61;No;Entertainment;Low;Over 53;3 or 4 people
+466956;F;Yes;61;Yes;Artist;Low;Over 53;1 person
+466961;F;Yes;61;Yes;Artist;Average;Over 53;2 people
+466966;M;Yes;59;Yes;Entertainment;Average;Over 53;2 people
+466967;M;Yes;51;Yes;Artist;Low;Between 41 and 53;1 person
+466970;F;Yes;36;Yes;Homemaker;Low;Between 30 and 41;2 people
+466971;M;No;71;Yes;Executive;Low;Over 53;3 or 4 people
+466975;M;Yes;48;Yes;Artist;Average;Between 41 and 53;2 people
+466990;M;Yes;43;Yes;Entertainment;Average;Between 41 and 53;2 people
+466996;F;No;36;Yes;Artist;Low;Between 30 and 41;1 person
+466998;F;Yes;57;No;Artist;Average;Over 53;3 or 4 people
+466999;M;No;33;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+467000;F;No;31;Yes;Artist;Low;Between 30 and 41;5 or more people
+467008;M;Yes;57;Yes;Artist;Average;Over 53;3 or 4 people
+467009;F;No;33;No;Homemaker;Low;Between 30 and 41;3 or 4 people
+467022;M;No;30;Yes;Artist;Low;Under 30;5 or more people
+467023;M;Yes;26;No;Doctor;Average;Under 30;2 people
+467025;F;No;29;No;Engineer;Low;Under 30;3 or 4 people
+467044;F;No;42;Yes;Marketing;Low;Between 41 and 53;1 person
+467046;F;No;30;No;Doctor;Low;Under 30;5 or more people
+467050;F;No;18;No;Engineer;Low;Under 30;5 or more people
+467053;M;No;18;No;Healthcare;Low;Under 30;3 or 4 people
+467058;M;Yes;80;No;Executive;High;Over 53;2 people
+467060;M;No;35;No;Engineer;Low;Between 30 and 41;2 people
+467063;M;Yes;45;Yes;Entertainment;Average;Between 41 and 53;2 people
+467073;M;No;42;Yes;Engineer;Low;Between 41 and 53;1 person
+467078;F;Yes;26;No;Healthcare;High;Under 30;2 people
+467079;M;Yes;38;Yes;Artist;Low;Between 30 and 41;2 people
+467084;M;Yes;41;Yes;Artist;Average;Between 30 and 41;5 or more people
+467085;M;No;45;Yes;Entertainment;Low;Between 41 and 53;2 people
+467088;M;Yes;57;Yes;Artist;Low;Over 53;1 person
+467092;F;No;33;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+467093;F;Yes;51;Yes;Artist;Average;Between 41 and 53;2 people
+467098;M;Yes;85;No;Executive;Low;Over 53;2 people
+467099;F;No;30;No;Entertainment;Low;Under 30;3 or 4 people
+467107;M;Yes;38;Yes;Engineer;Average;Between 30 and 41;3 or 4 people
+467111;M;Yes;66;Yes;Artist;Low;Over 53;1 person
+467112;M;No;40;Yes;Artist;Low;Between 30 and 41;2 people
+467113;M;Yes;83;Yes;Lawyer;Low;Over 53;1 person
+467114;M;Yes;61;Yes;Marketing;Average;Over 53;3 or 4 people
+467116;M;Yes;65;Yes;Executive;High;Over 53;2 people
+467119;M;Yes;37;No;Marketing;High;Between 30 and 41;3 or 4 people
+467121;M;Yes;47;Yes;Doctor;Low;Between 41 and 53;2 people
+467125;M;Yes;51;No;Entertainment;Average;Between 41 and 53;3 or 4 people
+467127;M;Yes;73;No;Lawyer;Low;Over 53;1 person
+467129;F;;49;No;Marketing;Average;Between 41 and 53;3 or 4 people
+467132;F;Yes;73;Yes;Engineer;Low;Over 53;2 people
+467136;M;Yes;37;No;Entertainment;Average;Between 30 and 41;3 or 4 people
+467137;F;Yes;55;Yes;Engineer;Low;Over 53;1 person
+467138;F;No;32;No;Homemaker;Low;Between 30 and 41;1 person
+467139;F;No;28;Yes;Artist;Low;Under 30;3 or 4 people
+467143;F;No;50;No;Lawyer;Low;Between 41 and 53;3 or 4 people
+467144;M;Yes;38;Yes;Entertainment;Low;Between 30 and 41;2 people
+467146;F;No;28;No;Homemaker;Low;Under 30;1 person
+467147;M;No;46;Yes;Entertainment;Low;Between 41 and 53;1 person
+467153;F;Yes;47;Yes;Artist;Low;Between 41 and 53;2 people
+467157;M;Yes;39;Yes;Executive;High;Between 30 and 41;5 or more people
+467158;F;No;26;No;Healthcare;Low;Under 30;2 people
+467159;F;Yes;37;Yes;Homemaker;High;Between 30 and 41;2 people
+467160;M;Yes;43;No;;Average;Between 41 and 53;2 people
+467165;F;No;27;No;Homemaker;Low;Under 30;1 person
+467167;M;Yes;69;Yes;Artist;Average;Over 53;2 people
+467168;M;Yes;47;Yes;Artist;Average;Between 41 and 53;2 people
+467172;M;No;36;;Artist;Low;Between 30 and 41;2 people
+467180;M;Yes;43;Yes;Healthcare;Low;Between 41 and 53;3 or 4 people
+467183;M;Yes;42;Yes;Entertainment;Average;Between 41 and 53;3 or 4 people
+467185;M;No;29;Yes;Artist;Low;Under 30;3 or 4 people
+467189;F;Yes;45;Yes;Artist;High;Between 41 and 53;3 or 4 people
+467193;M;Yes;88;Yes;Artist;Low;Over 53;2 people
+467201;F;No;33;Yes;Engineer;Low;Between 30 and 41;5 or more people
+467202;M;Yes;18;No;Doctor;Low;Under 30;3 or 4 people
+467208;F;Yes;41;Yes;Homemaker;High;Between 30 and 41;2 people
+467212;F;No;28;Yes;Doctor;Low;Under 30;3 or 4 people
+467216;F;No;30;Yes;Entertainment;Low;Under 30;1 person
+467217;F;Yes;79;Yes;Lawyer;High;Over 53;2 people
+467218;F;No;27;Yes;Artist;Low;Under 30;1 person
+467223;F;Yes;53;Yes;Engineer;Average;Over 53;3 or 4 people
+467227;F;No;43;Yes;Artist;Low;Between 41 and 53;1 person
+467230;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+467232;M;No;26;No;Entertainment;Low;Under 30;2 people
+467233;F;No;67;No;Artist;Low;Over 53;2 people
+467235;F;No;32;Yes;Artist;Low;Between 30 and 41;2 people
+467238;F;No;26;No;Doctor;Low;Under 30;3 or 4 people
+467239;F;No;29;No;Engineer;Low;Under 30;3 or 4 people
+467241;F;No;33;Yes;Artist;Low;Between 30 and 41;1 person
+467242;M;No;22;No;Doctor;Low;Under 30;3 or 4 people
+467247;F;No;27;No;Engineer;Low;Under 30;2 people
+467256;M;No;30;No;Healthcare;Low;Under 30;3 or 4 people
+467260;M;No;25;No;Doctor;Low;Under 30;3 or 4 people
+467263;F;No;32;No;Marketing;Low;Between 30 and 41;1 person
+467268;M;Yes;85;Yes;Lawyer;Low;Over 53;1 person
+467275;M;No;29;Yes;Healthcare;Low;Under 30;2 people
+467281;M;Yes;56;Yes;Lawyer;Low;Over 53;3 or 4 people
+467283;M;Yes;52;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+467288;F;No;25;No;Healthcare;Low;Under 30;5 or more people
+467296;F;Yes;65;Yes;Artist;Average;Over 53;2 people
+467300;F;Yes;49;Yes;Artist;Low;Between 41 and 53;1 person
+467301;F;Yes;73;No;Lawyer;Low;Over 53;2 people
+467303;M;Yes;36;Yes;Doctor;Average;Between 30 and 41;2 people
+467309;F;No;36;Yes;Engineer;Low;Between 30 and 41;1 person
+467311;M;Yes;71;Yes;Lawyer;High;Over 53;3 or 4 people
+467312;F;Yes;55;Yes;Artist;Low;Over 53;2 people
+467313;M;Yes;35;Yes;Entertainment;Average;Between 30 and 41;2 people
+467314;M;Yes;41;No;Artist;Average;Between 30 and 41;2 people
+467317;M;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+467318;M;Yes;35;Yes;Doctor;Low;Between 30 and 41;2 people
+467322;F;Yes;48;Yes;Artist;Average;Between 41 and 53;2 people
+467325;F;Yes;73;Yes;Lawyer;High;Over 53;2 people
+467329;F;No;40;Yes;Doctor;Low;Between 30 and 41;1 person
+467338;F;No;29;Yes;Healthcare;Low;Under 30;5 or more people
+467339;M;;62;Yes;Artist;Average;Over 53;3 or 4 people
+467344;M;Yes;89;Yes;Lawyer;Low;Over 53;2 people
+467345;M;Yes;86;Yes;Lawyer;Low;Over 53;1 person
+467346;M;Yes;38;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+467352;M;Yes;45;Yes;Executive;High;Between 41 and 53;3 or 4 people
+467355;M;No;26;No;Healthcare;Low;Under 30;3 or 4 people
+467357;M;Yes;55;Yes;;Low;Over 53;2 people
+467358;F;Yes;52;Yes;Artist;Average;Between 41 and 53;5 or more people
+467359;M;Yes;43;Yes;Artist;Average;Between 41 and 53;2 people
+467365;M;No;35;Yes;Artist;Low;Between 30 and 41;1 person
+467367;M;Yes;73;Yes;Lawyer;Low;Over 53;2 people
+467369;M;No;41;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+467373;M;No;27;Yes;Healthcare;Low;Under 30;1 person
+467375;M;Yes;35;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+467378;F;Yes;63;Yes;Artist;Average;Over 53;2 people
+467384;M;No;41;Yes;;Low;Between 30 and 41;1 person
+467385;M;No;53;No;Artist;Low;Over 53;2 people
+467389;M;No;42;No;Engineer;Low;Between 41 and 53;2 people
+467393;F;Yes;46;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+467398;M;Yes;38;No;Entertainment;Low;Between 30 and 41;2 people
+467399;M;Yes;25;Yes;Doctor;Low;Under 30;3 or 4 people
+467403;F;Yes;40;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+467410;F;Yes;55;Yes;Lawyer;Low;Over 53;2 people
+467415;F;No;29;Yes;Healthcare;Low;Under 30;1 person
+467419;F;Yes;39;Yes;Artist;Low;Between 30 and 41;1 person
+467421;M;Yes;50;No;Doctor;Average;Between 41 and 53;3 or 4 people
+467422;F;Yes;61;Yes;Artist;Average;Over 53;2 people
+467423;M;Yes;56;Yes;Artist;Low;Over 53;1 person
+467434;M;No;40;Yes;Entertainment;Low;Between 30 and 41;3 or 4 people
+467437;F;Yes;86;Yes;Lawyer;High;Over 53;2 people
+467438;M;No;27;No;Entertainment;Low;Under 30;3 or 4 people
+467441;M;No;35;Yes;Artist;Low;Between 30 and 41;1 person
+467442;M;Yes;56;Yes;Artist;Average;Over 53;2 people
+467444;F;Yes;36;Yes;Artist;Low;Between 30 and 41;2 people
+467445;M;Yes;32;No;Doctor;Low;Between 30 and 41;2 people
+467449;F;Yes;85;Yes;Lawyer;Low;Over 53;2 people
+467451;F;Yes;51;Yes;Artist;Low;Between 41 and 53;1 person
+467455;F;No;41;Yes;Artist;Low;Between 30 and 41;2 people
+467456;M;Yes;42;No;Executive;High;Between 41 and 53;3 or 4 people
+467457;F;No;30;Yes;Marketing;Low;Under 30;5 or more people
+467459;M;Yes;42;Yes;Executive;High;Between 41 and 53;5 or more people
+467463;F;Yes;42;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+467468;F;No;25;No;Healthcare;Low;Under 30;5 or more people
+467472;M;Yes;60;Yes;Executive;High;Over 53;3 or 4 people
+467474;M;No;18;No;Healthcare;Low;Under 30;5 or more people
+467479;M;Yes;36;Yes;Executive;Average;Between 30 and 41;3 or 4 people
+467481;M;Yes;49;Yes;Artist;Average;Between 41 and 53;2 people
+467482;M;Yes;42;Yes;Executive;High;Between 41 and 53;3 or 4 people
+467487;M;Yes;42;No;Artist;Average;Between 41 and 53;5 or more people
+467488;F;Yes;39;Yes;Entertainment;Average;Between 30 and 41;2 people
+467492;F;Yes;62;Yes;Doctor;Low;Over 53;2 people
+467493;M;Yes;47;Yes;Executive;High;Between 41 and 53;3 or 4 people
+467499;M;Yes;39;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+467500;F;Yes;25;Yes;Artist;High;Under 30;2 people
+467503;F;No;27;Yes;Artist;Low;Under 30;3 or 4 people
+467504;F;;31;No;Doctor;Low;Between 30 and 41;3 or 4 people
+467505;M;Yes;36;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+467510;M;Yes;51;Yes;Entertainment;Low;Between 41 and 53;3 or 4 people
+467511;M;Yes;63;Yes;Entertainment;Low;Over 53;1 person
+467514;M;No;40;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+467518;M;No;22;No;Doctor;Low;Under 30;2 people
+467532;M;Yes;52;Yes;Artist;Low;Between 41 and 53;1 person
+467533;M;Yes;89;Yes;Lawyer;Low;Over 53;1 person
+467537;F;Yes;65;No;Lawyer;High;Over 53;3 or 4 people
+467539;M;Yes;48;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+467540;M;Yes;48;Yes;Healthcare;Average;Between 41 and 53;3 or 4 people
+467542;M;No;31;Yes;Healthcare;Low;Between 30 and 41;1 person
+467557;F;Yes;62;Yes;Artist;Average;Over 53;2 people
+467559;M;Yes;58;Yes;Executive;Average;Over 53;3 or 4 people
+467565;M;Yes;60;Yes;Artist;Low;Over 53;3 or 4 people
+467569;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+467570;M;No;18;No;Healthcare;Low;Under 30;2 people
+467576;M;Yes;48;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+467579;M;No;35;Yes;Doctor;Low;Between 30 and 41;1 person
+467580;M;No;27;Yes;Doctor;Low;Under 30;3 or 4 people
+467588;M;Yes;60;Yes;Artist;Average;Over 53;3 or 4 people
+467589;M;No;32;No;Entertainment;Low;Between 30 and 41;1 person
+467592;M;Yes;40;Yes;Entertainment;Low;Between 30 and 41;2 people
+467595;F;No;25;Yes;Healthcare;Low;Under 30;1 person
+467596;M;Yes;42;No;Artist;Low;Between 41 and 53;5 or more people
+467604;M;No;26;No;Healthcare;Low;Under 30;5 or more people
+467608;M;No;27;Yes;Engineer;Low;Under 30;1 person
+467609;M;No;42;No;Artist;Low;Between 41 and 53;3 or 4 people
+467610;F;Yes;77;Yes;Lawyer;Low;Over 53;1 person
+467612;M;Yes;70;Yes;Executive;Low;Over 53;2 people
+467614;M;Yes;36;No;Artist;Average;Between 30 and 41;2 people
+467620;M;Yes;57;Yes;Lawyer;Low;Over 53;3 or 4 people
+467621;M;Yes;76;Yes;Lawyer;Low;Over 53;1 person
+467623;M;Yes;77;Yes;;High;Over 53;2 people
+467629;M;Yes;52;Yes;Artist;Low;Between 41 and 53;1 person
+467635;F;No;35;Yes;Artist;Low;Between 30 and 41;1 person
+467641;M;Yes;43;Yes;Doctor;Average;Between 41 and 53;2 people
+467643;M;No;43;Yes;Artist;Low;Between 41 and 53;1 person
+467654;F;Yes;62;Yes;Artist;High;Over 53;3 or 4 people
+467657;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+467658;M;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+467659;M;Yes;65;Yes;Entertainment;Average;Over 53;2 people
+467664;M;Yes;35;Yes;Executive;High;Between 30 and 41;3 or 4 people
+467666;M;Yes;48;Yes;Executive;High;Between 41 and 53;3 or 4 people
+467667;M;Yes;33;No;Doctor;Low;Between 30 and 41;2 people
+467669;M;Yes;82;No;Lawyer;High;Over 53;2 people
+467673;M;Yes;45;No;Executive;High;Between 41 and 53;3 or 4 people
+467678;M;No;56;No;Marketing;Low;Over 53;2 people
+467679;F;Yes;49;Yes;Artist;Average;Between 41 and 53;3 or 4 people
+467683;M;Yes;30;Yes;Healthcare;High;Under 30;3 or 4 people
+467684;M;No;37;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+467685;M;Yes;51;No;Marketing;High;Between 41 and 53;5 or more people
+467693;M;Yes;59;Yes;Entertainment;High;Over 53;5 or more people
+467694;M;Yes;56;Yes;Executive;High;Over 53;2 people
+467699;F;Yes;29;Yes;Doctor;Average;Under 30;2 people
+467705;M;Yes;31;Yes;Artist;Low;Between 30 and 41;2 people
+467706;F;Yes;35;Yes;Artist;Average;Between 30 and 41;3 or 4 people
+467707;M;Yes;89;Yes;Lawyer;High;Over 53;2 people
+467710;F;No;38;Yes;Artist;Low;Between 30 and 41;3 or 4 people
+467715;M;Yes;45;Yes;Executive;High;Between 41 and 53;3 or 4 people
+467721;M;No;37;Yes;Entertainment;Low;Between 30 and 41;1 person
+467723;M;Yes;74;No;Executive;Low;Over 53;5 or more people
+467726;M;Yes;82;Yes;Lawyer;High;Over 53;2 people
+467727;M;Yes;53;Yes;Artist;High;Over 53;3 or 4 people
+467728;F;Yes;43;No;Engineer;High;Between 41 and 53;5 or more people
+467729;M;Yes;62;Yes;Entertainment;Average;Over 53;5 or more people
+467733;M;Yes;56;No;Executive;High;Over 53;3 or 4 people
+467734;M;Yes;88;Yes;Lawyer;High;Over 53;2 people
+467735;M;No;28;Yes;Doctor;Low;Under 30;2 people
+467737;F;Yes;51;Yes;Entertainment;Average;Between 41 and 53;2 people
+467739;F;Yes;60;No;Artist;Average;Over 53;3 or 4 people
+467740;M;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+467741;M;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+467749;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+467763;F;No;50;Yes;Artist;Low;Between 41 and 53;1 person
+467767;F;No;21;No;Marketing;Low;Under 30;3 or 4 people
+467768;M;Yes;62;Yes;Doctor;Average;Over 53;2 people
+467769;F;No;36;Yes;Doctor;Low;Between 30 and 41;1 person
+467772;F;No;31;No;Marketing;Low;Between 30 and 41;2 people
+467779;M;Yes;52;Yes;Doctor;Average;Between 41 and 53;3 or 4 people
+467789;M;No;20;No;Healthcare;Low;Under 30;5 or more people
+467798;F;No;23;No;;Low;Under 30;2 people
+467802;F;Yes;48;Yes;Artist;High;Between 41 and 53;5 or more people
+467803;F;Yes;40;Yes;Entertainment;Average;Between 30 and 41;2 people
+467806;M;Yes;55;Yes;Artist;High;Over 53;2 people
+467808;F;Yes;62;Yes;Artist;Average;Over 53;2 people
+467812;M;No;48;Yes;Artist;Low;Between 41 and 53;1 person
+467813;M;Yes;36;Yes;Entertainment;Low;Between 30 and 41;2 people
+467815;F;Yes;73;Yes;Artist;Low;Over 53;2 people
+467825;F;No;23;No;Marketing;Low;Under 30;5 or more people
+467828;F;Yes;25;Yes;Artist;Average;Under 30;2 people
+467838;M;Yes;60;Yes;Artist;Average;Over 53;2 people
+467848;M;No;37;Yes;Artist;Low;Between 30 and 41;1 person
+467849;F;Yes;39;Yes;Doctor;Low;Between 30 and 41;1 person
+467852;F;No;39;Yes;Artist;Low;Between 30 and 41;1 person
+467856;M;Yes;58;Yes;Artist;Low;Over 53;2 people
+467860;F;No;33;Yes;Entertainment;Low;Between 30 and 41;1 person
+467861;F;No;29;No;Artist;Low;Under 30;3 or 4 people
+467864;F;Yes;66;Yes;Lawyer;High;Over 53;2 people
+467865;F;No;40;Yes;Artist;Low;Between 30 and 41;1 person
+467868;F;Yes;66;Yes;Entertainment;High;Over 53;2 people
+467876;F;Yes;50;Yes;Artist;High;Between 41 and 53;2 people
+467879;F;Yes;51;Yes;Artist;High;Between 41 and 53;3 or 4 people
+467880;F;Yes;50;Yes;Artist;Average;Between 41 and 53;2 people
+467882;F;No;39;Yes;Artist;Low;Between 30 and 41;1 person
+467883;F;Yes;46;Yes;Artist;Average;Between 41 and 53;2 people
+467888;M;No;29;No;Doctor;Low;Under 30;3 or 4 people
+467891;F;No;29;Yes;Doctor;Low;Under 30;5 or more people
+467892;M;No;23;No;Doctor;Low;Under 30;5 or more people
+467894;M;Yes;57;Yes;Artist;Average;Over 53;2 people
+467895;F;No;31;Yes;Healthcare;Low;Between 30 and 41;3 or 4 people
+467898;F;Yes;69;Yes;Artist;Low;Over 53;1 person
+467901;F;No;28;Yes;Entertainment;Low;Under 30;3 or 4 people
+467904;F;No;31;Yes;Artist;Low;Between 30 and 41;1 person
+467905;M;Yes;37;Yes;Executive;High;Between 30 and 41;3 or 4 people
+467911;M;Yes;58;Yes;Healthcare;Low;Over 53;3 or 4 people
+467913;M;Yes;48;Yes;Artist;Low;Between 41 and 53;1 person
+467915;F;No;18;No;Doctor;Low;Under 30;3 or 4 people
+467917;F;No;27;Yes;Healthcare;Low;Under 30;3 or 4 people
+467927;M;No;30;Yes;Doctor;Low;Under 30;5 or more people
+467929;F;Yes;36;Yes;Artist;Average;Between 30 and 41;2 people
+467930;M;Yes;45;Yes;Entertainment;Average;Between 41 and 53;2 people
+467932;F;No;26;No;Healthcare;Low;Under 30;3 or 4 people
+467933;F;No;23;No;Healthcare;Low;Under 30;3 or 4 people
+467934;F;No;42;Yes;Artist;Low;Between 41 and 53;1 person
+467938;M;Yes;46;Yes;Entertainment;Low;Between 41 and 53;1 person
+467940;F;No;27;No;Marketing;Low;Under 30;3 or 4 people
+467946;F;Yes;42;Yes;Artist;Low;Between 41 and 53;2 people
+467948;F;No;19;No;Healthcare;Low;Under 30;3 or 4 people
+467949;M;No;21;No;Healthcare;Low;Under 30;3 or 4 people
+467950;F;No;35;Yes;Entertainment;Low;Between 30 and 41;2 people
+467954;M;No;29;No;Healthcare;Low;Under 30;3 or 4 people
+467958;F;No;35;Yes;Doctor;Low;Between 30 and 41;1 person
+467960;F;No;53;Yes;Entertainment;Low;Over 53;2 people
+467961;M;Yes;47;Yes;Executive;High;Between 41 and 53;5 or more people
+467968;F;No;43;Yes;Healthcare;Low;Between 41 and 53;3 or 4 people
