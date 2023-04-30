@@ -1,0 +1,387 @@
+ID;Gender;Ever_Married;Age;Graduated;Profession;Var_1;Family_Size_Imputed;Age_Category;Family_Size_Cat
+459000;M;Yes;59;No;Executive;Cat_6;2.0;Over 53;2 people
+459003;M;Yes;47;Yes;Doctor;Cat_4;5.0;Between 41 and 53;5 or more people
+459056;M;Yes;63;No;Executive;Cat_6;3.0;Over 53;3 or 4 people
+459057;M;Yes;69;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459059;M;Yes;79;No;Executive;Cat_6;2.0;Over 53;2 people
+459061;F;Yes;35;Yes;Healthcare;Cat_6;3.0;Between 30 and 41;3 or 4 people
+459064;M;Yes;27;No;Executive;Cat_6;4.0;Under 30;3 or 4 people
+459077;F;Yes;79;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459079;M;Yes;87;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459117;M;Yes;68;Yes;Artist;Cat_6;2.0;Over 53;2 people
+459119;M;Yes;57;Yes;Executive;Cat_6;3.0;Over 53;3 or 4 people
+459123;F;Yes;86;No;Artist;Cat_6;2.0;Over 53;2 people
+459130;F;Yes;74;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459143;M;Yes;50;No;Artist;Cat_6;4.0;Between 41 and 53;3 or 4 people
+459144;M;Yes;80;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459161;M;Yes;50;Yes;Executive;Cat_6;5.0;Between 41 and 53;5 or more people
+459162;F;Yes;83;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459181;M;Yes;62;No;Artist;Cat_6;3.0;Over 53;3 or 4 people
+459194;F;Yes;89;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459208;F;Yes;57;Yes;Artist;Cat_3;2.0;Over 53;2 people
+459210;F;Yes;71;Yes;Artist;Cat_6;2.0;Over 53;2 people
+459220;F;Yes;80;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459236;F;Yes;78;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459258;F;Yes;83;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459270;M;Yes;69;Yes;Homemaker;Cat_6;2.0;Over 53;2 people
+459284;F;Yes;71;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459339;M;Yes;29;Yes;Healthcare;Cat_6;2.0;Under 30;2 people
+459344;F;Yes;88;Yes;Artist;Cat_6;2.0;Over 53;2 people
+459349;F;Yes;50;Yes;Artist;Cat_6;4.0;Between 41 and 53;3 or 4 people
+459354;F;Yes;50;Yes;Artist;Cat_6;3.0;Between 41 and 53;3 or 4 people
+459375;M;Yes;22;No;Executive;Cat_6;4.0;Under 30;3 or 4 people
+459386;M;Yes;65;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459398;F;Yes;58;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459405;F;Yes;78;No;Doctor;Cat_6;2.0;Over 53;2 people
+459409;F;Yes;76;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459410;F;Yes;88;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459413;F;Yes;79;Yes;Artist;Cat_6;2.0;Over 53;2 people
+459418;M;Yes;69;No;Executive;Cat_6;2.0;Over 53;2 people
+459485;F;Yes;79;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459499;F;Yes;79;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459503;M;Yes;42;Yes;Healthcare;Cat_6;4.0;Between 41 and 53;3 or 4 people
+459507;M;Yes;67;No;Lawyer;Cat_1;2.0;Over 53;2 people
+459512;M;Yes;67;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459541;M;Yes;59;Yes;Artist;Cat_6;2.0;Over 53;2 people
+459571;F;Yes;50;Yes;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+459597;F;Yes;68;Yes;Artist;Cat_6;2.0;Over 53;2 people
+459603;F;Yes;79;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459632;F;Yes;50;No;Marketing;Cat_4;3.0;Between 41 and 53;3 or 4 people
+459692;F;Yes;72;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+459693;F;Yes;50;Yes;Artist;;3.0;Between 41 and 53;3 or 4 people
+459711;M;Yes;42;No;Executive;Cat_6;6.0;Between 41 and 53;5 or more people
+459727;M;Yes;82;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459742;F;Yes;84;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459748;M;Yes;51;No;Executive;Cat_6;2.0;Between 41 and 53;2 people
+459756;F;Yes;62;No;Lawyer;Cat_4;4.0;Over 53;3 or 4 people
+459793;M;Yes;37;Yes;Artist;Cat_6;2.0;Between 30 and 41;2 people
+459804;M;Yes;46;No;Artist;Cat_6;4.0;Between 41 and 53;3 or 4 people
+459819;M;Yes;72;Yes;Entertainment;Cat_6;2.0;Over 53;2 people
+459821;M;Yes;71;No;Executive;;1.0;Over 53;1 person
+459861;F;Yes;74;No;Lawyer;Cat_6;2.0;Over 53;2 people
+459864;F;Yes;68;No;Artist;Cat_6;2.0;Over 53;2 people
+459867;M;Yes;49;Yes;Marketing;Cat_6;2.0;Between 41 and 53;2 people
+459925;M;Yes;67;No;Executive;Cat_4;2.0;Over 53;2 people
+460081;M;Yes;41;Yes;Artist;Cat_6;2.0;Between 30 and 41;2 people
+460088;F;Yes;25;Yes;Homemaker;Cat_6;2.0;Under 30;2 people
+460134;M;Yes;40;Yes;Entertainment;Cat_6;3.0;Between 30 and 41;3 or 4 people
+460168;M;Yes;83;Yes;Executive;Cat_2;2.0;Over 53;2 people
+460171;F;Yes;62;Yes;Artist;Cat_6;2.0;Over 53;2 people
+460222;F;Yes;73;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+460265;M;Yes;47;Yes;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+460305;F;Yes;49;Yes;Entertainment;Cat_6;1.0;Between 41 and 53;1 person
+460370;F;Yes;27;Yes;Executive;Cat_6;2.0;Under 30;2 people
+460422;M;Yes;52;Yes;Entertainment;Cat_6;2.0;Between 41 and 53;2 people
+460434;M;Yes;57;Yes;Artist;Cat_6;3.0;Over 53;3 or 4 people
+460450;M;Yes;50;Yes;Executive;Cat_4;4.0;Between 41 and 53;3 or 4 people
+460508;M;Yes;31;Yes;Healthcare;Cat_3;3.0;Between 30 and 41;3 or 4 people
+460545;M;Yes;78;No;Lawyer;Cat_3;3.0;Over 53;3 or 4 people
+460622;F;Yes;71;Yes;Lawyer;Cat_3;3.0;Over 53;3 or 4 people
+460626;M;Yes;47;No;Doctor;Cat_6;4.0;Between 41 and 53;3 or 4 people
+460633;M;Yes;35;Yes;Unknown;Cat_3;2.0;Between 30 and 41;2 people
+460727;M;Yes;73;No;Executive;Cat_3;4.0;Over 53;3 or 4 people
+460769;F;Yes;83;No;Lawyer;Cat_6;2.0;Over 53;2 people
+460802;M;Yes;68;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+460811;F;Yes;45;No;Engineer;Cat_6;2.0;Between 41 and 53;2 people
+460813;F;Yes;86;No;Lawyer;Cat_6;2.0;Over 53;2 people
+460815;M;Yes;62;Yes;Artist;Cat_3;2.0;Over 53;2 people
+460906;F;Yes;89;Yes;Lawyer;Cat_6;3.0;Over 53;3 or 4 people
+460907;M;Yes;83;No;Lawyer;Cat_6;3.0;Over 53;3 or 4 people
+460962;M;Yes;61;Yes;Executive;Cat_6;4.0;Over 53;3 or 4 people
+460975;M;Yes;79;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+460977;M;Yes;42;Yes;Executive;Cat_4;3.0;Between 41 and 53;3 or 4 people
+461000;M;Yes;60;No;Marketing;Cat_3;2.0;Over 53;2 people
+461023;M;Yes;65;No;Lawyer;Cat_3;2.0;Over 53;2 people
+461037;M;Yes;40;Yes;Healthcare;Cat_3;5.0;Between 30 and 41;5 or more people
+461038;F;Yes;46;Yes;Engineer;Cat_3;5.0;Between 41 and 53;5 or more people
+461041;F;Yes;65;No;Lawyer;Cat_3;7.0;Over 53;5 or more people
+461050;M;Yes;49;Yes;Unknown;Cat_6;3.0;Between 41 and 53;3 or 4 people
+461053;M;Yes;39;No;Executive;Cat_3;4.0;Between 30 and 41;3 or 4 people
+461059;F;Yes;52;No;Lawyer;Cat_6;2.0;Between 41 and 53;2 people
+461060;M;Yes;56;Yes;Executive;Cat_6;5.0;Over 53;5 or more people
+461116;M;Yes;33;No;Executive;Cat_3;4.0;Between 30 and 41;3 or 4 people
+461131;M;Yes;67;Yes;Artist;Cat_6;2.0;Over 53;2 people
+461232;F;Yes;41;Yes;Executive;Cat_3;2.0;Between 30 and 41;2 people
+461274;F;Yes;87;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+461292;F;Yes;89;No;Lawyer;Cat_3;2.0;Over 53;2 people
+461297;M;Yes;73;No;Lawyer;Cat_6;2.0;Over 53;2 people
+461299;F;Yes;75;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+461335;M;Yes;53;No;Executive;Cat_6;2.0;Over 53;2 people
+461383;M;Yes;71;Yes;Artist;Cat_6;2.0;Over 53;2 people
+461454;F;Yes;36;Yes;Artist;Cat_7;4.0;Between 30 and 41;3 or 4 people
+461480;F;Yes;57;Yes;Artist;Cat_6;3.0;Over 53;3 or 4 people
+461501;F;Yes;45;Yes;Engineer;Cat_6;3.0;Between 41 and 53;3 or 4 people
+461521;M;Yes;67;Yes;Artist;Cat_6;2.0;Over 53;2 people
+461522;M;Yes;76;No;Executive;Cat_6;2.0;Over 53;2 people
+461564;M;Yes;56;Yes;Executive;Cat_6;2.0;Over 53;2 people
+461619;M;Yes;52;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+461626;M;Yes;73;Yes;Executive;Cat_6;2.0;Over 53;2 people
+461674;M;Yes;52;Yes;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+461683;M;Yes;40;Yes;Executive;Cat_6;4.0;Between 30 and 41;3 or 4 people
+461698;F;Yes;73;Yes;Artist;Cat_6;2.0;Over 53;2 people
+461708;M;Yes;82;No;Lawyer;Cat_6;2.0;Over 53;2 people
+461716;F;Yes;60;Yes;Lawyer;Cat_6;9.0;Over 53;5 or more people
+461747;M;Yes;65;Yes;Artist;Cat_6;2.0;Over 53;2 people
+461760;M;Yes;84;Yes;Artist;Cat_6;2.0;Over 53;2 people
+461775;F;Yes;82;No;Lawyer;Cat_6;2.0;Over 53;2 people
+461778;F;Yes;87;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+461782;F;Yes;51;Yes;Artist;Cat_6;5.0;Between 41 and 53;5 or more people
+461788;F;Yes;79;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+461822;M;Yes;36;Yes;Artist;Cat_6;2.0;Between 30 and 41;2 people
+461860;F;Yes;77;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+461872;F;Yes;76;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+461898;M;Yes;63;Yes;Executive;Cat_6;3.0;Over 53;3 or 4 people
+461936;M;Yes;69;No;Lawyer;Cat_6;2.0;Over 53;2 people
+462068;M;Yes;62;Yes;Executive;Cat_6;3.0;Over 53;3 or 4 people
+462103;F;Yes;49;No;Entertainment;Cat_6;2.0;Between 41 and 53;2 people
+462149;F;Yes;88;No;Lawyer;Cat_6;1.0;Over 53;1 person
+462168;M;Yes;35;Yes;Executive;Cat_6;3.0;Between 30 and 41;3 or 4 people
+462171;F;Yes;41;No;Engineer;Cat_6;2.0;Between 30 and 41;2 people
+462203;M;Yes;65;No;Executive;Cat_4;7.0;Over 53;5 or more people
+462232;M;Yes;55;No;Executive;Cat_4;8.0;Over 53;5 or more people
+462240;M;Yes;80;No;Lawyer;Cat_6;2.0;Over 53;2 people
+462246;F;Yes;79;No;Lawyer;Cat_6;2.0;Over 53;2 people
+462257;F;Yes;78;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+462306;M;Yes;83;No;Lawyer;Cat_6;2.0;Over 53;2 people
+462342;F;Yes;71;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+462365;M;Yes;85;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+462370;M;Yes;39;Yes;Executive;Cat_6;3.0;Between 30 and 41;3 or 4 people
+462381;F;Yes;48;No;Doctor;Cat_6;2.0;Between 41 and 53;2 people
+462382;M;Yes;71;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+462395;M;Yes;46;Yes;Artist;Cat_6;2.0;Between 41 and 53;2 people
+462423;M;Yes;66;No;Lawyer;Cat_6;3.0;Over 53;3 or 4 people
+462503;M;Yes;51;Yes;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+462517;F;Yes;39;Yes;Homemaker;Cat_6;4.0;Between 30 and 41;3 or 4 people
+462531;F;Yes;57;No;Homemaker;Cat_6;2.0;Over 53;2 people
+462538;F;Yes;73;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+462541;M;Yes;66;Yes;Engineer;Cat_6;2.0;Over 53;2 people
+462577;F;Yes;71;No;Marketing;Cat_4;2.0;Over 53;2 people
+462587;F;Yes;79;No;Lawyer;Cat_4;2.0;Over 53;2 people
+462611;M;Yes;41;No;Executive;Cat_4;7.0;Between 30 and 41;5 or more people
+462612;F;Yes;27;No;Doctor;Cat_4;6.0;Under 30;5 or more people
+462619;M;Yes;58;No;Unknown;Cat_4;2.0;Over 53;2 people
+462669;F;Yes;41;Yes;Entertainment;Cat_6;6.0;Between 30 and 41;5 or more people
+462696;M;Yes;49;No;Artist;Cat_6;2.0;Between 41 and 53;2 people
+462704;M;Yes;52;Yes;Executive;Cat_6;5.0;Between 41 and 53;5 or more people
+462727;F;Yes;87;No;Lawyer;Cat_6;2.0;Over 53;2 people
+462731;F;Yes;37;Yes;Artist;Cat_6;3.0;Between 30 and 41;3 or 4 people
+462762;M;Yes;46;Yes;Artist;Cat_6;4.0;Between 41 and 53;3 or 4 people
+462804;M;Yes;41;No;Executive;Cat_4;3.0;Between 30 and 41;3 or 4 people
+462810;M;Yes;37;No;Executive;Cat_6;4.0;Between 30 and 41;3 or 4 people
+462874;M;Yes;55;Yes;Doctor;Cat_6;2.0;Over 53;2 people
+462920;M;Yes;51;No;Executive;Cat_6;5.0;Between 41 and 53;5 or more people
+462944;M;Yes;42;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+462968;F;Yes;77;No;Lawyer;Cat_6;2.0;Over 53;2 people
+462983;F;Yes;72;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+462984;F;Yes;73;Yes;Artist;Cat_6;2.0;Over 53;2 people
+462992;F;Yes;57;Yes;Engineer;Cat_3;3.0;Over 53;3 or 4 people
+463030;M;Yes;52;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+463039;M;Yes;38;No;Executive;Cat_6;7.0;Between 30 and 41;5 or more people
+463040;M;Yes;83;No;Lawyer;Cat_6;2.0;Over 53;2 people
+463044;M;Yes;82;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+463088;F;Yes;84;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+463089;M;Yes;48;Yes;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+463108;M;Yes;63;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+463118;F;Yes;50;Yes;Doctor;Cat_6;3.0;Between 41 and 53;3 or 4 people
+463144;M;Yes;45;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+463148;M;Yes;62;Yes;Marketing;Cat_6;5.0;Over 53;5 or more people
+463156;F;Yes;83;No;Lawyer;Cat_6;2.0;Over 53;2 people
+463158;M;Yes;75;Yes;Executive;Cat_6;3.0;Over 53;3 or 4 people
+463171;F;Yes;39;No;Entertainment;Cat_3;3.0;Between 30 and 41;3 or 4 people
+463224;M;Yes;47;Yes;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+463292;M;Yes;41;No;Executive;Cat_6;3.0;Between 30 and 41;3 or 4 people
+463302;F;Yes;60;Yes;Engineer;Cat_6;4.0;Over 53;3 or 4 people
+463316;F;Yes;83;No;Lawyer;Cat_6;2.0;Over 53;2 people
+463368;F;Yes;38;Yes;Artist;Cat_2;3.0;Between 30 and 41;3 or 4 people
+463376;F;Yes;46;Yes;Executive;Cat_6;2.0;Between 41 and 53;2 people
+463404;M;Yes;27;No;Doctor;Cat_3;2.0;Under 30;2 people
+463420;F;Yes;59;Yes;Artist;Cat_6;3.0;Over 53;3 or 4 people
+463428;M;Yes;26;No;Executive;Cat_6;5.0;Under 30;5 or more people
+463444;M;Yes;59;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+463452;F;Yes;86;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+463483;M;Yes;30;No;Executive;Cat_6;2.0;Under 30;2 people
+463493;M;Yes;36;Yes;Executive;Cat_6;4.0;Between 30 and 41;3 or 4 people
+463500;M;Yes;35;Yes;Executive;Cat_6;4.0;Between 30 and 41;3 or 4 people
+463516;M;Yes;48;No;Executive;Cat_6;6.0;Between 41 and 53;5 or more people
+463528;M;Yes;70;No;Executive;Cat_6;2.0;Over 53;2 people
+463533;F;Yes;85;Yes;Artist;Cat_2;2.0;Over 53;2 people
+463619;M;Yes;68;No;Executive;Cat_6;2.0;Over 53;2 people
+463624;M;Yes;59;Yes;Executive;Cat_6;4.0;Over 53;3 or 4 people
+463669;F;Yes;26;Yes;Marketing;Cat_2;4.0;Under 30;3 or 4 people
+463703;M;Yes;69;No;Executive;Cat_6;4.0;Over 53;3 or 4 people
+463722;M;Yes;56;Yes;Executive;Cat_6;2.0;Over 53;2 people
+463741;M;Yes;37;Yes;Artist;Cat_6;3.0;Between 30 and 41;3 or 4 people
+463816;M;Yes;46;Yes;Healthcare;Cat_7;4.0;Between 41 and 53;3 or 4 people
+463842;F;Yes;50;Yes;Engineer;Cat_6;4.0;Between 41 and 53;3 or 4 people
+463857;M;Yes;61;No;Healthcare;Cat_7;4.0;Over 53;3 or 4 people
+463948;M;Yes;38;No;Executive;Cat_6;5.0;Between 30 and 41;5 or more people
+463963;F;Yes;25;No;Engineer;Cat_6;3.0;Under 30;3 or 4 people
+464016;F;Yes;29;Yes;Entertainment;Cat_1;1.0;Under 30;1 person
+464068;M;Yes;59;No;Executive;Cat_6;4.0;Over 53;3 or 4 people
+464071;M;Yes;87;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+464076;M;Yes;83;No;Lawyer;Cat_6;2.0;Over 53;2 people
+464089;F;Yes;39;Yes;Artist;;5.0;Between 30 and 41;5 or more people
+464110;M;Yes;63;Yes;Doctor;Cat_6;2.0;Over 53;2 people
+464137;F;Yes;87;No;Artist;Cat_7;2.0;Over 53;2 people
+464152;M;Yes;41;Yes;Artist;Cat_6;4.0;Between 30 and 41;3 or 4 people
+464162;M;Yes;86;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+464167;M;Yes;51;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+464169;M;Yes;83;No;Lawyer;Cat_6;2.0;Over 53;2 people
+464172;M;Yes;60;Yes;Artist;Cat_6;3.0;Over 53;3 or 4 people
+464180;F;Yes;74;No;Lawyer;Cat_6;2.0;Over 53;2 people
+464185;M;Yes;68;Yes;Artist;Cat_6;2.0;Over 53;2 people
+464204;F;Yes;40;Yes;Artist;Cat_5;2.0;Between 30 and 41;2 people
+464205;F;Yes;87;No;Entertainment;Cat_6;2.0;Over 53;2 people
+464216;M;Yes;52;Yes;Artist;Cat_6;3.0;Between 41 and 53;3 or 4 people
+464257;M;Yes;40;Yes;Entertainment;Cat_6;2.0;Between 30 and 41;2 people
+464276;F;Yes;66;No;Marketing;Cat_1;2.0;Over 53;2 people
+464308;F;Yes;84;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+464320;M;Yes;77;No;Lawyer;Cat_6;2.0;Over 53;2 people
+464332;M;Yes;74;No;Executive;Cat_6;2.0;Over 53;2 people
+464389;M;Yes;72;Yes;Artist;Cat_2;2.0;Over 53;2 people
+464436;M;Yes;83;Yes;Lawyer;Cat_4;2.0;Over 53;2 people
+464478;F;Yes;74;No;Lawyer;Cat_6;2.0;Over 53;2 people
+464481;M;Yes;53;Yes;Executive;Cat_6;3.0;Over 53;3 or 4 people
+464499;M;Yes;41;Yes;Executive;Cat_6;4.0;Between 30 and 41;3 or 4 people
+464528;M;Yes;46;Yes;Entertainment;Cat_2;4.0;Between 41 and 53;3 or 4 people
+464533;M;Yes;38;No;Executive;Cat_6;6.0;Between 30 and 41;5 or more people
+464555;M;Yes;32;Yes;Marketing;Cat_4;4.0;Between 30 and 41;3 or 4 people
+464566;M;Yes;40;Yes;Executive;Cat_6;4.0;Between 30 and 41;3 or 4 people
+464577;F;Yes;25;Yes;Healthcare;Cat_6;2.0;Under 30;2 people
+464620;F;Yes;40;Yes;Artist;Cat_6;2.0;Between 30 and 41;2 people
+464673;M;Yes;49;No;Executive;Cat_2;7.0;Between 41 and 53;5 or more people
+464726;M;Yes;28;Yes;Executive;Cat_4;9.0;Under 30;5 or more people
+464728;M;Yes;51;No;Entertainment;Cat_4;4.0;Between 41 and 53;3 or 4 people
+464755;M;Yes;49;Yes;Artist;Cat_6;2.0;Between 41 and 53;2 people
+464792;M;Yes;30;No;Marketing;Cat_4;5.0;Under 30;5 or more people
+464812;F;Yes;49;Yes;Engineer;Cat_4;5.0;Between 41 and 53;5 or more people
+464836;F;Yes;32;No;Engineer;Cat_4;5.0;Between 30 and 41;5 or more people
+464854;F;Yes;42;No;Engineer;Cat_4;6.0;Between 41 and 53;5 or more people
+464905;M;Yes;81;No;Executive;Cat_4;2.0;Over 53;2 people
+464915;M;Yes;39;Yes;Executive;Cat_4;4.0;Between 30 and 41;3 or 4 people
+464916;F;Yes;32;Yes;Doctor;Cat_4;2.0;Between 30 and 41;2 people
+464972;M;Yes;73;No;Lawyer;Cat_4;9.0;Over 53;5 or more people
+464987;M;Yes;46;Yes;Executive;Cat_6;5.0;Between 41 and 53;5 or more people
+464990;M;Yes;73;No;Executive;Cat_6;2.0;Over 53;2 people
+464991;F;Yes;87;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+464995;M;Yes;53;No;Executive;Cat_4;4.0;Over 53;3 or 4 people
+465001;M;Yes;84;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+465005;M;Yes;47;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+465012;M;Yes;59;No;Executive;Cat_6;4.0;Over 53;3 or 4 people
+465022;F;Yes;71;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+465032;M;Yes;67;Yes;Executive;Cat_6;2.0;Over 53;2 people
+465035;F;Yes;83;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+465038;M;Yes;49;No;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+465039;F;Yes;87;No;Lawyer;Cat_6;2.0;Over 53;2 people
+465056;M;Yes;87;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+465076;M;Yes;67;Yes;Artist;Cat_6;5.0;Over 53;5 or more people
+465092;M;Yes;72;Yes;Executive;Cat_6;2.0;Over 53;2 people
+465095;M;Yes;47;Yes;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+465100;M;Yes;62;Yes;Artist;Cat_6;2.0;Over 53;2 people
+465112;F;Yes;86;No;Lawyer;Cat_6;2.0;Over 53;2 people
+465113;M;Yes;67;Yes;Lawyer;Cat_4;2.0;Over 53;2 people
+465160;M;Yes;61;Yes;Executive;Cat_6;3.0;Over 53;3 or 4 people
+465171;F;Yes;48;Yes;Artist;Cat_6;4.0;Between 41 and 53;3 or 4 people
+465189;F;Yes;83;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+465197;F;Yes;60;Yes;Artist;Cat_6;4.0;Over 53;3 or 4 people
+465216;M;Yes;35;Yes;Executive;Cat_6;4.0;Between 30 and 41;3 or 4 people
+465228;M;Yes;59;Yes;Artist;Cat_6;2.0;Over 53;2 people
+465237;M;Yes;70;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+465289;M;Yes;31;Yes;Executive;Cat_6;2.0;Between 30 and 41;2 people
+465290;M;Yes;50;Yes;Executive;Cat_6;5.0;Between 41 and 53;5 or more people
+465296;F;Yes;85;Yes;Lawyer;Cat_6;3.0;Over 53;3 or 4 people
+465342;M;Yes;85;Yes;Executive;Cat_6;2.0;Over 53;2 people
+465344;F;Yes;72;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+465358;F;Yes;73;Yes;Artist;Cat_6;2.0;Over 53;2 people
+465384;M;Yes;56;Yes;Artist;Cat_6;2.0;Over 53;2 people
+465391;F;Yes;65;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+465405;F;Yes;26;Yes;Homemaker;Cat_2;4.0;Under 30;3 or 4 people
+465437;M;Yes;45;Yes;Executive;Cat_6;5.0;Between 41 and 53;5 or more people
+465458;F;Yes;74;Yes;Artist;Cat_6;2.0;Over 53;2 people
+465472;F;Yes;74;No;Entertainment;Cat_6;3.0;Over 53;3 or 4 people
+465510;M;Yes;67;No;Lawyer;Cat_6;2.0;Over 53;2 people
+465538;M;Yes;59;No;Unknown;Cat_6;2.0;Over 53;2 people
+465539;F;Yes;50;Yes;Artist;Cat_6;5.0;Between 41 and 53;5 or more people
+465555;F;Yes;69;No;Lawyer;Cat_4;2.0;Over 53;2 people
+465568;M;Yes;43;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+465569;M;Yes;36;Yes;Artist;Cat_6;3.0;Between 30 and 41;3 or 4 people
+465721;M;Yes;29;Yes;Entertainment;Cat_3;2.0;Under 30;2 people
+465831;M;Yes;42;No;Executive;Cat_4;5.0;Between 41 and 53;5 or more people
+465851;F;Yes;51;No;Artist;Cat_4;2.0;Between 41 and 53;2 people
+465867;F;Yes;40;Yes;Artist;Cat_6;5.0;Between 30 and 41;5 or more people
+465884;M;Yes;40;Yes;Executive;Cat_6;3.0;Between 30 and 41;3 or 4 people
+465974;M;Yes;45;Yes;Executive;Cat_4;4.0;Between 41 and 53;3 or 4 people
+466022;F;Yes;67;No;Engineer;Cat_7;3.0;Over 53;3 or 4 people
+466023;M;Yes;71;No;Executive;Cat_7;3.0;Over 53;3 or 4 people
+466069;F;Yes;48;Yes;Artist;;4.0;Between 41 and 53;3 or 4 people
+466138;M;Yes;70;No;Lawyer;Cat_6;2.0;Over 53;2 people
+466166;M;Yes;77;Yes;Lawyer;Cat_4;2.0;Over 53;2 people
+466208;M;Yes;69;No;Executive;Cat_6;1.0;Over 53;1 person
+466210;F;Yes;58;Yes;Artist;Cat_6;4.0;Over 53;3 or 4 people
+466292;F;Yes;79;No;Lawyer;Cat_6;2.0;Over 53;2 people
+466373;M;Yes;63;Yes;Executive;Cat_6;1.0;Over 53;1 person
+466376;F;Yes;52;No;Homemaker;Cat_6;3.0;Between 41 and 53;3 or 4 people
+466382;F;Yes;45;Yes;Engineer;Cat_4;2.0;Between 41 and 53;2 people
+466395;F;Yes;39;Yes;Doctor;Cat_4;2.0;Between 30 and 41;2 people
+466490;F;Yes;83;No;Lawyer;Cat_6;2.0;Over 53;2 people
+466493;M;Yes;77;No;Lawyer;Cat_6;2.0;Over 53;2 people
+466500;F;Yes;46;Yes;Artist;Cat_4;3.0;Between 41 and 53;3 or 4 people
+466538;M;Yes;84;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+466596;F;Yes;75;Yes;Artist;Cat_6;2.0;Over 53;2 people
+466656;M;Yes;79;Yes;Marketing;Cat_6;2.0;Over 53;2 people
+466713;F;Yes;68;Yes;Artist;Cat_6;4.0;Over 53;3 or 4 people
+466718;M;Yes;73;Yes;Executive;Cat_6;2.0;Over 53;2 people
+466725;F;Yes;76;No;Lawyer;Cat_6;2.0;Over 53;2 people
+466732;F;Yes;49;Yes;Engineer;Cat_4;2.0;Between 41 and 53;2 people
+466746;F;Yes;69;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+466816;M;Yes;82;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+466818;M;Yes;84;No;Executive;Cat_6;2.0;Over 53;2 people
+466871;M;Yes;36;Yes;Executive;Cat_6;4.0;Between 30 and 41;3 or 4 people
+466936;M;Yes;60;No;Lawyer;Cat_6;3.0;Over 53;3 or 4 people
+466939;M;Yes;73;No;Lawyer;Cat_6;2.0;Over 53;2 people
+466951;F;Yes;52;Yes;Artist;Cat_6;3.0;Between 41 and 53;3 or 4 people
+467058;M;Yes;80;No;Executive;Cat_6;2.0;Over 53;2 people
+467078;F;Yes;26;No;Healthcare;Cat_7;2.0;Under 30;2 people
+467116;M;Yes;65;Yes;Executive;Cat_6;2.0;Over 53;2 people
+467119;M;Yes;37;No;Marketing;Cat_7;4.0;Between 30 and 41;3 or 4 people
+467157;M;Yes;39;Yes;Executive;Cat_7;6.0;Between 30 and 41;5 or more people
+467159;F;Yes;37;Yes;Homemaker;Cat_6;2.0;Between 30 and 41;2 people
+467189;F;Yes;45;Yes;Artist;Cat_6;4.0;Between 41 and 53;3 or 4 people
+467208;F;Yes;41;Yes;Homemaker;Cat_6;2.0;Between 30 and 41;2 people
+467217;F;Yes;79;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+467311;M;Yes;71;Yes;Lawyer;Cat_6;3.0;Over 53;3 or 4 people
+467325;F;Yes;73;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+467352;M;Yes;45;Yes;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+467437;F;Yes;86;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+467456;M;Yes;42;No;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+467459;M;Yes;42;Yes;Executive;Cat_6;5.0;Between 41 and 53;5 or more people
+467472;M;Yes;60;Yes;Executive;Cat_6;4.0;Over 53;3 or 4 people
+467482;M;Yes;42;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+467493;M;Yes;47;Yes;Executive;;4.0;Between 41 and 53;3 or 4 people
+467500;F;Yes;25;Yes;Artist;Cat_6;2.0;Under 30;2 people
+467537;F;Yes;65;No;Lawyer;Cat_6;3.0;Over 53;3 or 4 people
+467623;M;Yes;77;Yes;Unknown;Cat_6;2.0;Over 53;2 people
+467654;F;Yes;62;Yes;Artist;Cat_6;4.0;Over 53;3 or 4 people
+467664;M;Yes;35;Yes;Executive;Cat_6;4.0;Between 30 and 41;3 or 4 people
+467666;M;Yes;48;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+467669;M;Yes;82;No;Lawyer;Cat_6;2.0;Over 53;2 people
+467673;M;Yes;45;No;Executive;Cat_6;4.0;Between 41 and 53;3 or 4 people
+467683;M;Yes;30;Yes;Healthcare;Cat_2;3.0;Under 30;3 or 4 people
+467685;M;Yes;51;No;Marketing;Cat_4;6.0;Between 41 and 53;5 or more people
+467693;M;Yes;59;Yes;Entertainment;Cat_6;5.0;Over 53;5 or more people
+467694;M;Yes;56;Yes;Executive;Cat_6;2.0;Over 53;2 people
+467707;M;Yes;89;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+467715;M;Yes;45;Yes;Executive;Cat_6;3.0;Between 41 and 53;3 or 4 people
+467726;M;Yes;82;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+467727;M;Yes;53;Yes;Artist;Cat_3;4.0;Over 53;3 or 4 people
+467728;F;Yes;43;No;Engineer;Cat_6;5.0;Between 41 and 53;5 or more people
+467733;M;Yes;56;No;Executive;Cat_6;3.0;Over 53;3 or 4 people
+467734;M;Yes;88;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+467802;F;Yes;48;Yes;Artist;Cat_6;5.0;Between 41 and 53;5 or more people
+467806;M;Yes;55;Yes;Artist;Cat_6;2.0;Over 53;2 people
+467864;F;Yes;66;Yes;Lawyer;Cat_6;2.0;Over 53;2 people
+467868;F;Yes;66;Yes;Entertainment;Cat_6;2.0;Over 53;2 people
+467876;F;Yes;50;Yes;Artist;Cat_6;2.0;Between 41 and 53;2 people
+467879;F;Yes;51;Yes;Artist;Cat_6;4.0;Between 41 and 53;3 or 4 people
+467905;M;Yes;37;Yes;Executive;Cat_6;3.0;Between 30 and 41;3 or 4 people
+467961;M;Yes;47;Yes;Executive;Cat_4;5.0;Between 41 and 53;5 or more people
